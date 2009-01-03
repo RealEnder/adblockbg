@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# The source code is distributed under GPLv3 license
 import sys
 import os.path
 import string
