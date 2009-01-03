@@ -47,10 +47,10 @@ if len(sys.argv) == 2:
                 rline = rline[0:rline.find('~')]
                 
             #check whitelists too
-            if rline[0:2] == '@@|':
-                rline = rline[3:len(rline)-3]
             if rline[0:1] == '@@':
                 rline = rline[2:len(rline)-2]
+            if rline[1] == '|':
+                rline = rline[1:len(rline)-1]
                 
             #check for protocol idents
             if rline[0:7].lower() == 'http://' or rline[0:8].lower() == 'https://':
