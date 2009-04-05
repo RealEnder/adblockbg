@@ -7,7 +7,7 @@ import urlparse
 import socket
 import urllib2
 
-print 'Check AdBlockPlus filters for outdated entries v 0.1 by Alex Stanev, http://stanev.org/abp'
+print 'Check AdBlockPlus filters for outdated entries v 0.2 by Alex Stanev, http://stanev.org/abp'
 
 if len(sys.argv) == 2:
     if os.path.exists(sys.argv[1]):
@@ -32,12 +32,6 @@ if len(sys.argv) == 2:
                 skip = skip + 1
                 continue
             
-            #check for short entries
-            if len(rline) <= 6:
-                short = short + 1
-                print curr,': Too short :',line,
-                continue
-            
             # remove #, $, ~ if present
             if rline.find('#') <> -1:
                 rline = rline[0:rline.find('#')]
@@ -45,7 +39,13 @@ if len(sys.argv) == 2:
                 rline = rline[0:rline.find('$')]
             if rline.find('~') <> -1:
                 rline = rline[0:rline.find('~')]
-                
+            
+            #check for short entries
+            if len(rline) < 4:
+                short = short + 1
+                print curr,': Too short :',line,
+                continue
+    
             #check whitelists too
             if rline[0:1] == '@@':
                 rline = rline[2:len(rline)-2]
