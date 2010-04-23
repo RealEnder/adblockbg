@@ -28,7 +28,6 @@ banners.friendfinder.com/
 /subs-ads/*
 i.dir.bg/r20*
 /728x90.swf
-medianet.bg/bans/
 AdsClick.php?AdsID=
 BannerClick.aspx?ID=
 ipo.bg/bannercache
@@ -55,8 +54,7 @@ vbox.bg/images/
 eventim.bg/root/upload/banner/
 plovdivlive.com/e107_images/banners/
 sasho.data.bg/
-dragonbg.com/300x250
-infobulgaria.info/images/banner
+infobulgaria.info/baners/*
 chambersz.com/im/nopic.swf
 subs.sab.bz/images/*banner
 transportbg.info/b
@@ -283,7 +281,6 @@ sliven-news.com#DIV(id=banner_wrap)
 cat.arenabg.com/assets/more/banner*
 cat.arenabg.com#IFRAME
 pari.bg/bannercache
-bglaf.org/banners
 izbori.biz/add/
 cross-bg.net//images/banners
 tvevropa.com/public/images/temp/banners/
@@ -313,7 +310,7 @@ bgimot.com/images/banners/
 imot.cc/images/banners
 bpost.bg/ads/
 zoomania.org/images/banners/
-sliven.biz/baner
+sliven.biz/baner*
 arenabg.com#IFRAME(src=iframe_emall.php)
 jarcomputers.com/banners
 obiavi-kj.info/modules/pagepeel_banner
@@ -384,3 +381,11 @@ mysite-bg.com##*#topbar
 nakino.eu##DIV#WPS_popup_message
 topsport.ibox.bg##DIV.sponsor-logo
 tv.club-bg.org##TABLE#topbar
+adds.svetu.com/banners/
+autopress.tv/banners/
+bgtop100.com/imgs/*ad*
+borbabg.com/reklama/*
+goldenpages.bg/banners
+lucrat.net/*Banner*.swf
+web.dobg.net/banners/
+webmoney.borsa.bg/BannerFactory.php5
