@@ -1,5 +1,6 @@
 [Adblock]
 ! This is bulgarian list hosted at http://stanev.org/abp
+! Contact me at alex at stanev dot org
 !
 !Expires after 1 days
 !
