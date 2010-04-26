@@ -390,3 +390,10 @@ goldenpages.bg/banners
 lucrat.net/*Banner*.swf
 web.dobg.net/banners/
 webmoney.borsa.bg/BannerFactory.php5
+*.rumblerace.com/pics/banner*
+kapilands.com/pics/banner*
+xenyoo1.com/pics/banner*
+bg.kapilands.eu/pics/*banner*
+kapilands.com/pics/xen_klein.jpg
+favorite-games.com/images/*/banners/*
+sms.flash4e.com/images/ban_*
