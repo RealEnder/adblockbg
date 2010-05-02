@@ -397,3 +397,12 @@ bg.kapilands.eu/pics/*banner*
 kapilands.com/pics/xen_klein.jpg
 favorite-games.com/images/*/banners/*
 sms.flash4e.com/images/ban_*
+bgpazar.com/banners/
+recaida.com/indexin/images/banners/
+startup-bg.com/images/baner
+static.pazaruvaj.com/bg/banners/
+1-gsm.com/images/banners/
+praseta.com##DIV.right_banner
+absurdi.com##DIV.right_banner
+subs.sab.bz##DIV#adv
+vevesti.com/images/banners/
