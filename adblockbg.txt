@@ -443,3 +443,9 @@ plaza-mp3.info##TABLE#topbar
 pro-dance.org##IFRAME[src="http://www.pro-dance.org/news/728x90banner.html"]
 sfilmi.com##DIV.popup
 websbg.net##DIV#dinabar
+bghelp.co.uk/banners/
+bghelp.net/banners/
+bgwebchart.com/mitko/baners/
+desant.net/banners/
+mikael7.com/files/banners/
+pcw.bg/main/images/banners/
