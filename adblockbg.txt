@@ -449,3 +449,15 @@ bgwebchart.com/mitko/baners/
 desant.net/banners/
 mikael7.com/files/banners/
 pcw.bg/main/images/banners/
+adwise.bg/search/
+bulgaria-info.uni-web.net/banners/
+dockera.com/adv/
+mobile.bg/images/picturess/bazar_bazar.swf
+mtel.bg/images/dots.swf
+news.idg.bg/images/blizoo/
+4uk4e.com##DIV.block.ads1.f1
+4uk4e.com##DIV.block.f1.calend
+4uk4e.com##DIV.foot-banners.clear
+mobile.bg#DIV(id=fixedBanner)
+mtel.bg##div[id^="banner_"]
+mtel.bg#DIV(id=splashFlash)
