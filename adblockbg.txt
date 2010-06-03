@@ -366,7 +366,6 @@ media.easyads.bg/ads/
 pari.bg##DIV.bannerbox
 bgrabotodatel.com##TD[style="padding-bottom: 6px;"]
 frognews.bg##EMBED#AdvSvf
-dnes.bg##DIV#quad_ad_0
 bmwpower-bg.net/banners
 mysite-bg.com/ad_hed1.php
 mysite-bg.com/banners
@@ -461,3 +460,6 @@ news.idg.bg/images/blizoo/
 mobile.bg#DIV(id=fixedBanner)
 mtel.bg##div[id^="banner_"]
 mtel.bg#DIV(id=splashFlash)
+programata.bg/img/zagorka*.jpg
+||adpower.bg^$third-party
+flexi-cms.com/images/banners/
