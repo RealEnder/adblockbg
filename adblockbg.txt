@@ -463,3 +463,5 @@ mtel.bg#DIV(id=splashFlash)
 programata.bg/img/zagorka*.jpg
 ||adpower.bg^$third-party
 flexi-cms.com/images/banners/
+img.abv.bg/abvhome/middle/wc2010middle_f.html
+||abv.bg/app/j/banner_om_below.jsp
