@@ -316,7 +316,6 @@ arenabg.com#IFRAME(src=iframe_emall.php)
 jarcomputers.com/banners
 obiavi-kj.info/modules/pagepeel_banner
 fcolor.bg/images/banners/
-dcvcdtv.com/banners/
 proekti.bg/adv/
 fashion.bg/links/
 hardwarebg.com##DIV.iskampc
@@ -367,8 +366,6 @@ pari.bg##DIV.bannerbox
 bgrabotodatel.com##TD[style="padding-bottom: 6px;"]
 frognews.bg##EMBED#AdvSvf
 bmwpower-bg.net/banners
-mysite-bg.com/ad_hed1.php
-mysite-bg.com/banners
 ndk.bg/ads/
 newbusiness.bg/banners/
 online-televizia.net/images/banners/
@@ -377,7 +374,6 @@ vestnika.com/flash/banner*
 arenabg.com##IFRAME[style="background-color: rgb(31, 31, 31);"]
 arenabg.com##TR[style="height: 185px;"]
 gledai.be##DIV#colorbox
-mysite-bg.com##*#topbar
 nakino.eu##DIV#WPS_popup_message
 topsport.ibox.bg##DIV.sponsor-logo
 tv.club-bg.org##TABLE#topbar
@@ -396,7 +392,6 @@ bg.kapilands.eu/pics/*banner*
 kapilands.com/pics/xen_klein.jpg
 favorite-games.com/images/*/banners/*
 sms.flash4e.com/images/ban_*
-bgpazar.com/banners/
 recaida.com/indexin/images/banners/
 startup-bg.com/images/baner
 static.pazaruvaj.com/bg/banners/
@@ -407,13 +402,11 @@ subs.sab.bz##DIV#adv
 vevesti.com/images/banners/
 77animals.info/images/
 bgtelevizia.com/adds/
-fan-music.net/img/adv
 film4eta.com/data/images/adv/
 journey.bg/ads/
 managerteams.com/include/fan_mp3.swf
 music-bg.info/images/radio.gif
 muzichka.eu/baners
-myonvideo.com/ad_hed1.php
 nani-na.biz/images/banners
 pisnami.net/images/banners/
 plaza-mp3.info/images/bgtop2ke0.gif
@@ -465,3 +458,9 @@ programata.bg/img/zagorka*.jpg
 flexi-cms.com/images/banners/
 img.abv.bg/abvhome/middle/wc2010middle_f.html
 ||abv.bg/app/j/banner_om_below.jsp
+winner.bg/arena.php
+img.abv.bg##DIV#wc2010
+clip4e.net/img/264x60*
+image.arukereso.hu/partner/
+||bgpazar.com/images/banner*
+||bgpazar.com/logo/ok/250*
