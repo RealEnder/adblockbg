@@ -464,3 +464,8 @@ clip4e.net/img/264x60*
 image.arukereso.hu/partner/
 ||bgpazar.com/images/banner*
 ||bgpazar.com/logo/ok/250*
+azcheta.com/images/banners
+economynews.bg/website_uploads/Image/theme/euro_atak/
+learnfree.eu/wp-content/uploads/banners/
+##DIV#ea_intext_div
+sinoptik.bg##A.ecoHomeWeber
