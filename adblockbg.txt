@@ -469,3 +469,5 @@ economynews.bg/website_uploads/Image/theme/euro_atak/
 learnfree.eu/wp-content/uploads/banners/
 ##DIV#ea_intext_div
 sinoptik.bg##A.ecoHomeWeber
+gbg.bg/resources/html/aukro_*
+dnevnik.bg##DIV#doubletrouble
