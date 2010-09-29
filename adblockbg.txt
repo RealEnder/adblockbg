@@ -53,7 +53,6 @@ bacchus.bg/img/baner_*.jpg
 pro-rock.net/images/flashframes/
 vbox.bg/images/
 eventim.bg/root/upload/banner/
-plovdivlive.com/e107_images/banners/
 sasho.data.bg/
 infobulgaria.info/baners/*
 chambersz.com/im/nopic.swf
@@ -165,7 +164,6 @@ mail.bg/ads/
 ad.investor.bg/
 storage.netinfo.bg/Banners/
 i.wisdom.bg/adv/
-namerimi.com/banners/
 mobilebulgaria.com/uploads/banners/
 bourgas.org/flash/
 adv.gepime.com
@@ -232,7 +230,6 @@ gorgonbg.org/images/banners/
 proamsports.bg/img/adv/
 ouim.org/upload/banners/
 data.bg/media/*banner*
-hicomm.bg/banners
 e-vestnik.bg/img/banners/
 gorgonbg.org#TABLE(id=Table_06)
 ticketpro.bg#DIV(id=baners_top)
@@ -484,3 +481,18 @@ ineahost.com/banners/
 mvmads.com/show-ads.php
 pics.freeiz.com/baner
 top-guns.info/images/banners/
+i-kat.org/images/banners
+pa-media.net/banner
+pa-media.net/images/banners
+pa-media.net/images/powered
+pa-media.net/new/images/powered
+pa-media.net/new/themes/NukeNews/images/hig*.swf
+plovdiv-online.com/images/banners
+sedmica.sliven.net/img/160x200
+sedmica.sliven.net/img/170x120
+snews.bg/img/banners/
+speshno.info/banners/
+store.bg/ads/
+varna-sport.com/a-d-s/
+void.clip4e.com/banners/
+slivenbg.net/news/images/banners/
