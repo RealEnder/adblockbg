@@ -496,3 +496,11 @@ store.bg/ads/
 varna-sport.com/a-d-s/
 void.clip4e.com/banners/
 slivenbg.net/news/images/banners/
+econ.bg/content/tmp_banner/
+podlupa.bg/UserFiles/Flash/baner/
+podtepeto.com/reklama/
+slivenbg.net/news/images/banners/
+||1evro.com/show_i.php?b=
+||subsunacs.net/skladbg.*
+||subsunacs.net/tvds*
+pressboard.info##.banner
