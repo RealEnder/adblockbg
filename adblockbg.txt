@@ -504,3 +504,11 @@ slivenbg.net/news/images/banners/
 ||subsunacs.net/skladbg.*
 ||subsunacs.net/tvds*
 pressboard.info##.banner
+||360.bg/baner*
+||afera.bg/banner
+||index.bg/ads/
+||investor.bg/brandings
+||subsunacs.net/banner*
+||vestnikataka.bg/bannerLogo/
+antenneair.com###topbanner
+vnews.bg##.banner
