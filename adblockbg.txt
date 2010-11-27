@@ -59,7 +59,6 @@ chambersz.com/im/nopic.swf
 subs.sab.bz/images/*banner
 transportbg.info/b
 bulwork.net/banner
-mycv.bg/reklaam/
 nessebar-news.com/news/images/*baner
 rezervaciq.com/img/banners
 kazanlak-bg.info/Baneri
@@ -110,7 +109,6 @@ auto-press.net/img/top_banner/
 weather.bg/i/reklama.gif
 sexwell.bg/maneri/
 pressboard.info//common/RetriveImage.aspx?ImageID=
-slivenbg.net/images/banners/
 r.dir.bg
 farmer.bg/*banners/
 dar.bg/images/*banner
@@ -150,7 +148,6 @@ www.mit.bg/*banner
 haskovo.net/adv/
 bg.search.etargetnet.com/generic/
 cenite.com/srennab/
-burgasinfo.com/banners/
 img.abv.bg/AbvProductAds/
 abv.bg/pn.js
 abv.bg/aukro_utf.js
@@ -200,14 +197,12 @@ business.bg#TABLE(width=220)(bgcolor=#ffffff)
 kaldata.com#DIV(id=header2)
 kaldata.com#DIV(class=dating)
 spesti.bg#DIV(class=adv)
-@@img.energy-torrent.com/baners/logo*
 bulphoto.com/banners/
 novinar.net/banners/
 media.karamel4e.com/media/banners/
 monitor.bg/ad/
 t.alein.org/images/banners/
 interface-soft.com/BannerSitesFiles/
-img.energy-torrent.com/baners/
 animes-bg.com#DIV(class=banneritem_text)
 bgweb.tv/images/Banner*
 preszona.com///img/BANNERS/
@@ -469,7 +464,7 @@ sinoptik.bg##A.ecoHomeWeber
 gbg.bg/resources/html/aukro_*
 dnevnik.bg##DIV#doubletrouble
 climbingguidebg.com/adv/
-kvasilev.com/image/srebro.swf
+kvasilev.com/images/srebro.swf
 megashop.bg/techno/images/banners
 megashop.bg/vaucher.swf
 bglady.net/banners/
@@ -511,3 +506,13 @@ pressboard.info##.banner
 ||vestnikataka.bg/bannerLogo/
 antenneair.com###topbanner
 vnews.bg##.banner
+||cars.bg/images/px.gif
+||i.cars.bg/images/branding/
+||pressclub.bg/ads
+||burgasnews.com//images/banners/*
+sliven-news.com##.users_wrap
+bg-zone.net##.adv_box_kv_left
+bg-zone.net##.adv_box_kv_right
+||my-shop.biz/flash/big/banner*
+||pa-media.net/new/themes/NukeNews/images/metalika_top.swf
+||pa-media.net/yavork*
