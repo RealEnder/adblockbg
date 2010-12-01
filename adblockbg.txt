@@ -516,3 +516,4 @@ bg-zone.net##.adv_box_kv_right
 ||my-shop.biz/flash/big/banner*
 ||pa-media.net/new/themes/NukeNews/images/metalika_top.swf
 ||pa-media.net/yavork*
+||hrisimirpopov.com/images/banners
