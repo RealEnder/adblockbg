@@ -63,6 +63,7 @@ com.nxtras.banner.ImageRotator
 ||arenabg.com/iframe_easy.php
 ||arenabg.com/images/noposter.jpeg
 ||astrohoroscope.info/reklama/
+||aukro.bg/ap/ap_show.php?
 ||autohop.bg/images/Banner
 ||auto-press.net/img/top_banner/
 ||autopress.tv/banners/
@@ -77,6 +78,7 @@ com.nxtras.banner.ImageRotator
 ||bansko.net/files/banner/
 ||barometar.net/images/galery/
 ||barterbg.net/images/barterbg_300_250.gif
+||b.dnevnik.bg/getban.php?
 ||beroe.eu/images/reklama/
 ||bet.bg/images/banners/
 ||bezvazelin.net/e107_images/banners/
@@ -102,6 +104,7 @@ com.nxtras.banner.ImageRotator
 ||bgtelevizia.com/adds/
 ||bgtop100.com/imgs/*ad
 ||bgtree.net/sm_templates/medicalizer.swf
+||bgvolleyball.com/banner/
 ||bgwebchart.com/mitko/baners/
 ||bgweb.tv/images/Banner
 ||bgzona.info/pic/neww/
@@ -124,6 +127,7 @@ com.nxtras.banner.ImageRotator
 ||bulphoto.com/banners/
 ||bulwork.net/banner
 ||burgasnews.com//images/banners/
+||business.bg/site_files/d-sitebanners/
 ||cars.bg/images/px.gif
 ||catalog.bg/images/banner
 ||cat.arenabg.com/assets/more/banner
@@ -149,6 +153,7 @@ com.nxtras.banner.ImageRotator
 ||devabroadcast.com/banner.php
 ||devastyle.com/deva/images/banners/
 ||dimisoft.net/infusions/banner
+||djbs.club-bg.org/images/banner
 ||dobrutro.com/i/portal/banner
 ||dobrutro.com/i/portal/top
 ||dockera.com/adv/
@@ -165,6 +170,7 @@ com.nxtras.banner.ImageRotator
 ||e-vestnik.bg/img/banners/
 ||express.bg/banner
 ||ex-traffic.com/show_ads.js
+||fapturbo.com/banners/
 ||farmer.bg/*banners/
 ||fashion.bg/links/
 ||favorite-games.com/images/*/banners/
@@ -181,6 +187,8 @@ com.nxtras.banner.ImageRotator
 ||freehost.homelinux.*/autoh/
 ||freehost.homelinux.*/fg/
 ||freehost.homelinux.*/zundert
+||freepicsupload.com/pics/phprjRjAU-tic10.gif
+||frognews.bg/files/banner
 ||frognews.bg/Frog/images/banners/
 ||frognews.bg/Frog/images/flash/
 ||funbg.net/e107_images/banners/
@@ -188,6 +196,7 @@ com.nxtras.banner.ImageRotator
 ||get.bg/catalog/affiliate_show_banner.php?ref=
 ||ggbit.info/sklad/baners/
 ||gis-sofia.bg/uploads/image/gis_banner
+||gledam.net/baner
 ||goldenpages.bg/banners
 ||gorgonbg.org/images/banners/
 ||hardwarebg.com/ads/
@@ -198,22 +207,29 @@ com.nxtras.banner.ImageRotator
 ||hotmail.bg/img/b*.gif
 ||hrisimirpopov.com/images/banners
 ||i2.wisdom.bg/adv
+||i55.tinypic.com/2zqat89.gif
 ||i.cars.bg/images/branding/
 ||i.dir.bg/ads2006/
 ||i.dir.bg/r20
+||i.frognews.bg/images/adv/
 ||i.frognews.bg/images/banners/
+||i.frognews.bg/images/stories/sunnybeachblue.gif
+||i.grabo.bg/banners/
 ||i-kat.org/images/banners
 ||image.arukereso.hu/partner/
 ||imagesfrombulgaria.com/baners/
+||images.onbux.com/banner.gif
 ||images.pop.bg/content/banner/
 ||imenata.com/flash/
 ||img.abv.bg/abvhome/middle/wc2010middle_f.html
 ||img.abv.bg/AbvProductAds/
+||img.frognews.bg/bulgariatourism.png
 ||img.sedem.bg/banners/
 ||imot.bg/html/hotimoti1.html
 ||imot.cc/images/banners
 ||imoti.bg/*125x125
 ||imoti.bg/baners/
+||impulsemp3.com/cinema-today.gif
 ||index.bg/ads/
 ||index.bg/banners/
 ||ineahost.com/banners/
@@ -263,9 +279,12 @@ com.nxtras.banner.ImageRotator
 ||monitor.bg/ad/
 ||montana-dnes.com/baners/
 ||mtel.bg/images/dots.swf
+||music-bg.info/images/dodosphoto.gif
+||music-bg.info/images/others/kozmu.gif
 ||music-bg.info/images/radio.gif
 ||muzi4ka.com/sponsor/
 ||muzichka.eu/baners
+||muzichka.eu/style/banners/
 ||mvmads.com/publisher-show-ads.php
 ||mvmads.com/show-ads.php
 ||my-shop.biz/flash/big/banner
@@ -315,11 +334,14 @@ com.nxtras.banner.ImageRotator
 ||pokerstars.com/bnrs/
 ||politika.bg/ad/
 ||praseta.com/files/banner
+||praseta.com/img/prodavam.gif
 ||pr-bg.com/banners
 ||pr-bg.com/images/banners/
 ||predpriemach.com/b/
 ||pressclub.bg/ads
 ||preszona.com///img/BANNERS/
+||prikachi.com/images/328/2637328U.png
+||prikachi.com/images/612/2208612s.png
 ||proamsports.bg/img/adv/
 ||proekti.bg/adv/
 ||programata.bg/img/zagorka*.jpg
@@ -354,6 +376,8 @@ com.nxtras.banner.ImageRotator
 ||slivenbg.net/news/images/banners/
 ||sliven.biz/baner
 ||sliven.net/adv/
+||sliven-news.com/images/stories/biznespredstavqne/city_net_270x90px.jpg
+||sliven-news.com/images/stories/slujebni/
 ||sms-bg.com/b/
 ||sms.flash4e.com/images/ban_
 ||snews.bg/img/banners/
@@ -369,6 +393,7 @@ com.nxtras.banner.ImageRotator
 ||static.pazaruvaj.com/bg/banners/
 ||storage.netinfo.bg/Banners/
 ||store.bg/ads/
+||store.picbg.net/pubpic/D3/75/16a587896593d375.PNG
 ||subs.sab.bz/images/BANER.jpg
 ||subs.sab.bz/images/*banner
 ||subs.sab.bz/images/lev_ok.gif
@@ -384,6 +409,7 @@ com.nxtras.banner.ImageRotator
 ||teniski.be/images/shops*
 ||teniski.be/pix/
 ||therating.net/themes/kosmos/images/banners/
+||the-street.hit.bg/banners
 ||top-guns.info/images/banners/
 ||top-oferta.com/img/banner
 ||transportbg.info/b
@@ -399,6 +425,10 @@ com.nxtras.banner.ImageRotator
 ||vestnika.com/flash/banner
 ||vestnikataka.bg/bannerLogo/
 ||vevesti.com/images/banners/
+||v-maps.com/banner.jpg
+||vnews.bg/wp-content/themes/vnews/images/banner
+||vnews.bg/wp-content/themes/vnews/images/finalflat2.jpg
+||vnews.bg/wp-content/themes/vnews/images/vik-varna-banner.jpg
 ||void.clip4e.com/banners/
 ||vratza.com/banners/
 ||vsekiden.com/BANNERS/
@@ -423,22 +453,22 @@ com.nxtras.banner.ImageRotator
 4uk4e.com##.block.ads1.f1
 4uk4e.com##.block.f1.calend
 4uk4e.com##.foot-banners.clear
-absurdi.com##.right_banner
 absurdi.com##div[style="padding: 0 0 5px 0;"]
+absurdi.com##.right_banner
 abv.bg###aukcion
 abv.bg##iframe[src="/app/j/banner.jsp"]
 afera.bg##div[align="center"]
-animes-bg.com###banneritem_text
+animes-bg.com##.banneritem_text
 antenneair.com###topbanner
 arenabg.com##div[style="border: 1px solid rgb(255, 255, 255); overflow: auto; background-color: rgb(34, 34, 34); width: 728px; height: 110px;"]
 arenabg.com##iframe[src="iframe_emall.php"]
 arenabg.com##iframe[style="background-color: rgb(31, 31, 31);"]
 arenabg.com##tr[style="height: 185px;"]
 bg69.com###lenta
-bgrabotodatel.com###RAD
+bgrabotodatel.com##.RAD
 bgrabotodatel.com##td[style="padding-bottom: 6px;"]
 bgsimsonimz.forumotion.net###login_popup
-bg.static.etargetnet.com###etarget
+bg.static.etargetnet.com##.etarget
 bg-tv.net###topbar
 bg-zone.net##.adv_box_kv_left
 bg-zone.net##.adv_box_kv_right
@@ -448,51 +478,34 @@ cat.arenabg.com##iframe
 conquiztador.bg###BANNER
 conquiztador.bg##td[valign="middle"][align="center"][style="border: 1px solid rgb(85, 85, 85); width: 340px; height: 280px;"]
 data.bg###bannertop_72890
-dnes.dir.bg###flashid_danone
-dnevnik.bg###doubletrouble
-dnevnik.bg###paidAdvert
-econ.bg###adv
+dnevnik.bg##.paidAdvert
+econ.bg##.adv
 expert.bg##iframe[style="border: medium none ; margin: 0pt; padding: 0pt; overflow: hidden; width: 300px; height: 250px; border-collapse: collapse;"]
-fan-music.net###broadcastbox
 film4eta.com###topbar
 filmi-bg.eu###broadcastbox
 flash-igri.com##.box-pink
 forum.arenabg.com##.sp_block_padding.windowbg
-frognews.bg###AdvSvf
-fun.plazmatechbg.com###myID
+frognews.bg##div[style="padding-bottom:15px;"]
 gbg.bg###hotOffBg
-gledai.be###colorbox
 gorgonbg.org##table[id="Table_06"]
-gradski.bg###topBanner
-hardwarebg.com##.iskampc
 hi7s.com###bgtp
-hicomm.bg###head_ban
-igri-s-koli.bezplatno.info###swfobj_0
-img.abv.bg###wc2010
-izbori.biz###widget widget_myadmanager
-kadedaucha.com###header_banner1
-kaldata.com###dating
-kaldata.com###header2
 kaspyr.com###topbar
 lesno-fakturirane.com##td[class="left_fon"]
 managerteams.com###footer_inner_wrapper
 media.easyads.bg##.easy_ads_main
-mobile.bg###fixedBanner
-mp3-label.info###watermarklogo
-mp3-label.info###xrightcol
 mp3-muzika.eu###topbar
 mtel.bg##div[id^="banner_"]
 mtel.bg###splashFlash
+music-bg.info##.menubrdreklama
 music-bg.info###showimage
 muzichka.eu###showimage
 muzichka.eu##.smsbaner
 myonvideo.com###topbar
 nakino.eu###WPS_popup_message
-news.ibox.bg###divl1
-news.ibox.bg###GoogleAdSense
-news.ibox.bg###nws-commercial-column
+news.ibox.bg##.nws-commercial-column
 pari.bg##.bannerbox
 pari-ot-internet-bg.com###login_popup_content
+pari-ot-internet-bg.com##.module.borderwrap
 plaza-mp3.info###topbar
 praseta.com##.right_banner
 pressboard.info##.banner
@@ -500,10 +513,11 @@ pro-dance.org##iframe[src="http://www.pro-dance.org/news/728x90banner.html"]
 programata.bg###banner_right
 programata.bg###banner_top
 sfilmi.com##.popup
+sinoptik.bg##.astralBlock
 sinoptik.bg##.ecoHomeWeber
 sliven-news.com###banner_wrap
 sliven-news.com##.users_wrap
-spesti.bg###adv
+spesti.bg##.adv
 subs.sab.bz###adv
 svejo.net###hot_offers
 ticketpro.bg###baners_top
