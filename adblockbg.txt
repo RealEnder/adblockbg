@@ -1,4 +1,4 @@
-[Adblock]
+[Adblock Plus 1.1]
 ! This is bulgarian list hosted at http://stanev.org/abp
 ! Contact me at alex at stanev dot org
 !
