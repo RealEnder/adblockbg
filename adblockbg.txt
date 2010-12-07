@@ -8,18 +8,17 @@
 /728x90.swf
 AdsClick.php?AdsID=
 BannerClick.aspx?ID=
-/bannerscstm/
+/bannerscstm/*
 /banners/*.jpg$~background
 ||b.*/ban/
 /catalog/images/baner*.gif
 /cgi-bin/banner.cgi
 com.nxtras.banner.ImageRotator
-/design/images/banner/
+/design/images/banner/*
 ?go=_common&p=banner&bannerId=
 /images/banner.gif
 /mambo/images/banners
-/subs-ads/
-/tpbanners/
+/tpbanners/*
 !
 !--- General element hiding rules ---!
 ###ea_intext_div
