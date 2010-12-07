@@ -135,6 +135,7 @@ com.nxtras.banner.ImageRotator
 ||clickbg.eblahfree.com/blahdocs/images/forum_banner
 ||climbingguidebg.com/adv/
 ||clip4e.net/img/264x60
+||club-bg.org/images/banner
 ||computers.bg/120x460.
 ||conquiztador.bg/banner/
 ||conquiztador.bg/bgbanners/
