@@ -418,6 +418,7 @@ com.nxtras.banner.ImageRotator
 ||unisoft-bg.com/showimage.php
 ||uroci.net/images/export/baners
 ||varna-sport.com/a-d-s/
+||vbox7.com/design/contests/aukro/
 ||vbox.bg/banners/
 ||vbox.bg/htdocs/images/default/728x90
 ||vbox.bg/images/
