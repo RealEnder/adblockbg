@@ -366,6 +366,11 @@ com.nxtras.banner.ImageRotator
 ||search.data.bg/*banner
 ||sedmica.sliven.net/img/160x200
 ||sedmica.sliven.net/img/170x120
+||sedmica.sliven.net/img/180x45_alanni.gif
+||sedmica.sliven.net/img/anhialo.jpg
+||sedmica.sliven.net/img/boliarka.jpg
+||sedmica.sliven.net/img/encho_karakashev.jpg
+||sedmica.sliven.net/img/evgeni.jpg
 ||segabg.com/a/
 ||setcom.bg/dv/
 ||sexwell.bg/maneri/
@@ -513,6 +518,7 @@ pressboard.info##.banner
 pro-dance.org##iframe[src="http://www.pro-dance.org/news/728x90banner.html"]
 programata.bg###banner_right
 programata.bg###banner_top
+sedmica.sliven.net###right
 sfilmi.com##.popup
 sinoptik.bg##.astralBlock
 sinoptik.bg##.ecoHomeWeber
