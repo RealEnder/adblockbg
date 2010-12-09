@@ -527,3 +527,7 @@ vesti.bg###banner1
 vesti.bg###topBannerBlock
 vnews.bg##.banner
 websbg.net###dinabar
+!
+!--- Whitelist rules ---!
+@@||e2.emediate.se/crossdomain.xml
+@@||e2.emediate.se/eas$match-case,domain=play.novatv.bg
