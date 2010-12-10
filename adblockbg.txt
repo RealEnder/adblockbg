@@ -447,6 +447,7 @@ com.nxtras.banner.ImageRotator
 ||wrzru.com/web_im/*.swf
 ||xenyoo1.com/pics/banner
 ||yambolnews.net/images/stories/adv/
+||yes.bg/ads/
 ||zadoma.com/res/standard/img/baneri
 ||zapernik.com/baneri
 ||zarta.org/banners/
