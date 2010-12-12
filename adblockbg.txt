@@ -149,6 +149,7 @@ com.nxtras.banner.ImageRotator
 ||dar.bg/images/*banner
 ||data.bg/data*.swf
 ||data.bg/media/*banner
+||dedo.bg/banners/
 ||desant.net/banners/
 ||devabroadcast.com/banner.php
 ||devastyle.com/deva/images/banners/
