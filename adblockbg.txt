@@ -54,6 +54,7 @@ com.nxtras.banner.ImageRotator
 ||adwise.bg/search/
 ||afera.bg/banner
 ||afera.bg/images/banners/
+||alabala.bg/media/banners/
 ||amam.bg/a-d-s/
 ||amam.bg/bans/
 ||animes-bg.com/reklama/
@@ -95,6 +96,7 @@ com.nxtras.banner.ImageRotator
 ||bgmaps.com/images/staticfield/634x20.jpg
 ||bgnes.com/img/bann/
 ||bgnes.com/rekl/
+||bgpazar.com/banners/
 ||bgpazar.com/images/banner
 ||bgpazar.com/logo/ok/250
 ||bgrabotodatel.com/images/Banner
@@ -204,10 +206,13 @@ com.nxtras.banner.ImageRotator
 ||haskovo.net/adv/
 ||haskovo.net/banners
 ||haskovo.net/include/banners/
+||hide-my-ip.com/promo/
 ||hls-bg.com/hls186x56.gif
+||hotfile.com/i/*baner
 ||hotmail.bg/img/b*.gif
 ||hrisimirpopov.com/images/banners
 ||i2.wisdom.bg/adv
+||i47.vbox7.com/design/adwise/
 ||i55.tinypic.com/2zqat89.gif
 ||i.cars.bg/images/branding/
 ||i.dir.bg/ads2006/
@@ -253,6 +258,7 @@ com.nxtras.banner.ImageRotator
 ||kazanlak-bg.info/images/banner
 ||klassa.bg/images/banners/
 ||komentari.com/images/banners
+||kurier.bg/files/banners/
 ||kvasilev.com/images/srebro.swf
 ||learnfree.eu/wp-content/uploads/banners/
 ||liternet.bg/image/baner/
@@ -358,6 +364,8 @@ com.nxtras.banner.ImageRotator
 ||refreshbg.com/refreshbg*.swf
 ||reklamnamreja.com/click.php?id=
 ||rem.rezonmedia.eu/images/
+||renault-bg.com/smf/bn/
+||renault-bg.com/smf/bnn
 ||retv.bg/loader/loader.swf
 ||rezervaciq.com/img/banners
 ||rp-mobil.com/images/b/
@@ -424,6 +432,7 @@ com.nxtras.banner.ImageRotator
 ||unisoft-bg.com/showimage.php
 ||uroci.net/images/export/baners
 ||varna-sport.com/a-d-s/
+||vbox7.com/adwise/
 ||vbox7.com/design/contests/aukro/
 ||vbox.bg/banners/
 ||vbox.bg/htdocs/images/default/728x90
@@ -468,6 +477,7 @@ abv.bg##iframe[src="/app/j/banner.jsp"]
 afera.bg##div[align="center"]
 animes-bg.com##.banneritem_text
 antenneair.com###topbanner
+arenabg.com##div[id="grabodeals"]
 arenabg.com##div[style="border: 1px solid rgb(255, 255, 255); overflow: auto; background-color: rgb(34, 34, 34); width: 728px; height: 110px;"]
 arenabg.com##iframe[src="iframe_emall.php"]
 arenabg.com##iframe[style="background-color: rgb(31, 31, 31);"]
