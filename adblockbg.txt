@@ -165,6 +165,9 @@ com.nxtras.banner.ImageRotator
 ||dreamwave-chan.hit.bg/bulsis.gif
 ||dtrailer.com/arenabg
 ||dzhebel.com/images/*adv.gif
+||e-79.com/MyUpload/dinatstroi.swf
+||e-79.com/MyUpload/reklama*
+||e-79.com/MyUpload/senter_analiz1.swf
 ||easytrader.bg/banner.php
 ||econ.bg/content/tmp_banner/
 ||economynews.bg/website_uploads/Image/theme/euro_atak/
@@ -401,10 +404,12 @@ com.nxtras.banner.ImageRotator
 ||speshno.info/banners/
 ||spesti.bg/images/ban
 ||spesti.bg/images/bnr
+||sportal.bg/brand_images/
 ||starfm.bg/banners/
 ||startup-bg.com/images/baner
 ||static.easytrader.bg/v2/banners/
 ||static.pazaruvaj.com/bg/banners/
+||static.sport-vt.com/dsk_cba_392x72nl.swf
 ||storage.netinfo.bg/Banners/
 ||store.bg/ads/
 ||store.picbg.net/pubpic/D3/75/16a587896593d375.PNG
@@ -441,6 +446,7 @@ com.nxtras.banner.ImageRotator
 ||vestnika.com/flash/banner
 ||vestnikataka.bg/bannerLogo/
 ||vevesti.com/images/banners/
+||vinpromtaskov.com/banner
 ||v-maps.com/banner.jpg
 ||vnews.bg/wp-content/themes/vnews/images/banner
 ||vnews.bg/wp-content/themes/vnews/images/finalflat2.jpg
@@ -521,6 +527,7 @@ muzichka.eu##.smsbaner
 myonvideo.com###topbar
 nakino.eu###WPS_popup_message
 news.ibox.bg##.nws-commercial-column
+~noshtuvki.burkan.info###adbody
 pari.bg##.bannerbox
 pari-ot-internet-bg.com###login_popup_content
 pari-ot-internet-bg.com##.module.borderwrap
@@ -545,6 +552,7 @@ tv.club-bg.org###topbar
 vesti.bg###banner1
 vesti.bg###topBannerBlock
 vnews.bg##.banner
+vplay7.com###topbar
 websbg.net###dinabar
 !
 !--- Whitelist rules ---!
