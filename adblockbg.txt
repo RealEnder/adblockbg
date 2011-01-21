@@ -142,6 +142,7 @@ com.nxtras.banner.ImageRotator
 ||conquiztador.bg/banner/
 ||conquiztador.bg/bgbanners/
 ||conquiztador.bg/getbannerframe.php
+||contract.bg/images/
 ||correctplus.com/images/baner*
 ||cross-bg.net//images/banners
 ||cross-bg.net/images/banners/
@@ -211,6 +212,7 @@ com.nxtras.banner.ImageRotator
 ||haskovo.net/include/banners/
 ||hide-my-ip.com/promo/
 ||hls-bg.com/hls186x56.gif
+||horoskopa.com/banners
 ||hotfile.com/i/*baner
 ||hotmail.bg/img/b*.gif
 ||hrisimirpopov.com/images/banners
@@ -252,6 +254,7 @@ com.nxtras.banner.ImageRotator
 ||i.wisdom.bg/adv/
 ||izbori.biz/add/
 ||jarcomputers.com/banners
+||jennasblog.net/banner/
 ||journey.bg/ads/
 ||kachi-snimka.info/ads/
 ||kakvo.org/baners
