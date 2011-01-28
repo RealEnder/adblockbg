@@ -26,6 +26,8 @@ com.nxtras.banner.ImageRotator
 !
 !--- Specific rules ---!
 ||088info.com/images/banners/
+||18-sexshop.com/avantura234x234.swf
+||18-sexshop.com/parfumibg.com.swf
 ||1evro.com/show_i.php?b=
 ||1-gsm.com/images/banners/
 ||24online.bg/data/banners/
@@ -72,6 +74,7 @@ com.nxtras.banner.ImageRotator
 ||azcheta.com/images/banners
 ||b.abv.bg/app/servlet/hitb?banID=
 ||bacchus.bg/img/baner_*.jpg
+||bana-bg.org/images/banners/
 ||banner1.eu/images/advert.jpg
 ||banners.friendfinder.com/
 ||bansko24.com/files/banner/
@@ -134,6 +137,7 @@ com.nxtras.banner.ImageRotator
 ||cat.arenabg.com/assets/more/banner
 ||cenite.com/srennab/
 ||chambersz.com/im/nopic.swf
+||cifronim.com/images/pages/image/System/Banner*
 ||clickbg.eblahfree.com/blahdocs/images/forum_banner
 ||climbingguidebg.com/adv/
 ||clip4e.net/img/264x60
@@ -165,6 +169,7 @@ com.nxtras.banner.ImageRotator
 ||draftis.com/b/
 ||dreamwave-chan.hit.bg/bulsis.gif
 ||dtrailer.com/arenabg
+||dtv-bg.com/banners/
 ||dzhebel.com/images/*adv.gif
 ||e-79.com/MyUpload/dinatstroi.swf
 ||e-79.com/MyUpload/reklama*
@@ -226,6 +231,7 @@ com.nxtras.banner.ImageRotator
 ||i.frognews.bg/images/banners/
 ||i.frognews.bg/images/stories/sunnybeachblue.gif
 ||i.grabo.bg/banners/
+||i.id24.bg/bans/
 ||i-kat.org/images/banners
 ||image.arukereso.hu/partner/
 ||imagesfrombulgaria.com/baners/
@@ -332,6 +338,7 @@ com.nxtras.banner.ImageRotator
 ||pay.kabinata.com/banners/
 ||pcw.bg/main/images/banners/
 ||photo-cult.com/pics/baneri/
+||picbg.net/center-banner.php
 ||picbg.net/up-banner.php
 ||pics.freeiz.com/baner
 ||pisnami.net/images/banners/
@@ -389,6 +396,7 @@ com.nxtras.banner.ImageRotator
 ||segabg.com/a/
 ||setcom.bg/dv/
 ||sexwell.bg/maneri/
+||shopping.bg/ad/
 ||shum.bg/ads/
 ||simonovi-bgshop.com/banners/
 ||sinoptik.bg/i/*btc*.gif
@@ -476,6 +484,7 @@ com.nxtras.banner.ImageRotator
 ||zoomania.org/images/banners/
 !
 !--- Specific element hiding rules ---!
+18-sexshop.com##.banner728_90
 4uk4e.com##.block.ads1.f1
 4uk4e.com##.block.f1.calend
 4uk4e.com##.foot-banners.clear
@@ -535,6 +544,8 @@ pari.bg##.bannerbox
 pari-ot-internet-bg.com###login_popup_content
 pari-ot-internet-bg.com##.module.borderwrap
 plaza-mp3.info###topbar
+plovdiv24.bg###flygrabo
+plovdiv24.bg###flyoffer_text
 praseta.com##.right_banner
 pressboard.info##.banner
 pro-dance.org##iframe[src="http://www.pro-dance.org/news/728x90banner.html"]
