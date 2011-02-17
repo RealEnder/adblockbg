@@ -56,6 +56,7 @@ com.nxtras.banner.ImageRotator
 ||adwise.bg/search/
 ||afera.bg/banner
 ||afera.bg/images/banners/
+||aha.aukro.bg/banners.php
 ||alabala.bg/media/banners/
 ||amam.bg/a-d-s/
 ||amam.bg/bans/
@@ -111,6 +112,7 @@ com.nxtras.banner.ImageRotator
 ||bgvolleyball.com/banner/
 ||bgwebchart.com/mitko/baners/
 ||bgweb.tv/images/Banner
+||bgzona.info/bitbucket-upload/used280x110.gif
 ||bgzona.info/pic/neww/
 ||bia-bg.com/photos/*.swf
 ||bigbrother.bg/banners/
@@ -161,7 +163,6 @@ com.nxtras.banner.ImageRotator
 ||devabroadcast.com/banner.php
 ||devastyle.com/deva/images/banners/
 ||dimisoft.net/infusions/banner
-||djbs.club-bg.org/images/banner
 ||dobrutro.com/i/portal/banner
 ||dobrutro.com/i/portal/top
 ||dockera.com/adv/
@@ -261,6 +262,7 @@ com.nxtras.banner.ImageRotator
 ||izbori.biz/add/
 ||jarcomputers.com/banners
 ||jennasblog.net/banner/
+||jobs.bg/images/branding/
 ||journey.bg/ads/
 ||kachi-snimka.info/ads/
 ||kakvo.org/baners
@@ -276,6 +278,8 @@ com.nxtras.banner.ImageRotator
 ||liternet.bg/image/baner/
 ||look-estates.com/userfiles/templates/default/static/images/banner
 ||lucrat.net/*Banner*.swf
+||lukovit-news.com/images/300x250adv*
+||lukovit-news.com/images/reklama/
 ||lulinbay.hit.bg
 ||m4u-bg.com/banners/
 ||mail.bg/ads/
@@ -324,6 +328,7 @@ com.nxtras.banner.ImageRotator
 ||obiavi-kj.info/modules/pagepeel_banner
 ||online.bg/banners/
 ||online-televizia.net/images/banners/
+||otgovori-bg.com/img/banner/
 ||ouim.org/upload/banners/
 ||pa-media.net/banner
 ||pa-media.net/images/banners
@@ -525,8 +530,10 @@ frognews.bg##div[style="padding-bottom:15px;"]
 gbg.bg###hotOffBg
 gorgonbg.org##table[id="Table_06"]
 hi7s.com###bgtp
+kartelito.com###topbar
 kaspyr.com###topbar
 lesno-fakturirane.com##td[class="left_fon"]
+lifestyle.ibox.bg###divbh1.lfs-top-banner-holder
 managerteams.com###footer_inner_wrapper
 media.easyads.bg##.easy_ads_main
 mp3-muzika.eu###topbar
