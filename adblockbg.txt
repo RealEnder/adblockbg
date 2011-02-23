@@ -45,6 +45,7 @@ com.nxtras.banner.ImageRotator
 ||abv.bg/offers_utf.js
 ||abv.bg/pn.js
 ||ac.all.bg/i/
+||a.cdnx.eu/nps/swf/banner*
 ||activ.bg/img/baner
 ||adds.svetu.com/banners/
 ||ad.investor.bg/
@@ -162,6 +163,7 @@ com.nxtras.banner.ImageRotator
 ||desant.net/banners/
 ||devabroadcast.com/banner.php
 ||devastyle.com/deva/images/banners/
+||digitalentropia.com/webprojects/ban569x50.swf
 ||dimisoft.net/infusions/banner
 ||dobrutro.com/i/portal/banner
 ||dobrutro.com/i/portal/top
@@ -325,6 +327,7 @@ com.nxtras.banner.ImageRotator
 ||news.idg.bg/images/blizoo/
 ||novinar.net/banners/
 ||nvelikov.sliven.net/img/ban-roll/
+||obiavi-bg.com/img/BANNERS/
 ||obiavi-kj.info/modules/pagepeel_banner
 ||online.bg/banners/
 ||online-televizia.net/images/banners/
@@ -390,6 +393,7 @@ com.nxtras.banner.ImageRotator
 ||rumblerace.com/pics/banner
 ||ruseinfo.net/adv/
 ||sasho.data.bg/
+||scooterclub-bg.com/e107_images/banners/
 ||search.data.bg/*banner
 ||sedmica.sliven.net/img/160x200
 ||sedmica.sliven.net/img/170x120
@@ -529,6 +533,7 @@ forum.arenabg.com##.sp_block_padding.windowbg
 frognews.bg##div[style="padding-bottom:15px;"]
 gbg.bg###hotOffBg
 gorgonbg.org##table[id="Table_06"]
+hardwarebg.com##TABLE[style="border: 1px solid #000000; margin: 0; padding: 0;"]
 hi7s.com###bgtp
 kartelito.com###topbar
 kaspyr.com###topbar
