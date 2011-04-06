@@ -66,6 +66,7 @@ com.nxtras.banner.ImageRotator
 ||arenabg.com/cat-ads.html
 ||arenabg.com/iframe_easy.php
 ||arenabg.com/images/noposter.jpeg
+||aromatite.com/120x240.swf
 ||astrohoroscope.info/reklama/
 ||aukro.bg/ap/ap_show.php?
 ||autohop.bg/images/Banner
@@ -89,6 +90,7 @@ com.nxtras.banner.ImageRotator
 ||bezvazelin.net/e107_images/banners/
 ||bgbaner.com/getads.php
 ||bgcert.com/banner/
+||bgfanfootball.com/images/banners
 ||bghelp.co.uk/banners/
 ||bghelp.co.uk/G-Temp/
 ||bghelp.net/banners/
@@ -101,9 +103,11 @@ com.nxtras.banner.ImageRotator
 ||bgmaps.com/images/staticfield/634x20.jpg
 ||bgnes.com/img/bann/
 ||bgnes.com/rekl/
+||bg-obiava.com/banner
 ||bgpazar.com/banners/
 ||bgpazar.com/images/banner
 ||bgpazar.com/logo/ok/250
+||b.grabo.bg
 ||bgrabotodatel.com/images/Banner
 ||bgrabotodatel.com/images/learn2lingo
 ||bg.search.etargetnet.com/generic/
@@ -126,6 +130,8 @@ com.nxtras.banner.ImageRotator
 ||bpost.bg/ads/
 ||bta.bg/site/bannersbta/
 ||bta.bg/site/bg/adv/
+||bulborsa.com/images/120X90
+||bulborsa.com/images/banners
 ||bulgar-bg.com/baner/
 ||bulgaria-info.uni-web.net/banners/
 ||bulgarianbasket.com/banner/
@@ -159,6 +165,7 @@ com.nxtras.banner.ImageRotator
 ||dar.bg/images/*banner
 ||data.bg/data*.swf
 ||data.bg/media/*banner
+||data.bg/media/kolektiva.png
 ||dedo.bg/banners/
 ||desant.net/banners/
 ||devabroadcast.com/banner.php
@@ -178,9 +185,11 @@ com.nxtras.banner.ImageRotator
 ||e-79.com/MyUpload/reklama*
 ||e-79.com/MyUpload/senter_analiz1.swf
 ||easytrader.bg/banner.php
+||e-bookbg.com/images/banners/
 ||econ.bg/content/tmp_banner/
 ||economynews.bg/website_uploads/Image/theme/euro_atak/
 ||emall.bg/dbfiles/banners/
+||etaj55.com/adv/banners
 ||eventim.bg/root/upload/banner/
 ||e-vestnik.bg/img/banners/
 ||express.bg/banner
@@ -206,6 +215,7 @@ com.nxtras.banner.ImageRotator
 ||frognews.bg/files/banner
 ||frognews.bg/Frog/images/banners/
 ||frognews.bg/Frog/images/flash/
+||ftech-bg.com/images/*banner*
 ||funbg.net/e107_images/banners/
 ||gbg.bg/resources/html/aukro_
 ||get.bg/catalog/affiliate_show_banner.php?ref=
@@ -225,7 +235,6 @@ com.nxtras.banner.ImageRotator
 ||hotmail.bg/img/b*.gif
 ||hrisimirpopov.com/images/banners
 ||i2.wisdom.bg/adv
-||i47.vbox7.com/design/adwise/
 ||i55.tinypic.com/2zqat89.gif
 ||i.cars.bg/images/branding/
 ||i.dir.bg/ads2006/
@@ -254,6 +263,8 @@ com.nxtras.banner.ImageRotator
 ||index.bg/banners/
 ||ineahost.com/banners/
 ||infobulgaria.info/baners/
+||infodir.org/220x220.*
+||infodir.org/baner/
 ||info.mitnica.com/images/*banner
 ||infovarna.com/advbanner
 ||ins-delivery.com&bannerId=
@@ -285,6 +296,13 @@ com.nxtras.banner.ImageRotator
 ||lulinbay.hit.bg
 ||m4u-bg.com/banners/
 ||mail.bg/ads/
+||malki-obiavi.info/images1/banners
+||malkiobyavi.com/banners/
+||malkiobyavi.com/clients-5/avtosklad/block-avtosklad.jpg
+||malkiobyavi.com/clients-5/spa-relax/block-spa-relax.jpg
+||malkiobyavi.com/clients/lulchev-baner.jpg
+||malkiobyavi.com/clients/nikoleni-block.jpg
+||malkiobyavi.com/images/e-plovdiv.jpg
 ||mallbg.com/adds/
 ||mamita-bg.com/e107/images/banners/
 ||managerteams.com/include/fan_mp3.swf
@@ -329,6 +347,9 @@ com.nxtras.banner.ImageRotator
 ||nvelikov.sliven.net/img/ban-roll/
 ||obiavi-bg.com/img/BANNERS/
 ||obiavi-kj.info/modules/pagepeel_banner
+||obiavite.eu/banner/
+||obiavite.eu/reklama/*
+||obqvata.net/images/banners/
 ||online.bg/banners/
 ||online-televizia.net/images/banners/
 ||otgovori-bg.com/img/banner/
@@ -371,10 +392,12 @@ com.nxtras.banner.ImageRotator
 ||prikachi.com/images/328/2637328U.png
 ||prikachi.com/images/612/2208612s.png
 ||proamsports.bg/img/adv/
+||prodavach.com/wp-content/uploads/2010/08/728_90.gif
 ||proekti.bg/adv/
 ||programata.bg/img/zagorka*.jpg
 ||pro-rock.net/images/flashframes/
 ||psychocenter.hit.bg/banners/
+||publikuvai.com/images/banners/
 ||radiotangra.com/media/banners/
 ||r.dir.bg
 ||r*.dir.bg/js_ext.php
@@ -387,6 +410,7 @@ com.nxtras.banner.ImageRotator
 ||rem.rezonmedia.eu/images/
 ||renault-bg.com/smf/bn/
 ||renault-bg.com/smf/bnn
+||reset.bg/images/banners/
 ||retv.bg/loader/loader.swf
 ||rezervaciq.com/img/banners
 ||rp-mobil.com/images/b/
@@ -406,6 +430,8 @@ com.nxtras.banner.ImageRotator
 ||setcom.bg/dv/
 ||sexwell.bg/maneri/
 ||shopping.bg/ad/
+||shops.bg/banners/
+||shops.bg/newimage/zaigravka.gif
 ||shum.bg/ads/
 ||simonovi-bgshop.com/banners/
 ||sinoptik.bg/i/*btc*.gif
@@ -419,7 +445,12 @@ com.nxtras.banner.ImageRotator
 ||sms.flash4e.com/images/ban_
 ||snews.bg/img/banners/
 ||sofiadnes.com/baneri
+||sofiadnes.net/banners/
+||sofiadnes.net/user_files/1295601617_1295122946_1289545502_nikol.swf
+||sofiadnes.net/user_files/tn/129596370358106.gif
+||sofiadnes.net/user_files/tn/129837984172370.jpg
 ||sofiatraffic.info/recl
+||sofremonti.com/theme/banners/
 ||sofspravka.info/index.php?go=_common&p=banner
 ||speshno.info/banners/
 ||spesti.bg/images/ban
@@ -427,6 +458,7 @@ com.nxtras.banner.ImageRotator
 ||sportal.bg/brand_images/
 ||starfm.bg/banners/
 ||startup-bg.com/images/baner
+||static.cs-bg.net/csbgnet/images/adcsbg/banners/
 ||static.easytrader.bg/v2/banners/
 ||static.pazaruvaj.com/bg/banners/
 ||static.sport-vt.com/dsk_cba_392x72nl.swf
@@ -439,6 +471,7 @@ com.nxtras.banner.ImageRotator
 ||subsunacs.net/banner
 ||subsunacs.net/skladbg.
 ||subsunacs.net/tvds
+||svejo.net/images/branding/
 ||syndication.webwizguide.info/pagead/
 ||t.alein.org/images/banners/
 ||technews.bg/banners/
@@ -449,6 +482,7 @@ com.nxtras.banner.ImageRotator
 ||teniski.be/pix/
 ||therating.net/themes/kosmos/images/banners/
 ||the-street.hit.bg/banners
+||topbg.org/banners
 ||top-guns.info/images/banners/
 ||top-oferta.com/img/banner
 ||transportbg.info/b
@@ -458,7 +492,7 @@ com.nxtras.banner.ImageRotator
 ||uroci.net/images/export/baners
 ||varna-sport.com/a-d-s/
 ||vbox7.com/adwise/
-||vbox7.com/design/contests/aukro/
+||vbox7.com/design/contests/
 ||vbox.bg/banners/
 ||vbox.bg/htdocs/images/default/728x90
 ||vbox.bg/images/
@@ -475,6 +509,7 @@ com.nxtras.banner.ImageRotator
 ||vratza.com/banners/
 ||vsekiden.com/BANNERS/
 ||webcambg.com/reklama/
+||webdesign-bulgaria.com/images/banners
 ||web.dobg.net/banners/
 ||web-hosting.bg/swf/
 ||webmoney.borsa.bg/BannerFactory.php5
@@ -567,6 +602,9 @@ sedmica.sliven.net###right
 sfilmi.com##.popup
 sinoptik.bg##.astralBlock
 sinoptik.bg##.ecoHomeWeber
+sliveninfo.com##.block
+sliveninfo.com###lefttopbanner
+sliveninfo.com###righttopbanner
 sliven-news.com###banner_wrap
 sliven-news.com##.users_wrap
 spesti.bg##.adv
