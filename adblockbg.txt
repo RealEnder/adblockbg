@@ -122,6 +122,7 @@ com.nxtras.banner.ImageRotator
 ||bia-bg.com/photos/*.swf
 ||bigbrother.bg/banners/
 ||billboard-bg.com/lechebnik.jpg
+||binitrip.data.bg/media/kolektiva.jpg
 ||bioprogramme.net/banner/
 ||bipartia.com/images/banners/
 ||bmwpower-bg.net/banners
@@ -130,6 +131,7 @@ com.nxtras.banner.ImageRotator
 ||bpost.bg/ads/
 ||bta.bg/site/bannersbta/
 ||bta.bg/site/bg/adv/
+||bueno.bg/affiliates/*
 ||bulborsa.com/images/120X90
 ||bulborsa.com/images/banners
 ||bulgar-bg.com/baner/
@@ -249,6 +251,7 @@ com.nxtras.banner.ImageRotator
 ||imagesfrombulgaria.com/baners/
 ||images.onbux.com/banner.gif
 ||images.pop.bg/content/banner/
+||images.webcafe.bg/2011/04/18/29.swf
 ||imenata.com/flash/
 ||img.abv.bg/abvhome/middle/wc2010middle_f.html
 ||img.abv.bg/AbvProductAds/
@@ -284,6 +287,7 @@ com.nxtras.banner.ImageRotator
 ||kazanlak-bg.info/Baneri
 ||kazanlak-bg.info/images/banner
 ||klassa.bg/images/banners/
+||kolektiva.ffsbg.com/banners/*
 ||komentari.com/images/banners
 ||kurier.bg/files/banners/
 ||kvasilev.com/images/srebro.swf
@@ -313,6 +317,7 @@ com.nxtras.banner.ImageRotator
 ||medicalbg.com/freenet
 ||megashop.bg/techno/images/banners
 ||megashop.bg/vaucher.swf
+||mercedes-club-bg.com/images/banners/
 ||mestniizbori.com/banners/
 ||mikael7.com/files/banners/
 ||mit.bg/baner
@@ -398,6 +403,7 @@ com.nxtras.banner.ImageRotator
 ||pro-rock.net/images/flashframes/
 ||psychocenter.hit.bg/banners/
 ||publikuvai.com/images/banners/
+||qualityoils.eu/baner2
 ||radiotangra.com/media/banners/
 ||r.dir.bg
 ||r*.dir.bg/js_ext.php
@@ -501,6 +507,7 @@ com.nxtras.banner.ImageRotator
 ||vestnikataka.bg/bannerLogo/
 ||vevesti.com/images/banners/
 ||vinpromtaskov.com/banner
+||vipoferta.bg/elitBGaff/*
 ||v-maps.com/banner.jpg
 ||vnews.bg/wp-content/themes/vnews/images/banner
 ||vnews.bg/wp-content/themes/vnews/images/finalflat2.jpg
@@ -514,6 +521,7 @@ com.nxtras.banner.ImageRotator
 ||web-hosting.bg/swf/
 ||webmoney.borsa.bg/BannerFactory.php5
 ||websbg.net/images/banners/
+||winner.bg/affiliates/*
 ||winner.bg/arena.php
 ||wrzru.com/web_im/*.swf
 ||xenyoo1.com/pics/banner
