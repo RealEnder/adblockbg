@@ -7,7 +7,7 @@ import urlparse
 import socket
 import urllib2
 
-print 'Check AdBlockPlus filters for outdated entries v 0.2 by Alex Stanev, http://stanev.org/abp'
+print 'Check AdBlockPlus filters for outdated entries v0.2.1 by Alex Stanev, http://stanev.org/abp'
 
 if len(sys.argv) == 2:
     if os.path.exists(sys.argv[1]):
@@ -32,13 +32,15 @@ if len(sys.argv) == 2:
                 skip = skip + 1
                 continue
             
-            # remove #, $, ~ if present
+            # remove #, $, ~, ^ if present
             if rline.find('#') <> -1:
-                rline = rline[0:rline.find('#')]
+                rline = rline[:rline.find('#')]
             if rline.find('$') <> -1:
-                rline = rline[0:rline.find('$')]
+                rline = rline[:rline.find('$')]
             if rline.find('~') <> -1:
-                rline = rline[0:rline.find('~')]
+                rline = rline[:rline.find('~')]
+            if rline.find('^') <> -1:
+                rline = rline[:rline.find('^')]
             
             #check for short entries
             if len(rline) < 4:
@@ -48,9 +50,13 @@ if len(sys.argv) == 2:
     
             #check whitelists too
             if rline[0:1] == '@@':
-                rline = rline[2:len(rline)-2]
-            if rline[1] == '|':
-                rline = rline[1:len(rline)-1]
+                rline = rline[2:]
+
+            #remove single or double starting pipe
+            if rline[0] == '|':
+                rline = rline[1:]
+            if rline[0] == '|':
+                rline = rline[1:]
                 
             #check for protocol idents
             if rline[0:7].lower() == 'http://' or rline[0:8].lower() == 'https://':
@@ -70,10 +76,10 @@ if len(sys.argv) == 2:
             path = url[2]
             if len(path) > 1:
                 while path.endswith('.'):
-                    path = path[0:path.rfind('/')]
+                    path = path[:path.rfind('/')]
                 while path.rfind('*') <> -1:
-                    path = path[0:path.rfind('*')]
-                    path = path[0:path.rfind('/')]
+                    path = path[:path.rfind('*')]
+                    path = path[:path.rfind('/')]
             
             #access the resource
             try:
