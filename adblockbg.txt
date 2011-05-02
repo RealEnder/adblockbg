@@ -45,6 +45,7 @@ com.nxtras.banner.ImageRotator
 ||abv.bg/offers_utf.js
 ||abv.bg/pn.js
 ||ac.all.bg/i/
+||a.cdnx.eu/nps/swf/banner*
 ||activ.bg/img/baner*
 ||adds.svetu.com/banners/
 ||ad.investor.bg/
@@ -476,7 +477,9 @@ com.nxtras.banner.ImageRotator
 ||syndication.webwizguide.info/pagead/
 ||t.alein.org/images/banners/
 ||technews.bg/banners/
+||technomarket.bg/files/BANNER/
 ||technooptima.com/catalog/images/banners/
+||technopolis.bg/catbanners/banners/
 ||temanews.com/img/banners/
 ||teniski.be/*468x60.
 ||teniski.be/images/shops*
