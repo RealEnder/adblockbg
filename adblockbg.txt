@@ -320,6 +320,8 @@ com.nxtras.banner.ImageRotator
 ||mobilebulgaria.com/uploads/banners/
 ||monitor.bg/ad/
 ||montana-dnes.com/baners/
+||mrejata.net/banner*
+||mrejata.us/images/*468_60*
 ||music-bg.info/images/dodosphoto.gif
 ||music-bg.info/images/others/kozmu.gif
 ||music-bg.info/images/radio.gif
@@ -352,6 +354,7 @@ com.nxtras.banner.ImageRotator
 ||obqvata.net/images/banners/
 ||online.bg/banners/
 ||online-televizia.net/images/banners/
+||opencamp.talkweb.eu/468x60*
 ||otgovori-bg.com/img/banner/
 ||ouim.org/upload/banners/
 ||pa-media.net/banner
@@ -563,6 +566,7 @@ conquiztador.bg###BANNER
 conquiztador.bg##td[valign="middle"][align="center"][style="border: 1px solid rgb(85, 85, 85); width: 340px; height: 280px;"]
 data.bg###bannertop_72890
 dnevnik.bg##.paidAdvert
+download.bg##.adv
 econ.bg##.adv
 expert.bg##iframe[style="border: medium none ; margin: 0pt; padding: 0pt; overflow: hidden; width: 300px; height: 250px; border-collapse: collapse;"]
 film4eta.com###topbar
