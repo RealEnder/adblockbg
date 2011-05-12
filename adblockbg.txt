@@ -284,6 +284,7 @@ com.nxtras.banner.ImageRotator
 ||kazanlak-bg.info/images/banners/
 ||klassa.bg/images/banners/
 ||kolektiva.ffsbg.com/banners/*
+||kolektiva.net^$third-party
 ||komentari.com/images/banners
 ||kurier.bg/files/banners/
 ||kvasilev.com/images/srebro.swf
@@ -547,6 +548,7 @@ animes-bg.com##.banneritem_text
 antenneair.com###topbanner
 arenabg.com##div[id="grabodeals"]
 arenabg.com##div[style="border: 1px solid rgb(255, 255, 255); overflow: auto; background-color: rgb(34, 34, 34); width: 728px; height: 110px;"]
+arenabg.com##div[style="width: 728px;"]
 arenabg.com##iframe[src="iframe_emall.php"]
 arenabg.com##iframe[style="background-color: rgb(31, 31, 31);"]
 arenabg.com##tr[style="height: 185px;"]
