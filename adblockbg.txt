@@ -154,9 +154,12 @@ com.nxtras.banner.ImageRotator
 ||clip4e.net/img/264x60
 ||club-bg.org/images/banner*
 ||computers.bg/120x460.
+||conquiztador.bg/aagetad.php?
 ||conquiztador.bg/banner/
 ||conquiztador.bg/bgbanners/
 ||conquiztador.bg/getbannerframe.php
+||conquiztador.bg/swf/testclient.swf
+||conquiztador.bg/swf/tournament_webpromo.swf
 ||contract.bg/images/
 ||correctplus.com/images/baner*
 ||cross-bg.net//images/banners
@@ -334,6 +337,11 @@ com.nxtras.banner.ImageRotator
 ||my-shop.biz/flash/
 ||nani-na.biz/images/banners
 ||napravisam.bg/bnr/
+||napravisam.bg/forum/303x60*
+||napravisam.bg/forum/banner*
+||napravisam.bg/forum/reklama/
+||napravisam.bg/newimage/reklama*
+||napravisam.bg/ns.swf
 ||napravisam.bg/reklama/
 ||ndk.bg/ads/
 ||ndt1.com/images/*bnr
@@ -369,6 +377,7 @@ com.nxtras.banner.ImageRotator
 ||pari.bg/bannercache
 ||parlamentarniizbori.com/banners/
 ||pay.kabinata.com/banners/
+||pcmania.bg/banners/
 ||pcw.bg/main/images/banners/
 ||photo-cult.com/pics/baneri/
 ||photo-forum.net/static/banner/
@@ -488,6 +497,7 @@ com.nxtras.banner.ImageRotator
 ||teniski.be/*468x60.
 ||teniski.be/images/shops*
 ||teniski.be/pix/
+||test.idg.bg/st/ads/
 ||therating.net/themes/kosmos/images/banners/
 ||the-street.hit.bg/banners
 ||topbg.org/banners
@@ -563,8 +573,10 @@ bg-zone.net##.adv_box_kv_right
 bulgarianbasket.com##tr[id="top"]
 business.bg##table[width="220"][bgcolor="#ffffff"]
 cat.arenabg.com##iframe
+cio.bg##.blockBanner
 club-bg.org###topbar
 conquiztador.bg###BANNER
+conquiztador.bg##td[style="border:1px solid #555555; width:340px; height:280px;"]
 conquiztador.bg##td[valign="middle"][align="center"][style="border: 1px solid rgb(85, 85, 85); width: 340px; height: 280px;"]
 data.bg###bannertop_72890
 dnevnik.bg##.paidAdvert
@@ -601,6 +613,7 @@ news.ibox.bg##.nws-commercial-column
 pari.bg##.bannerbox
 pari-ot-internet-bg.com###login_popup_content
 pari-ot-internet-bg.com##.module.borderwrap
+pcmania.bg##.banners
 photo-forum.net###banner_top
 photo-forum.net###header_img_right
 plaza-mp3.info###topbar
@@ -638,7 +651,9 @@ vplay7.com###topbar
 websbg.net###dinabar
 !
 !--- Whitelist rules ---!
+@@||conquiztador.bg/client_pre_frame.php
 @@||e2.emediate.se/crossdomain.xml
 @@||e2.emediate.se/eas$match-case,domain=play.novatv.bg
 ~noshtuvki.burkan.info###adbody
 ~rbb.bg###Ads
+
