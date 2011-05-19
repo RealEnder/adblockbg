@@ -374,6 +374,8 @@ com.nxtras.banner.ImageRotator
 ||pa-media.net/new/themes/NukeNews/images/metalika_top.swf
 ||pa-media.net/yavork
 ||parfiumite.com/index.php?target=banner
+||parfumibg.com/banersuot/
+||parfumibg.eu/banersout/
 ||pari.bg/bannercache
 ||parlamentarniizbori.com/banners/
 ||pay.kabinata.com/banners/
@@ -486,6 +488,7 @@ com.nxtras.banner.ImageRotator
 ||subs.sab.bz/images/*banner
 ||subs.sab.bz/images/lev_ok.gif
 ||subsunacs.net/tvds*
+||superdns.info/banners/
 ||svejo.net/images/branding/
 ||syndication.webwizguide.info/pagead/
 ||t.alein.org/images/banners/
