@@ -37,6 +37,7 @@ com.nxtras.banner.ImageRotator
 ||87.120.207.101/images/adv/
 ||89.215.175.32/banners/
 ||91.196.126.51/ads
+||91.196.126.51/frontend/images/
 ||911.bg/bansys/b/
 ||absurdi.com/files/banner/
 ||abv.bg/app/j/banner_om_below.jsp
@@ -45,18 +46,21 @@ com.nxtras.banner.ImageRotator
 ||abv.bg/offers_utf.js
 ||abv.bg/pn.js
 ||ac.all.bg/i/
+||account-bg.info/e107/e107_images/banners/
 ||a.cdnx.eu/nps/swf/banner*
 ||activ.bg/img/baner*
 ||adds.svetu.com/banners/
 ||ad.investor.bg/
 ||adpower.bg^$third-party
 ||ads*.fixar.org
+ads.garga.biz/ad/
 ||ads.ibox.bg/banners/*.swf
 ||adv.abv.bg
 ||adv.gepime.com
 ||adwise.bg/search/
 ||afera.bg/banner
 ||afera.bg/images/banners/
+affbg.kolektiva.net/arena_banner_728x230/banners/arena/
 ||aha.aukro.bg/banners.php
 ||alabala.bg/media/banners/
 ||amam.bg/a-d-s/
@@ -130,6 +134,8 @@ com.nxtras.banner.ImageRotator
 ||bourgas.org/banners/
 ||bourgas.org/flash/
 ||bpost.bg/ads/
+||bt.wrzru.com/pic/dombg.gif
+||bt.wrzru.com/pic/*.swf
 ||bueno.bg/affiliates/*
 ||bulborsa.com/images/120X90*
 ||bulborsa.com/images/banners/
@@ -154,7 +160,6 @@ com.nxtras.banner.ImageRotator
 ||clip4e.net/img/264x60
 ||club-bg.org/images/banner*
 ||computers.bg/120x460.
-||conquiztador.bg/aagetad.php?
 ||conquiztador.bg/banner/
 ||conquiztador.bg/bgbanners/
 ||conquiztador.bg/getbannerframe.php
@@ -235,6 +240,7 @@ com.nxtras.banner.ImageRotator
 ||hotmail.bg/img/b*.gif
 ||hrisimirpopov.com/images/banners
 ||i2.wisdom.bg/adv
+i2.wisdom.bg/adv/
 ||i55.tinypic.com/2zqat89.gif
 ||i.cars.bg/images/branding/
 ||i.dir.bg/ads2006/
@@ -243,6 +249,7 @@ com.nxtras.banner.ImageRotator
 ||i.frognews.bg/images/banners/
 ||i.frognews.bg/images/stories/sunnybeachblue.gif
 ||i.grabo.bg/banners/
+i.grabo.bg/design/site_arenabg/bnr*
 ||i.id24.bg/bans/
 ||i-kat.org/images/banners
 ||image.arukereso.hu/partner/
@@ -256,6 +263,7 @@ com.nxtras.banner.ImageRotator
 ||img.frognews.bg/bulgariatourism.png
 ||img.photo-forum.net/banner/
 ||img.sedem.bg/banners/
+img.zamunda.net/banners/
 ||imot.bg/html/hotimoti1.html
 ||imot.cc/images/banners
 ||imoti.bg/*125x125
@@ -335,6 +343,7 @@ com.nxtras.banner.ImageRotator
 ||mvmads.com/publisher-show-ads.php
 ||mvmads.com/show-ads.php
 ||my-shop.biz/flash/
+||nablyudatel.com/admin/banner/
 ||nani-na.biz/images/banners
 ||napravisam.bg/bnr/
 ||napravisam.bg/forum/303x60*
@@ -355,6 +364,7 @@ com.nxtras.banner.ImageRotator
 ||new.djagi.com/banners
 ||news.idg.bg/images/blizoo/
 ||novinar.net/banners/
+||novini.bg/brand/
 ||nvelikov.sliven.net/img/ban-roll/
 ||obiavi-bg.com/img/BANNERS/
 ||obiavi-kj.info/modules/pagepeel_banner
@@ -480,6 +490,9 @@ com.nxtras.banner.ImageRotator
 ||static.easytrader.bg/v2/banners/
 ||static.pazaruvaj.com/bg/banners/
 ||static.sport-vt.com/dsk_cba_392x72nl.swf
+||static.sport-vt.com/hattrick/hattrick-logo.jpg
+||static.sport-vt.com/kick-sportvt.swf
+||static.sport-vt.com/obsht_sportvt.swf
 ||storage.netinfo.bg/Banners/
 ||store.bg/ads/
 ||store.picbg.net/pubpic/D3/75/16a587896593d375.PNG
@@ -565,6 +578,7 @@ arenabg.com##div[style="width: 728px;"]
 arenabg.com##iframe[src="iframe_emall.php"]
 arenabg.com##iframe[style="background-color: rgb(31, 31, 31);"]
 arenabg.com##tr[style="height: 185px;"]
+avtoalarmi.produkti.sofia.point.bg###popupEmail-panel
 bg69.com###lenta
 bgrabotodatel.com##.RAD
 bgrabotodatel.com##td[style="padding-bottom: 6px;"]
