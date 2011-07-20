@@ -126,6 +126,7 @@ b.grabo.bg
 ||bourgas.org/banners/
 ||bourgas.org/flash/
 ||bpost.bg/ads/
+||b.superdns.info/banners/
 bt.wrzru.com/pic/dombg.gif
 bt.wrzru.com/pic/*.swf
 ||bueno.bg/affiliates/
@@ -272,6 +273,8 @@ img.zamunda.net/banners/
 ||infovarna.com/advbanner
 ||ins-delivery.com&bannerId=
 ||interface-soft.com/BannerSitesFiles/
+||intrastat-bg.com/intrastat/img/infoj.gif
+||intrastat-bg.com/intrastat/img/yotov.gif
 ||investor.bg/brandings
 ||ipo.bg/bannercache
 i.wisdom.bg/adv/
@@ -569,6 +572,7 @@ abv.bg##iframe[src="/app/j/banner.jsp"]
 afera.bg##div[align="center"]
 animes-bg.com##.banneritem_text
 antenneair.com###topbanner
+arenabg.com##.ads
 arenabg.com##div[id="grabodeals"]
 arenabg.com##div[style="border: 1px solid rgb(255, 255, 255); overflow: auto; background-color: rgb(34, 34, 34); width: 728px; height: 110px;"]
 arenabg.com##div[style="width: 728px;"]
