@@ -58,6 +58,7 @@ aha.aukro.bg/banners.php
 ||alabala.bg/media/banners/
 ||amam.bg/a-d-s/
 ||amam.bg/bans/
+||androidbg.com/banner*
 ||animes-bg.com/reklama/
 ||arenabg.com/adz_active/*.js
 ||arenabg.com/cat-ads.html
@@ -138,6 +139,7 @@ bt.wrzru.com/pic/*.swf
 ||bulgariaski.com/rotbnr/
 ||bulphoto.com/banners/
 ||bulwork.net/banner
+||bumbum.gr/images/banners/
 ||burgasnews.com//images/banners/
 ||business.bg/site_files/d-sitebanners/
 ||cars.bg/images/px.gif
@@ -176,6 +178,9 @@ cat.arenabg.com/assets/more/banner
 ||digitalentropia.com/webprojects/ban569x50.swf
 ||dimisoft.net/infusions/banner
 ||djagi.com/banners
+||dnesbg.com/adv/
+||dnesbg.com/evo*.swf
+||dobrichonline.com/media/banners/
 ||dobrutro.com/i/portal/banner
 ||dobrutro.com/i/portal/top
 ||dockera.com/adv/
@@ -190,6 +195,7 @@ cat.arenabg.com/assets/more/banner
 ||e-79.com/MyUpload/senter_analiz1.swf
 ||easytrader.bg/banner.php
 ||e-bookbg.com/images/banners/
+||ecenter-bg.com/images/banners/
 ||econ.bg/content/tmp_banner/
 ||economynews.bg/website_uploads/Image/theme/euro_atak/
 ||etaj55.com/adv/banners
@@ -234,6 +240,7 @@ cat.arenabg.com/assets/more/banner
 ||hotfile.com/i/*baner
 ||hotmail.bg/img/b*.gif
 ||hrisimirpopov.com/images/banners
+||hsmaritsa.com/images/banners/
 i55.tinypic.com/2zqat89.gif
 i.adwise.bg/upload/
 i.cars.bg/images/branding/
@@ -451,6 +458,7 @@ rem.rezonmedia.eu/images/
 ||sedmica.sliven.net/img/encho_karakashev.jpg
 ||sedmica.sliven.net/img/evgeni.jpg
 ||segabg.com/a/
+||segabg.com/fixed/*420x90*
 ||setcom.bg/dv/
 ||sexwell.bg/maneri/
 ||shops.bg/banners/
@@ -461,9 +469,15 @@ rem.rezonmedia.eu/images/
 ||slivenbg.net/news/images/banners/
 ||sliven.biz/baner*
 ||sliven.biz/source/reklama.jpg
+||sliveninfo.com/files/demea.jpg
+||sliveninfo.com/images/banners
+||sliveninfo.com/imagesflash
+||sliveninfo.com/images/novi%20baneri
+||sliveninfo.com/images/snimki/new/banner*
 ||sliven.net/adv/
 ||sliven-news.com/images/stories/biznespredstavqne/city_net_270x90px.jpg
 ||sliven-news.com/images/stories/slujebni/
+||sliven.us/images/stories/baneri*
 ||snews.bg/img/banners/
 ||sofiadnes.com/baneri
 ||sofiadnes.net/banners/
@@ -530,6 +544,7 @@ torrent.alein.org/images/system/wotlk_new_img.png
 ||vevesti.com/images/banners/
 ||vinpromtaskov.com/banner
 ||vipoferta.bg/elitBGaff/
+||visitbulgaria.net/rotbnr_visit/
 ||vivacom.bg/Content/flash/threeDLG/Right200x500.swf
 ||vivacom.bg/Content/flash/threeDLG/TransitionBigV2.swf
 ||v-maps.com/banner.jpg
@@ -632,7 +647,6 @@ news.ibox.bg##.nws-commercial-column
 pari.bg##.bannerbox
 pari-ot-internet-bg.com###login_popup_content
 pari-ot-internet-bg.com##.module.borderwrap
-pcmania.bg##.banners
 photo-forum.net###banner_top
 photo-forum.net###header_img_right
 plaza-mp3.info###topbar
