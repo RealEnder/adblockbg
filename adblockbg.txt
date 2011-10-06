@@ -171,6 +171,11 @@ cat.arenabg.com/assets/more/banner
 ||data.bg/media/*banner
 ||data.bg/media/databg_*
 ||data.bg/media/kolektiva.png
+||data-bg.org/pic/user_images/130718586914170.gif
+||data-bg.org/pic/user_images/13106366621694.gif
+||data-bg.org/pic/user_images/131558697719735.png
+||data-bg.org/pic/user_images/131663982029716.gif
+||data-bg.org/pic/user_images/131664043918775.gif
 ||dedo.bg/banners/
 ||desant.net/banners/
 ||devabroadcast.com/banner.php
@@ -230,10 +235,12 @@ cat.arenabg.com/assets/more/banner
 ||gis-sofia.bg/uploads/image/gis_banner*
 ||goldenpages.bg/banners/
 ||gorgonbg.org/images/banners/
+||grupo.bg/banners/
 ||hardwarebg.com/ads/
 ||haskovo.net/adv/
 ||haskovo.net/banners
 ||haskovo.net/include/banners/
+||hb.hostbulgaria.com/hb-banner*
 ||hide-my-ip.com/promo/
 ||hls-bg.com/hls186x56.gif
 ||horoskopa.com/banners
@@ -364,6 +371,7 @@ kolektiva.ffsbg.com/banners/widget_banner_728x230/
 ||ndt1.com/images/*rek
 ||ndt1.com/images/rusevplast_160x160px_ohranitelni_roletki_garazhni_vrati_.jpg
 ||ndt1.com/rekl/
+||neseriozno.com/wp-content/custom/Banners/
 ||nessebar-news.com/news/images/*baner
 ||neterra.tv/bg/_files/site/ver3/*186x56.*
 ||newbusiness.bg/banners/
@@ -421,6 +429,8 @@ kolektiva.ffsbg.com/banners/widget_banner_728x230/
 ||pressclub.bg/ads
 ||preszona.com///img/BANNERS/
 ||prikachi.com/flash/files/
+||pro-dance.org/e107_images/banners/
+||pro-dance.org/news/728x90banner.html
 ||prodavach.com/wp-content/uploads/2010/08/728_90.gif
 ||proekti.bg/adv/
 ||programata.bg/img/zagorka*.jpg
@@ -429,6 +439,8 @@ kolektiva.ffsbg.com/banners/widget_banner_728x230/
 ||publikuvai.com/images/banners/
 ||qualityoils.eu/baner2
 ||radiotangra.com/media/banners/
+||razkritia.com/wp-content/bg*
+||razkritia.com/wp-content/uploads/banner*
 r.dir.bg
 ||r*.dir.bg/js_ext.php
 ||r*.dir.bg/js_myads.php
@@ -531,6 +543,7 @@ torrent.alein.org/images/system/place_for_you.png
 torrent.alein.org/images/system/wotlk_new_img.png
 ||tvevropa.com/public/images/site_images/*banner
 ||tvevropa.com/public/images/temp/banners/
+||tw10.net/ban
 ||unisoft-bg.com/showimage.php
 ||uroci.net/images/export/baners
 ||varna-sport.com/a-d-s/
@@ -559,6 +572,7 @@ torrent.alein.org/images/system/wotlk_new_img.png
 ||web.dobg.net/banners/
 ||web-hosting.bg/swf/
 ||webmoney.borsa.bg/BannerFactory.php5
+||webresearch.bg/survey/js/*
 ||websbg.net/images/banners/
 ||winner.bg/affiliates/
 ||winner.bg/arena.php
@@ -579,7 +593,6 @@ torrent.alein.org/images/system/wotlk_new_img.png
 4uk4e.com##.block.ads1.f1
 4uk4e.com##.block.f1.calend
 4uk4e.com##.foot-banners.clear
-absurdi.com##DIV.right_banner
 absurdi.com##div[style="padding: 0 0 5px 0;"]
 absurdi.com##.right_banner
 abv.bg###aukcion
@@ -612,7 +625,9 @@ club-bg.org###topbar
 conquiztador.bg###BANNER
 conquiztador.bg##td[style="border:1px solid #555555; width:340px; height:280px;"]
 conquiztador.bg##td[valign="middle"][align="center"][style="border: 1px solid rgb(85, 85, 85); width: 340px; height: 280px;"]
+dariknews.bg###colorbox
 data.bg###bannertop_72890
+data-bg.org###aff-popup-banner
 dnevnik.bg##.paidAdvert
 download.bg##.adv
 econ.bg##.adv
@@ -621,7 +636,6 @@ film4eta.com###topbar
 filmi-bg.eu###broadcastbox
 flash-igri.com##.box-pink
 forum.arenabg.com##.sp_block_padding.windowbg
-forum.arenabg.com##TD.sp_block_padding.windowbg
 forums.data.bg###bannertop_new
 frognews.bg##div[style="padding-bottom:15px;"]
 gbg.bg###hotOffBg
@@ -652,11 +666,9 @@ photo-forum.net###header_img_right
 plaza-mp3.info###topbar
 plovdiv24.bg###flygrabo
 plovdiv24.bg###flyoffer_text
-praseta.com##DIV.right_banner
 praseta.com##.right_banner
 pressboard.info##.banner
 prikachi.com###banner
-pro-dance.org##iframe[src="http://www.pro-dance.org/news/728x90banner.html"]
 programata.bg###banner_right
 programata.bg###banner_top
 sedmica.sliven.net###right
@@ -671,12 +683,10 @@ sliven-news.com###banner_wrap
 sliven-news.com##.users_wrap
 spesti.bg##.adv
 subs.sab.bz###adv
-subs.sab.bz##DIV#adv
 svejo.net###hot_offers
 ticketpro.bg###baners_top
 topsport.ibox.bg##.sponsor-logo
 tv.byalareka.com###topbar
-tv.club-bg.org###topbar
 vesti.bg###banner1
 vesti.bg###topBannerBlock
 vnews.bg##.banner
