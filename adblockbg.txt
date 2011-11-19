@@ -33,7 +33,6 @@ com.nxtras.banner.ImageRotator
 ||24online.bg/data/banners/
 ||360.bg/baner*
 ||4coolpics.com/banner/
-87.120.207.101/images/adv/
 89.215.175.32/banners/
 91.196.126.51/ads
 911.bg/bansys/b/
@@ -66,8 +65,6 @@ aha.aukro.bg/banners.php
 ||arenabg.com/images/noposter.jpeg
 ||aromatite.com/120x240.swf
 ||astrohoroscope.info/reklama/
-||aukro.bg/ap/ap_show.php?
-||autohop.bg/images/Banner
 ||auto-press.net/img/top_banner/
 ||autopress.tv/banners/
 ||avgbulgaria.com/uploaded/banners/
@@ -102,9 +99,6 @@ b.dnevnik.bg/getban.php?
 ||bgnes.com/img/bann/
 ||bgnes.com/rekl/
 ||bg-obiava.com/banner
-||bgpazar.com/banners/
-||bgpazar.com/images/banner*
-||bgpazar.com/logo/ok/250*
 b.grabo.bg
 ||bgrabotodatel.com/images/Banner*
 ||bg.search.etargetnet.com/generic/
@@ -117,6 +111,7 @@ b.grabo.bg
 ||bgzona.info/bitbucket-upload/used280x110.gif
 ||bgzona.info/pic/neww/
 ||bia-bg.com/photos/*.swf
+||biblio.bg/images/banner/
 ||bigbrother.bg/banners/
 ||billboard-bg.com/lechebnik.jpg
 ||binitrip.data.bg/media/kolektiva.jpg
@@ -142,6 +137,7 @@ bt.wrzru.com/pic/*.swf
 ||bumbum.gr/images/banners/
 ||burgasnews.com//images/banners/
 ||business.bg/site_files/d-sitebanners/
+||cars.bg/images/branding/
 ||cars.bg/images/px.gif
 ||catalog.bg/images/banner
 cat.arenabg.com/assets/more/banner
@@ -167,6 +163,7 @@ cat.arenabg.com/assets/more/banner
 ||dalavera.com/reklama/
 ||daobg.com/adv/
 ||dar.bg/images/*banner
+||dariknews.bg/images/sg_bg__2.png
 ||data.bg/data*.swf
 ||data.bg/media/*banner
 ||data.bg/media/databg_*
@@ -195,9 +192,7 @@ cat.arenabg.com/assets/more/banner
 ||dtrailer.com/arenabg
 ||dtv-bg.com/banners/
 ||dzhebel.com/images/*adv.gif
-||e-79.com/MyUpload/dinatstroi.swf
-||e-79.com/MyUpload/reklama*
-||e-79.com/MyUpload/senter_analiz1.swf
+||e-79.com/images/banners/
 ||easytrader.bg/banner.php
 ||e-bookbg.com/images/banners/
 ||ecenter-bg.com/images/banners/
@@ -225,7 +220,11 @@ cat.arenabg.com/assets/more/banner
 ||freehost.homelinux.*/fg/
 ||freehost.homelinux.*/zundert
 ||freepicsupload.com/pics/phprjRjAU-tic10.gif
+||frognews.bg/files/baner_frog_bez_alexey_pertov_new.swf
 ||frognews.bg/files/banner
+||frognews.bg/files/decor_03.swf
+||frognews.bg/files/logo_slt.jpg
+||frognews.bg/files/lukoil.swf
 ||frognews.bg/Frog/images/banners/
 ||frognews.bg/Frog/images/flash/
 ||ftech-bg.com/images/*banner*
@@ -241,6 +240,7 @@ cat.arenabg.com/assets/more/banner
 ||haskovo.net/banners
 ||haskovo.net/include/banners/
 ||hb.hostbulgaria.com/hb-banner*
+||helikon.bg/design/banner*
 ||hide-my-ip.com/promo/
 ||hls-bg.com/hls186x56.gif
 ||horoskopa.com/banners
@@ -313,6 +313,7 @@ kolektiva.ffsbg.com/banners/widget_banner_728x230/
 ||kurier.bg/files/banners/
 ||kvasilev.com/images/srebro.swf
 ||learnfree.eu/wp-content/uploads/banners/
+||lifehacker.bg/banner.php
 ||liternet.bg/image/baner/
 ||look-estates.com/userfiles/templates/default/static/images/banner
 ||lucrat.net/*Banner*.swf
@@ -387,13 +388,7 @@ kolektiva.ffsbg.com/banners/widget_banner_728x230/
 ||online-televizia.net/images/banners/
 ||opencamp.talkweb.eu/468x60*
 ||ouim.org/upload/banners/
-||pa-media.net/banner
-||pa-media.net/images/banners
-||pa-media.net/images/powered
-||pa-media.net/new/images/powered
-||pa-media.net/new/themes/NukeNews/images/hig*.swf
-||pa-media.net/new/themes/NukeNews/images/metalika_top.swf
-||pa-media.net/yavork
+||pa-media.net/new/e107_images/banners/
 ||parfiumite.com/index.php?target=banner
 ||parfumibg.com/baner_left/
 ||parfumibg.eu/baner_left/
@@ -418,7 +413,6 @@ kolektiva.ffsbg.com/banners/widget_banner_728x230/
 ||podtepeto.com/reklama/
 ||pokerstars.com/*_bnrs/
 ||pokerstars.com/bnrs/
-||politika.bg/ad/
 ||pozvanete.bg/images/banners/
 ||pozvanete.bg/images/flashcontainers/b*
 ||praseta.com/files/banner
@@ -431,7 +425,6 @@ kolektiva.ffsbg.com/banners/widget_banner_728x230/
 ||prikachi.com/flash/files/
 ||pro-dance.org/e107_images/banners/
 ||pro-dance.org/news/728x90banner.html
-||prodavach.com/wp-content/uploads/2010/08/728_90.gif
 ||proekti.bg/adv/
 ||programata.bg/img/zagorka*.jpg
 ||pro-rock.net/images/flashframes/
@@ -455,6 +448,11 @@ rem.rezonmedia.eu/images/
 ||reset.bg/images/banners/
 ||retv.bg/loader/loader.swf
 ||rezervaciq.com/img/banners
+||rodopinews.com/images/banners/
+||rodopinews.com/images/stories/31.07/jidikom6.jpg
+||rodopinews.com/images/stories/mihalkovo%20(1).gif
+||rodopinews.com/images/stories/mirodato.jpg
+||rodopinews.com/images/stories/nufi%20-%20banner%20-%20last.gif
 ||rp-mobil.com/images/b/
 ||rumblerace.com/pics/banner
 ||ruseinfo.net/adv/
@@ -504,8 +502,10 @@ rem.rezonmedia.eu/images/
 ||spesti.bg/images/ban*
 ||spesti.bg/images/bnr*
 ||sportal.bg/brand_images/
+stardust.linuxolution.org/baner/
 ||starfm.bg/banners/
 ||startup-bg.com/images/baner
+||static.bgnes.com:8080/img/bann/
 ||static.cs-bg.net/csbgnet/images/adcsbg/banners/
 ||static.easytrader.bg/v2/banners/
 ||static.pazaruvaj.com/bg/banners/
@@ -567,6 +567,7 @@ torrent.alein.org/images/system/wotlk_new_img.png
 ||void.clip4e.com/banners/
 ||vratza.com/banners/
 ||vsekiden.com/BANNERS/
+||vsekiden.com/imgs/BANNERS/
 ||webcambg.com/reklama/
 ||webdesign-bulgaria.com/images/banners
 ||web.dobg.net/banners/
@@ -644,6 +645,7 @@ hardwarebg.com##TABLE[style="border: 1px solid #000000; margin: 0; padding: 0;"]
 hi7s.com###bgtp
 kartelito.com###topbar
 kaspyr.com###topbar
+##.lapni-pop-over
 lesno-fakturirane.com##td[class="left_fon"]
 lifestyle.ibox.bg###divbh1.lfs-top-banner-holder
 managerteams.com###footer_inner_wrapper
@@ -657,6 +659,7 @@ muzichka.eu###showimage
 muzichka.eu##.smsbaner
 myonvideo.com###topbar
 nakino.eu###WPS_popup_message
+newshub.bg###banner-top
 news.ibox.bg##.nws-commercial-column
 pari.bg##.bannerbox
 pari-ot-internet-bg.com###login_popup_content
@@ -671,6 +674,7 @@ pressboard.info##.banner
 prikachi.com###banner
 programata.bg###banner_right
 programata.bg###banner_top
+rodopinews.com###wdBanners
 sedmica.sliven.net###right
 sensebox.net##.bannerup
 sfilmi.com##.popup
@@ -692,6 +696,8 @@ vesti.bg###topBannerBlock
 vnews.bg##.banner
 vplay7.com###topbar
 websbg.net###dinabar
+zovnews.com##.banner_col
+zovnews.com##.banner_top
 !
 !--- Whitelist rules ---!
 @@||conquiztador.bg/client_pre_frame.php
