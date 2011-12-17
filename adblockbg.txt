@@ -81,6 +81,7 @@ aha.aukro.bg/banners.php
 ||barterbg.net/images/barterbg_300_250.gif
 b.dnevnik.bg/getban.php?
 ||bdz.bg/ban/
+||befsa.com/banners/
 ||beroe.eu/images/reklama/
 ||bet.bg/images/banners/
 ||bezvazelin.net/e107_images/banners/
@@ -141,6 +142,7 @@ bt.wrzru.com/pic/*.swf
 ||cars.bg/images/px.gif
 ||catalog.bg/images/banner
 cat.arenabg.com/assets/more/banner
+||cdn.plus500.com/Media/Banners/
 ||cenite.com/srennab/
 ||chambersz.com/im/nopic.swf
 ||choco.bg/prikachi/4sex.png
@@ -246,6 +248,7 @@ cat.arenabg.com/assets/more/banner
 ||horoskopa.com/banners
 ||hotfile.com/i/*baner
 ||hotmail.bg/img/b*.gif
+||hotspotbulgaria.com/wp-content/uploads/2011/09/Interbild_promo.jpg
 ||hrisimirpopov.com/images/banners
 ||hsmaritsa.com/images/banners/
 i55.tinypic.com/2zqat89.gif
@@ -366,6 +369,7 @@ kolektiva.ffsbg.com/banners/widget_banner_728x230/
 ||napravisam.bg/newimage/reklama*
 ||napravisam.bg/ns.swf
 ||napravisam.bg/reklama/
+||naturalenergy.bg/banners/
 ||ndk.bg/ads/
 ||ndt1.com/images/*bnr
 ||ndt1.com/images/izida-sport-web-160x144_256.png
@@ -483,6 +487,8 @@ rem.rezonmedia.eu/images/
 ||sliveninfo.com/images/banners
 ||sliveninfo.com/imagesflash
 ||sliveninfo.com/images/novi%20baneri
+||sliveninfo.com/images/snimki/img/anabel_klima.jpg
+||sliveninfo.com/images/snimki/img/tam-new-last.gif
 ||sliveninfo.com/images/snimki/new/banner*
 ||sliven.net/adv/
 ||sliven-news.com/images/stories/biznespredstavqne/city_net_270x90px.jpg
@@ -520,6 +526,7 @@ store.picbg.net/pubpic/D3/75/16a587896593d375.PNG
 subs.sab.bz/images/BANER.jpg
 subs.sab.bz/images/*banner
 subs.sab.bz/images/lev_ok.gif
+subs.sab.bz/images/reset.swf
 ||subsunacs.net/tvds*
 ||svejo.net/images/branding/
 ||syndication.webwizguide.info/pagead/
@@ -661,6 +668,7 @@ myonvideo.com###topbar
 nakino.eu###WPS_popup_message
 newshub.bg###banner-top
 news.ibox.bg##.nws-commercial-column
+novini.bg##.line_banner
 pari.bg##.bannerbox
 pari-ot-internet-bg.com###login_popup_content
 pari-ot-internet-bg.com##.module.borderwrap
@@ -705,4 +713,5 @@ zovnews.com##.banner_top
 @@||e2.emediate.se/eas$match-case,domain=play.novatv.bg
 ~noshtuvki.burkan.info###adbody
 ~rbb.bg###Ads
+@@||sportal.bg/uploads/video_advertising/
 
