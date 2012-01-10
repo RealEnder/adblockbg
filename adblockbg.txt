@@ -157,7 +157,6 @@ cdn.plus500.com/Media/Banners/
 ||conquiztador.bg/banner/
 ||conquiztador.bg/bgbanners/
 ||conquiztador.bg/getbannerframe.php
-||conquiztador.bg/swf/testclient.swf
 ||conquiztador.bg/swf/tournament_webpromo.swf
 ||contract.bg/images/
 ||correctplus.com/images/baner*
