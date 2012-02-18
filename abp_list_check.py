@@ -4,51 +4,43 @@ import sys
 import os.path
 import urlparse
 import socket
-import urllib2
+from urllib2 import urlopen, HTTPError
 
-print 'Check AdBlockPlus filters for outdated entries v0.2.2 by Alex Stanev, http://stanev.org/abp'
+print 'Check AdBlockPlus filters for outdated entries v0.2.3 by Alex Stanev, http://stanev.org/abp'
 
 if len(sys.argv) != 2:
-    print 'Usage: abp_list_check.py [abp_list.txt]'
-    sys.exit(1)
+    print 'Usage: %s [abp_list.txt]' % sys.argv[0]
+    sys.exit(0)
 if not os.path.exists(sys.argv[1]):
     print 'Could not find the list'
     sys.exit(1)
 
-socket.setdefaulttimeout(5)
-no_res = 0
+socket.setdefaulttimeout(2)
+no_res  = 0
 no_host = 0
-skip = 0
-short = 0
-curr = 0
+skip    = 0
+short   = 0
+curr    = 0
 
 abplist = open(sys.argv[1])
 for line in abplist:
     curr += 1
     rline = line.strip()
-    
-    #check for comment or empty ot section [
-    if len(rline) == 0:
+
+    #remove #, $, ~, ^
+    #check for comment or empty or section [
+    for sym in ('#', '$', '~', '^', '[', '!'):
+        if rline.find(sym) != -1:
+            rline = rline[:rline.find(sym)]
+
+    if rline == '':
         skip += 1
         continue
-    if rline[0] in ('[','!'):
-        skip += 1
-        continue
-    
-    # remove #, $, ~, ^ if present
-    if rline.find('#') != -1:
-        rline = rline[:rline.find('#')]
-    if rline.find('$') != -1:
-        rline = rline[:rline.find('$')]
-    if rline.find('~') != -1:
-        rline = rline[:rline.find('~')]
-    if rline.find('^') != -1:
-        rline = rline[:rline.find('^')]
     
     #check for short entries
-    if len(rline) < 4:
+    if len(rline) < 3:
         short += 1
-        print curr, ': Too short :', line,
+        print '%i: Too short : %s' % (curr, line),
         continue
 
     #check whitelists too
@@ -56,14 +48,12 @@ for line in abplist:
         rline = rline[2:]
 
     #remove single or double starting pipe
-    if rline[0] == '|':
-        rline = rline[1:]
-    if rline[0] == '|':
+    while rline[0] == '|':
         rline = rline[1:]
         
     #check for protocol idents
-    if rline[0:7].lower() == 'http://' or rline[0:8].lower() == 'https://':
-        print curr, ': Consider removing protocol identificator :', line,
+    if rline.startswith(('http://', 'https://')):
+        print '%i: Consider removing protocol identificator : %s' % (curr, line),
     else:
         rline = 'http://' + rline
     
@@ -72,7 +62,7 @@ for line in abplist:
     #check for wildcards in host
     if url[1] == '' or url[1].find('*') != -1:
         no_host += 1
-        #print curr, ': Wildcard or missing host :', line,
+        #print '%i: Wildcard or missing host : %s' % (curr, line),
         continue
     
     #remove wildcards in path if present
@@ -85,13 +75,17 @@ for line in abplist:
             path = path[:path.rfind('/')]
     
     #access the resource
+    #print url[0]+'://'+url[1]+path
     try:
-        resp = urllib2.urlopen(url[0]+'://'+url[1]+path)
-    except Exception, e:
-        if hasattr(e, 'code'):
-            if e.code == 404:
-                no_res += 1
-                print curr, ': Resource not found :', line,
+        urlopen(url[0]+'://'+url[1]+path)
+    except HTTPError, e:
+        if e.code in (404, 410):
+            no_res += 1
+            print '%i: %i Resource not found : %s' % (curr, e.code, line),
+        if e.code >= 500:
+            print '%i: %i Server error : %s' % (curr, e.code, line),
+    except Exception:
+        None
                 
 abplist.close()
-print '\nChecked lines:%s\nNot found:%s\nIndeterminable:%s\nToo short:%s\nSkipped:%s' % (curr, no_res, no_host, short, skip)
+print '\nChecked lines:%i\nNot found:%i\nIndeterminable:%i\nToo short:%i\nSkipped:%i' % (curr, no_res, no_host, short, skip)
