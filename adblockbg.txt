@@ -87,6 +87,7 @@ b.dnevnik.bg/getban.php?
 ||bet.bg/images/banners/
 ||bezvazelin.net/e107_images/banners/
 ||bgbaner.com/getads.php
+||bgbazar.com/_files/banner/
 ||bgcert.com/banner/
 ||bgfanfootball.com/images/banners
 ||bghelp.co.uk/banners/
@@ -119,6 +120,7 @@ b.grabo.bg
 ||binitrip.data.bg/media/kolektiva.jpg
 ||bioprogramme.net/banner/
 ||bipartia.com/images/banners/
+||bivol.bg/images/banners/
 ||bmwpower-bg.net/banners
 ||borbabg.com/reklama/
 ||bourgas.org/banners/
@@ -302,6 +304,7 @@ i.wisdom.bg/adv/
 ||jennasblog.net/banner/
 ||jobs.bg/images/branding/
 ||journey.bg/ads/
+||juen.bg/adv/
 ||kabinata.com/banners/
 ||kachi-snimka.info/ads/
 ||kakvo.org/baners
@@ -399,6 +402,8 @@ kolektiva.ffsbg.com/banners/widget_banner_728x230/
 ||pcmania.bg/banners/
 ||pcw.bg/main/images/banners/
 ||perp.itforcebg.com/images/banners/
+||petnoto.com/images/banners/
+||petnoto.com/images/stories/petno_xraydio.swf
 ||photo-cult.com/pics/baneri/
 ||photo-forum.net/static/banner/
 ||picbg.net/center-banner.php
@@ -426,6 +431,9 @@ kolektiva.ffsbg.com/banners/widget_banner_728x230/
 ||pressclub.bg/ads
 ||preszona.com///img/BANNERS/
 ||prikachi.com/flash/files/
+||prikachi.com/images/174/2371174o.png
+||prikachi.com/images/678/4003678R.gif
+||prikachi.com/images/981/4285981a.jpg
 ||pro-dance.org/e107_images/banners/
 ||pro-dance.org/news/728x90banner.html
 ||proekti.bg/adv/
@@ -522,7 +530,10 @@ stardust.linuxolution.org/baner/
 ||static.sport-vt.com/obsht_sportvt.swf
 ||storage.netinfo.bg/Banners/
 ||store.bg/ads/
+store.picbg.net/pubpic/8A/1A/94fba2ae89238a1a.gif
+store.picbg.net/pubpic/CF/48/ef875e85639acf48.jpg
 store.picbg.net/pubpic/D3/75/16a587896593d375.PNG
+store.picbg.net/pubpic/F0/56/c0f0a9066decf056.gif
 ||studiolight-bg.com/_tmp/Banner.gif
 subs.sab.bz/images/BANER.jpg
 subs.sab.bz/images/lev_ok.gif
@@ -535,6 +546,7 @@ t.alein.org/images/banners/
 ||technomarket.bg/files/BANNER/
 ||technooptima.com/catalog/images/banners/
 ||technopolis.bg/catbanners/banners/
+||techshop.bg/adds/
 ||temanews.com/img/banners/
 ||teniski.be/*468x60.
 ||teniski.be/images/shops*
@@ -575,6 +587,8 @@ torrent.alein.org/images/system/wotlk_new_img.png
 ||void.clip4e.com/banners/
 ||vratza.com/banners/
 ||vsekiden.com/imgs/BANNERS/
+||vtv.bg/images/logos/stm.jpg
+||vtv.bg/images/zok.swf
 ||webcambg.com/reklama/
 ||webdesign-bulgaria.com/images/banners
 ||web.dobg.net/banners/
@@ -589,6 +603,8 @@ torrent.alein.org/images/system/wotlk_new_img.png
 ||yambolnews.net/images/stories/adv/
 ||yes.bg/ads/
 ||zadoma.com/res/standard/img/baneri
+||zamunda-bg.org/upleft.php
+||zamunda-bg.org/upright.php
 ||zapernik.com/baneri
 ||zarta.org/banners/
 ||zavedenia.com/banners_box/
@@ -705,6 +721,7 @@ vesti.bg###topBannerBlock
 vnews.bg##.banner
 vplay7.com###topbar
 websbg.net###dinabar
+zamunda-bg.org###topbar
 zoomania.org###widget_A
 zovnews.com##.banner_col
 zovnews.com##.banner_top
