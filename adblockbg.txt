@@ -50,7 +50,10 @@ ads.ibox.bg/banners/*.swf
 adv.abv.bg
 adv.gepime.com
 ||adwise.bg/search/
-||afera.bg/banner
+||afera.bg/280x190*
+||afera.bg/banner*
+||afera.bg/cashterminal-banner.swf
+||afera.bg/gool.swf
 ||afera.bg/images/banners/
 affbg.kolektiva.net/arena_banner_728x230/banners/arena/
 aha.aukro.bg/banners.php
@@ -150,6 +153,7 @@ cdn.plus500.com/Media/Banners/
 ||cenite.com/srennab/
 ||chambersz.com/im/nopic.swf
 ||choco.bg/prikachi/4sex.png
+||ciela.net/FreeStateGazette/images/adv/
 ||cifronim.com/images/pages/image/System/Banner*
 ||clickbg.eblahfree.com/blahdocs/images/forum_banner
 ||climbingguidebg.com/adv/
@@ -496,6 +500,8 @@ rem.rezonmedia.eu/images/
 ||sedmica.sliven.net/img/encho_karakashev.jpg
 ||sedmica.sliven.net/img/evgeni.jpg
 ||segabg.com/a/
+||senzacia.net/wp-content/uploads/2012/02/biokod4.jpg
+||senzacia.net/wp-content/uploads/2012/02/estetika21.jpg
 ||setcom.bg/dv/
 ||sexwell.bg/maneri/
 ||shops.bg/banners/
@@ -503,6 +509,7 @@ rem.rezonmedia.eu/images/
 ||shum.bg/ads/
 ||simonovi-bgshop.com/banners/
 ||sinoptik.bg/i/*btc*.gif
+||skandalno.net/wp-content/uploads/n/efekt%202.png
 ||slivenbg.net/news/images/banners/
 ||sliven.biz/baner*
 ||sliven.biz/source/reklama.jpg
@@ -598,6 +605,7 @@ torrent.alein.org/images/system/wotlk_new_img.png
 ||visitbulgaria.net/rotbnr_visit/
 ||vivacom.bg/Content/flash/threeDLG/Right200x500.swf
 ||vivacom.bg/Content/flash/threeDLG/TransitionBigV2.swf
+||vivacom.bg/Content/flash/VivaBooksFoterW2000px_115px_to450pxH.swf
 ||v-maps.com/banner.jpg
 ||vnews.bg/wp-content/themes/vnews/images/banner*
 ||vnews.bg/wp-content/themes/vnews/images/finalflat2.jpg
@@ -661,6 +669,8 @@ bourgas.org###bannerTop
 bulgarianbasket.com##tr[id="top"]
 business.bg##table[width="220"][bgcolor="#ffffff"]
 cat.arenabg.com##iframe
+ciela.net##.ads_big_block
+ciela.net##.ads_small_block
 cio.bg##.blockBanner
 club-bg.org###topbar
 conquiztador.bg###BANNER
