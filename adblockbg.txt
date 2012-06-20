@@ -139,9 +139,11 @@ b.grabo.bg
 ||bueno.bg/affiliates/
 ||bulborsa.com/images/120X90*
 ||bulborsa.com/images/banners/
+||bulforums.com/source/public_html/images/bforums.jpg
 ||bulgaria-info.uni-web.net/banners/
 ||bulgarianbasket.com/banner/
 ||bulgariaski.com/rotbnr/
+||bulgariatrustandinvest.com/i_baner/
 ||bulphoto.com/banners/
 ||bulwork.net/banner
 ||bumbum.gr/images/banners/
@@ -225,6 +227,7 @@ data.msk.bg/delivery/afr.php
 ||easytrader.bg/banner.php
 ||e-bookbg.com/images/banners/
 ||ecenter-bg.com/images/banners/
+||economy.bg/images/branding/
 ||economynews.bg/website_uploads/Image/theme/euro_atak/
 ||e-firmi.com/images/lasik.jpg
 ||e-firmi.com/images/smetkoplan.png
@@ -247,6 +250,7 @@ data.msk.bg/delivery/afr.php
 ||focus.bg/images/reklami/
 ||forumat-bg.com/images/banners
 ||forum.bg-mamma.com/images/*.swf
+||framar.bg/ads/wp/
 ||framar.bg/filestore/09122011.swf
 ||framar.bg/filestore/*729x90.jpg
 ||framar.bg/filestore/OrchidBronnley.swf
@@ -275,6 +279,7 @@ data.msk.bg/delivery/afr.php
 ||hide-my-ip.com/promo/
 ||hls-bg.com/hls186x56.gif
 ||horoskopa.com/banners
+||host.click.bg/images/anim_banner*
 ||hotmail.bg/img/b*.gif
 ||hotspotbulgaria.com/wp-content/uploads/2011/09/Interbild_promo.jpg
 ||hrisimirpopov.com/images/banners
@@ -420,6 +425,7 @@ kolektiva.ffsbg.com/banners/widget_banner_728x230/
 ||online.bg/banners/
 ||online-televizia.net/images/banners/
 ||opencamp.talkweb.eu/468x60*
+||otzvuk.net/static/banners/
 ||ouim.org/upload/banners/
 ||pa-media.net/new/e107_images/banners/
 ||parfiumite.com/index.php?target=banner
@@ -605,9 +611,9 @@ torrent.alein.org/images/system/wotlk_new_img.png
 ||varna-sport.com/a-d-s/
 ||vbox7.com/adwise/
 ||vbox7.com/design/contests/
+||vbox7.com/design/group/mamaGroup/mamaBgr.jpg
 ||vbox.bg/banners/
 ||vbox.bg/htdocs/images/default/728x90
-||vbox.bg/images/
 ||versia.bg/images/flash/
 ||vevesti.com/images/banners/
 ||vinpromtaskov.com/banner
@@ -647,6 +653,7 @@ torrent.alein.org/images/system/wotlk_new_img.png
 ||zamunda-bg.org/upright.php
 ||zapernik.com/baneri
 ||zarta.org/banners/
+||zavedenia.com/bannerapp/
 ||zavedenia.com/banners_box/
 ||zdrave.net/document/banner/
 ||znam.li/ad/
@@ -681,6 +688,7 @@ bg-tv.net###topbar
 bg-zone.net##.adv_box_kv_left
 bg-zone.net##.adv_box_kv_right
 bourgas.org###bannerTop
+bulforums.com##DIV[style="height:100px !important; overflow:hidden; background:#8cc051 url(http://www.bulforums.com/source/public_html/images/bforums.jpg) no-repeat top left;"]
 bulgarianbasket.com##tr[id="top"]
 business.bg##table[width="220"][bgcolor="#ffffff"]
 cat.arenabg.com##iframe
