@@ -35,6 +35,7 @@ com.nxtras.banner.ImageRotator
 ||4coolpics.com/banner/
 89.215.175.32/banners/
 91.196.126.51/ads
+||911.bg/a2/images/911_brand.jpg
 911.bg/bansys/b/
 ||absurdi.com/files/banner/
 ac.all.bg/i/
@@ -203,6 +204,7 @@ cdn.plus500.com/Media/Banners/
 data.msk.bg/delivery/afr.php
 ||deals.bg/branding.php
 ||dedo.bg/banners/
+||den.bg/image/modules/www/themes/default/images/*234x60.jpg
 ||desant.net/banners/
 ||devabroadcast.com/banner.php
 ||devastyle.com/deva/images/banners/
@@ -260,6 +262,7 @@ data.msk.bg/delivery/afr.php
 ||freepicsupload.com/pics/phprjRjAU-tic10.gif
 ||frognews.bg/files/banner
 ||frognews.bg/files/logo_slt.jpg
+||frognews.bg/files/logo_zibo_courier_album_new2.jpg
 ||frognews.bg/files/*.swf
 ||frognews.bg/Frog/images/banners/
 ||frognews.bg/Frog/images/flash/
@@ -375,6 +378,7 @@ kolektiva.ffsbg.com/banners/widget_banner_728x230/
 ||megashop.bg/vaucher.swf
 ||mercedes-club-bg.com/images/banners/
 ||mikael7.com/files/banners/
+||millionaire.bg/writeBanner.jsp
 ||mit.bg/baner*
 ||mit.bg/*banner
 ||mobile.bg/images/picturess/bazar_bazar.swf
@@ -663,6 +667,7 @@ torrent.alein.org/images/system/wotlk_new_img.png
 4uk4e.com##.block.ads1.f1
 4uk4e.com##.block.f1.calend
 4uk4e.com##.foot-banners.clear
+911.bg##.vip-firms
 absurdi.com##div[style="padding: 0 0 5px 0;"]
 absurdi.com##.right_banner
 abv.bg###aukcion
@@ -753,6 +758,7 @@ prikachi.com###banner
 prodavalnik.com##.banner.productpage-top
 programata.bg###banner_right
 programata.bg###banner_top
+recepti.gotvach.bg###pop
 rodopinews.com###wdBanners
 sedmica.sliven.net###right
 sensebox.net##.bannerup
@@ -781,6 +787,8 @@ zovnews.com##.banner_col
 zovnews.com##.banner_top
 !
 !--- Whitelist rules ---!
+@@ads.ibox.bg/all_ins.php
+@@ads.ibox.bg/crossdomain.xml
 @@||conquiztador.bg/client_pre_frame.php
 @@||emediate.se/crossdomain.xml
 @@||emediate.se/eas$match-case,domain=play.novatv.bg
