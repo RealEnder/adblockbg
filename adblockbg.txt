@@ -72,6 +72,7 @@ aha.aukro.bg/banners.php
 ||astrohoroscope.info/reklama/
 ||auto-press.net/img/top_banner/
 ||autopress.tv/banners/
+||avatar-bg.org/images/logoparket.gif
 ||avgbulgaria.com/uploaded/banners/
 ||avtocatalog.org/banerss/
 ||azcheta.com/images/banners
@@ -234,6 +235,7 @@ data.msk.bg/delivery/afr.php
 ||e-firmi.com/images/lasik.jpg
 ||e-firmi.com/images/smetkoplan.png
 ||erotichno-belio.com/banner*
+||e-sim.home.pl/eworld/img/securaLogo.png
 ||etaj55.com/adv/banners
 ||eventim.bg/root/upload/banner/
 ||e-vestnik.bg/img/banners/
@@ -381,6 +383,7 @@ kolektiva.ffsbg.com/banners/widget_banner_728x230/
 ||millionaire.bg/writeBanner.jsp
 ||mit.bg/baner*
 ||mit.bg/*banner
+||mobile.bg/images/brands/
 ||mobile.bg/images/picturess/bazar_bazar.swf
 ||mobilebulgaria.com/uploads/banners/
 ||monitor.bg/ad/
@@ -660,6 +663,7 @@ torrent.alein.org/images/system/wotlk_new_img.png
 ||zavedenia.com/bannerapp/
 ||zavedenia.com/banners_box/
 ||zdrave.net/document/banner/
+||zepir.com/storage/banners/
 ||znam.li/ad/
 !
 !--- Specific element hiding rules ---!
@@ -682,6 +686,7 @@ arenabg.com##div[style="width: 728px;"]
 arenabg.com##iframe[src="iframe_emall.php"]
 arenabg.com##iframe[style="background-color: rgb(31, 31, 31);"]
 arenabg.com##tr[style="height: 185px;"]
+avatar-bg.org##.aff_banner_728
 avtoalarmi.produkti.sofia.point.bg###popupEmail-panel
 bacho-tv.ovo.bg###topbar
 bg69.com###lenta
@@ -771,6 +776,7 @@ sliveninfo.com###righttopbanner
 sliven-news.com###banner_wrap
 sliven-news.com##.users_wrap
 spesti.bg##.adv
+stuntteamhazart.com##.clip
 subs.sab.bz###adv
 svejo.net###hot_offers
 ticketpro.bg###baners_top
@@ -782,6 +788,8 @@ vnews.bg##.banner
 vplay7.com###topbar
 websbg.net###dinabar
 zamunda-bg.org###topbar
+zepir.com##DIV[style="margin: 0px 0px 0px 5px; border: 1px solid #C7C7C7; padding: 1px; width: 180px; height: 216px"]
+zepir.com##DIV[style="margin: 0px 0px 0px 9px; border: 1px solid #C7C7C7; padding: 1px; width: 250px; height: 300px"]
 zoomania.org###widget_A
 zovnews.com##.banner_col
 zovnews.com##.banner_top
