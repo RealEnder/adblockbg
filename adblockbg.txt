@@ -79,6 +79,7 @@ aha.aukro.bg/banners.php
 ||avtocatalog.org/banerss/
 ||azcheta.com/images/banners
 ||bacchus.bg/img/baner_*.jpg
+||balkantourist.bg/rent_a_car_EN_balkanT.swf
 ||bana-bg.org/images/banners/
 ||banerss.hit.bg/banners/
 ||banner1.eu/images/advert.jpg
@@ -268,6 +269,7 @@ data.msk.bg/delivery/afr.php
 ||gis-sofia.bg/uploads/image/gis_banner*
 ||gorgonbg.org/images/banners/
 ||grupo.bg/banners/
+||hala.bg/images_news/reklama*
 ||hardwarebg.com/ads/
 ||haskovo.net/adv/
 ||haskovo.net/banners
@@ -469,6 +471,7 @@ i.wisdom.bg/adv/
 ||publikuvai.com/images/banners/
 ||qualityoils.eu/baner2
 ||radiotangra.com/media/banners/
+||razdavalnik.bg/banners/
 ||razkritia.com/wp-content/bg*
 ||razkritia.com/wp-content/uploads/banner*
 r.dir.bg
@@ -611,6 +614,7 @@ torrent.alein.org/images/system/wotlk_new_img.png
 ||vevesti.com/images/banners/
 ||vinpromtaskov.com/banner
 ||vipoferta.bg/aBans/
+||vipoferta.bg/banners/
 ||vipoferta.bg/elitBGaff/
 ||visitbulgaria.net/rotbnr_visit/
 ||vivacom.bg/Content/flash/threeDLG/Right200x500.swf
@@ -733,6 +737,7 @@ muzichka.eu##.smsbaner
 myonvideo.com###topbar
 nakino.eu###WPS_popup_message
 newshub.bg###banner-top
+news.ibox.bg###GoogleAdSense
 news.ibox.bg##.nws-commercial-column
 novini.bg##.line_banner
 pari.bg##.bannerbox
@@ -769,6 +774,7 @@ ticketpro.bg###baners_top
 topsport.ibox.bg##.sponsor-logo
 tv7.bg###NOTJ
 tv.byalareka.com###topbar
+vbox7.com###headerLineBgr
 vesti.bg###banner1
 vesti.bg###topBannerBlock
 vnews.bg##.banner
