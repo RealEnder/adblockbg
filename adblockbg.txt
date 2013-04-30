@@ -36,6 +36,7 @@ com.nxtras.banner.ImageRotator
 ||4coolpics.com/banner/
 89.215.175.32/banners/
 91.196.126.51:8080/share/banners/
+||91.196.126.51:8080/var/assets/banners/
 91.196.126.51/ads
 ||911.bg/images/banners/
 ||absurdi.com/files/banner/
@@ -66,6 +67,9 @@ aha.aukro.bg/banners.php
 ||amam.bg/bans/
 ||androidbg.com/banner*
 ||animes-bg.com/reklama/
+||ardanews.info/banners/
+||ardanews.info/wp-content/uploads/2011/04/obredendom.png
+||ardanews.info/wp-content/uploads/2013/04/baner_dps.jpg
 ||arenabg.com/adz_active/*.js
 ||arenabg.com/cat-ads.html
 ||arenabg.com/iframe_easy.php
@@ -181,6 +185,7 @@ cdn.plus500.com/Media/Banners/
 ||data.bg/media/databg_*
 ||data.bg/media/Data_Zayo_Bayo.png
 ||data.bg/media/kolektiva.png
+||data-bg.org/120x240*
 ||data-bg.org/*460x60.swf
 ||data-bg.org/banner*
 ||data-bg.org/pic/user_images/130718586914170.gif
@@ -197,6 +202,18 @@ cdn.plus500.com/Media/Banners/
 ||data-bg.org/pic/user_images/132982891518243.png
 ||data-bg.org/pic/user_images/13298291381220.jpeg
 ||data-bg.org/pic/user_images/133025188919930.gif
+||data-bg.org/pic/user_images/135448736739646.jpeg
+||data-bg.org/pic/user_images/135876620413834.png
+||data-bg.org/pic/user_images/135940084817364.gif
+||data-bg.org/pic/user_images/136033052718784.jpeg
+||data-bg.org/pic/user_images/13627516781315.png
+||data-bg.org/pic/user_images/136317285219132.jpeg
+||data-bg.org/pic/user_images/136320779218466.jpeg
+||data-bg.org/pic/user_images/136370794116124.gif
+||data-bg.org/pic/user_images/136370843912439.gif
+||data-bg.org/pic/user_images/136430399815931.jpeg
+||data-bg.org/themes/TBDev/images/izkupime1.gif
+||data-bg.org/themes/TBDev/images/izkupime.gif
 data.msk.bg/delivery/afr.php
 ||deals.bg/branding.php
 ||den.bg/image/modules/www/themes/default/images/*234x60.jpg
@@ -256,6 +273,7 @@ data.msk.bg/delivery/afr.php
 ||frognews.bg/files/*.swf
 ||frognews.bg/Frog/images/banners/
 ||frognews.bg/Frog/images/flash/
+||frognews.bg/images/adv/
 ||ftech-bg.com/images/*banner*
 ||funbg.net/e107_images/banners/
 ||gbg.bg/resources/html/aukro_*
@@ -272,6 +290,7 @@ data.msk.bg/delivery/afr.php
 ||hb.hostbulgaria.com/hb-banner*
 ||helikon.bg/design/banner*
 ||hide-my-ip.com/promo/
+||hitceni.bg/banners/
 ||hls-bg.com/hls186x56.gif
 ||horoskopa.com/banners
 ||host.click.bg/images/anim_banner*
@@ -325,6 +344,7 @@ img.zamunda.net/banners/
 ||investor.bg/brandings
 ||ipo.bg/bannercache
 i.potv.bg/i/*728x90*
+||iskamrabota.bg/images/banners/
 i.wisdom.bg/adv/
 ||izbori.biz/add/
 ||jarcomputers.com/banners
@@ -518,6 +538,7 @@ rem.rezonmedia.eu/images/
 ||senzacia.net/wp-content/uploads/2012/02/biokod4.jpg
 ||senzacia.net/wp-content/uploads/2012/02/estetika21.jpg
 ||setcom.bg/dv/
+||sextv.kikosex.com/reklama/
 ||sexwell.bg/maneri/
 ||shops.bg/banners/
 ||shops.bg/newimage/zaigravka.gif
@@ -536,6 +557,7 @@ rem.rezonmedia.eu/images/
 ||sliveninfo.com/images/banners
 ||sliveninfo.com/imagesflash
 ||sliveninfo.com/images/novi%20baneri
+||sliveninfo.com/images/snimki/banners/
 ||sliveninfo.com/images/snimki/img/anabel_klima.jpg
 ||sliveninfo.com/images/snimki/img/tam-new-last.gif
 ||sliveninfo.com/images/snimki/new/banner*
@@ -684,6 +706,7 @@ arenabg.com##div[style="border: 1px solid rgb(255, 255, 255); overflow: auto; ba
 arenabg.com##div[style="width: 728px;"]
 arenabg.com##iframe[src="iframe_emall.php"]
 arenabg.com##iframe[style="background-color: rgb(31, 31, 31);"]
+arenabg.com###top
 arenabg.com##tr[style="height: 185px;"]
 as.adwise.bg##.adwiseBlock
 avatar-bg.org##.aff_banner_728
@@ -711,6 +734,7 @@ conquiztador.bg##td[valign="middle"][align="center"][style="border: 1px solid rg
 dariknews.bg###colorbox
 data.bg###bannertop_72890
 data-bg.org###aff-popup-banner
+data-bg.org###topbar
 data.bg###red
 diukian4e.gigerstudio.info###topbar
 dnevnik.bg##.paidAdvert
@@ -773,7 +797,6 @@ sfilmi.com##.popup
 sinoptik.bg##.astralBlock
 sinoptik.bg##.ecoHomeWeber
 skandalno.net###navpages
-sliveninfo.com##.block
 sliveninfo.com###lefttopbanner
 sliveninfo.com###righttopbanner
 sliven-news.com###banner_wrap
