@@ -36,7 +36,8 @@ com.nxtras.banner.ImageRotator
 ||4coolpics.com/banner/
 89.215.175.32/banners/
 91.196.126.51:8080/share/banners/
-||91.196.126.51:8080/var/assets/banners/
+91.196.126.51:8080/var/assets/banners/
+91.196.126.51:8081/var/assets/banners/
 91.196.126.51/ads
 ||911.bg/images/banners/
 ||absurdi.com/files/banner/
@@ -71,9 +72,6 @@ aha.aukro.bg/banners.php
 ||ardanews.info/wp-content/uploads/2011/04/obredendom.png
 ||ardanews.info/wp-content/uploads/2013/04/baner_dps.jpg
 ||arenabg.com/adz_active/*.js
-||arenabg.com/cat-ads.html
-||arenabg.com/iframe_easy.php
-||arenabg.com/images/noposter.jpeg
 ||arenabg.com/var/assets/banners/
 ||arena.filmi-wb.info/wp-content/uploads/2012/10/oferti_anigif.gif
 ||argumenti-bg.com/imgs/banners/
@@ -121,7 +119,6 @@ b.grabo.bg
 ||bg.search.etargetnet.com/generic/
 ||bgtelevizia.com/adds/
 ||bgtop100.com/imgs/*ad
-||bgtree.net/sm_templates/medicalizer.swf
 ||bgvolleyball.com/banner/
 ||bgwebchart.com/mitko/baners/
 ||bgweb.tv/images/Banner
@@ -152,8 +149,8 @@ b.grabo.bg
 ||bulwork.net/banner
 ||bumbum.gr/images/banners/
 ||burgasnews.com//images/banners/
+||burgasnews.com/images/banners/
 ||business.bg/site_files/d-sitebanners/
-||cars.bg/ads.php
 ||cars.bg/images/branding/
 ||cars.bg/images/px.gif
 ||catalog.bg/images/banner
@@ -164,6 +161,7 @@ cdn.plus500.com/Media/Banners/
 ||choco.bg/prikachi/4sex.png
 ||ciela.net/FreeStateGazette/images/adv/
 ||cifronim.com/images/pages/image/System/Banner*
+||cinemabg.net/images/146.png
 ||clickbg.eblahfree.com/blahdocs/images/forum_banner
 ||climbingguidebg.com/adv/
 ||clip4e.net/img/264x60
@@ -256,7 +254,6 @@ data.msk.bg/delivery/afr.php
 ||flash4e.com/images/ban_
 ||flash-igri.com/banners/
 ||flexi-cms.com/images/banners/
-||flirt4e.com/adv.php
 ||forumat-bg.com/images/banners
 ||forum.bg-mamma.com/images/*.swf
 ||framar.bg/ads/wp/
@@ -287,7 +284,7 @@ data.msk.bg/delivery/afr.php
 ||haskovo.net/adv/
 ||haskovo.net/banners
 ||haskovo.net/include/banners/
-||hb.hostbulgaria.com/hb-banner*
+hb.hostbulgaria.com/hb-banner*
 ||helikon.bg/design/banner*
 ||hide-my-ip.com/promo/
 ||hitceni.bg/banners/
@@ -310,6 +307,7 @@ i.frognews.bg/images/stories/sunnybeachblue.gif
 i.grabo.bg/banners/
 i.grabo.bg/design/site_arenabg/bnr*
 i.id24.bg/bans/
+i.imgur.com/RnuCI1h.png
 ||i-kat.org/images/banners
 image.arukereso.hu/partner/
 ||imagesfrombulgaria.com/baners/
@@ -317,8 +315,8 @@ images.onbux.com/banner.gif
 images.pop.bg/content/banner/
 images.webcafe.bg/2011/04/18/29.swf
 ||imenata.com/flash/
-||img192.imageshack.us/img192/8515/banerfv.jpg
-||img26.imageshack.us/img26/6829/eurogas.gif
+img192.imageshack.us/img192/8515/banerfv.jpg
+img26.imageshack.us/img26/6829/eurogas.gif
 img.abv.bg/AbvProductAds/
 img.frognews.bg/bulgariatourism.png
 ||img.p2pbg.com/misc/bpoke.png
@@ -500,8 +498,8 @@ i.wisdom.bg/adv/
 ||razkritia.com/wp-content/bg*
 ||razkritia.com/wp-content/uploads/banner*
 r.dir.bg
-||r*.dir.bg/js_ext.php
-||r*.dir.bg/js_myads.php
+r*.dir.bg/js_ext.php
+r*.dir.bg/js_myads.php
 ||readbud.com/images/*banner
 ||recaida.com/indexin/images/banners/
 ||rechnik-bg.com/images/*.swf
@@ -591,7 +589,7 @@ static.sport-vt.com/hattrick/hattrick-logo.jpg
 static.sport-vt.com/kick-sportvt.swf
 static.sport-vt.com/obsht_sportvt.swf
 ||stilmont.com/images/670x90*
-||storage.netinfo.bg/Banners/
+storage.netinfo.bg/Banners/
 ||store.bg/ads/
 store.picbg.net/pubpic/8A/1A/94fba2ae89238a1a.gif
 store.picbg.net/pubpic/CF/48/ef875e85639acf48.jpg
@@ -622,11 +620,11 @@ test.idg.bg/st/ads/
 ||timesbg.com/ban2/
 ||topbg.org/banners
 ||top-guns.info/images/banners/
-||torrent.alein.org/images/doggydoggy_633.jpg
-||torrent.alein.org/images/doggydoggy_634.jpg
-||torrent.alein.org/images/system/evowow_new_img.gif
+torrent.alein.org/images/doggydoggy_633.jpg
+torrent.alein.org/images/doggydoggy_634.jpg
+torrent.alein.org/images/system/evowow_new_img.gif
 torrent.alein.org/images/system/gorna_img.jpg
-||torrent.alein.org/images/system/itnet_img_h.png
+torrent.alein.org/images/system/itnet_img_h.png
 torrent.alein.org/images/system/moreimg_img_top.png
 torrent.alein.org/images/system/place_for_you.png
 torrent.alein.org/images/system/wotlk_new_img.png
@@ -666,7 +664,7 @@ torrent.alein.org/images/system/wotlk_new_img.png
 ||web.dobg.net/banners/
 ||webground.bg/news/vlez.php
 ||web-hosting.bg/swf/
-||webmoney.borsa.bg/BannerFactory.php5
+webmoney.borsa.bg/BannerFactory.php5
 ||websbg.net/images/banners/
 ||winner.bg/affiliates/
 ||winner.bg/arena.php
@@ -679,6 +677,7 @@ torrent.alein.org/images/system/wotlk_new_img.png
 ||yambolnews.net/images/banners/
 ||yes.bg/ads/
 ||zadoma.com/res/standard/img/baneri
+||zamunda-bg.org/banner/
 ||zamunda-bg.org/upleft.php
 ||zamunda-bg.org/upright.php
 ||zapernik.com/baneri
@@ -706,7 +705,6 @@ arenabg.com##div[style="border: 1px solid rgb(255, 255, 255); overflow: auto; ba
 arenabg.com##div[style="width: 728px;"]
 arenabg.com##iframe[src="iframe_emall.php"]
 arenabg.com##iframe[style="background-color: rgb(31, 31, 31);"]
-arenabg.com###top
 arenabg.com##tr[style="height: 185px;"]
 as.adwise.bg##.adwiseBlock
 avatar-bg.org##.aff_banner_728
