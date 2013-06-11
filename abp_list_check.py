@@ -1,18 +1,20 @@
-#!/usr/bin/python
+#!/usr/bin/python3
+# (c) Alex Stanev <alex@stanev.org>, http://stanev.org/abp
 # The source code is distributed under GPLv3 license
 import sys
 import os.path
-import urlparse
+import urllib.parse
 import socket
-from urllib2 import urlopen, HTTPError
+from urllib.request import urlopen
+from urllib.error import HTTPError
 
-print 'Check AdBlockPlus filters for outdated entries v0.2.3 by Alex Stanev, http://stanev.org/abp'
+print('Check AdBlockPlus filters for outdated entries\nver 0.3 (c) Alex Stanev, http://stanev.org/abp\n')
 
 if len(sys.argv) != 2:
-    print 'Usage: %s [abp_list.txt]' % sys.argv[0]
+    print('Usage: %s [abp_list.txt]' % sys.argv[0])
     sys.exit(0)
 if not os.path.exists(sys.argv[1]):
-    print 'Could not find the list'
+    print('Could not find the list')
     sys.exit(1)
 
 socket.setdefaulttimeout(2)
@@ -40,7 +42,7 @@ for line in abplist:
     #check for short entries
     if len(rline) < 3:
         short += 1
-        print '%i: Too short : %s' % (curr, line),
+        print('%i: Too short : %s' % (curr, line), end='')
         continue
 
     #check whitelists too
@@ -53,16 +55,16 @@ for line in abplist:
         
     #check for protocol idents
     if rline.startswith(('http://', 'https://')):
-        print '%i: Consider removing protocol identificator : %s' % (curr, line),
+        print('%i: Consider removing protocol identificator : %s' % (curr, line), end='')
     else:
         rline = 'http://' + rline
     
-    url = urlparse.urlparse(rline)
+    url = urllib.parse.urlparse(rline)
     
     #check for wildcards in host
     if url[1] == '' or url[1].find('*') != -1:
         no_host += 1
-        #print '%i: Wildcard or missing host : %s' % (curr, line),
+        #print('%i: Wildcard or missing host : %s' % (curr, line), end='')
         continue
     
     #remove wildcards in path if present
@@ -75,17 +77,21 @@ for line in abplist:
             path = path[:path.rfind('/')]
     
     #access the resource
-    #print url[0]+'://'+url[1]+path
+    #print(url[0]+'://'+url[1]+path)
     try:
         urlopen(url[0]+'://'+url[1]+path)
-    except HTTPError, e:
+    except HTTPError as e:
         if e.code in (404, 410):
             no_res += 1
-            print '%i: %i Resource not found : %s' % (curr, e.code, line),
+            print('%i: %i Resource not found : %s' % (curr, e.code, line), end='')
         if e.code >= 500:
-            print '%i: %i Server error : %s' % (curr, e.code, line),
+            print('%i: %i Server error : %s' % (curr, e.code, line), end='')
     except Exception:
         None
+    except KeyboardInterrupt as ex:
+        print('Keyboard interrupt')
+        break
                 
 abplist.close()
-print '\nChecked lines:%i\nNot found:%i\nIndeterminable:%i\nToo short:%i\nSkipped:%i' % (curr, no_res, no_host, short, skip)
+
+print('\nChecked lines:%i\nNot found:%i\nIndeterminable:%i\nToo short:%i\nSkipped:%i' % (curr, no_res, no_host, short, skip))
