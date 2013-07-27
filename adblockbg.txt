@@ -58,9 +58,11 @@ adv.gepime.com
 ||adwise.bg/search/
 ||afera.bg/280x190*
 ||afera.bg/banner*
+||afera.bg/benim.jpg
 ||afera.bg/cashterminal-banner.swf
 ||afera.bg/gool.swf
 ||afera.bg/images/banners/
+||afera.bg/wp-content/uploads/2012/05/yurt-banner.swf
 affbg.kolektiva.net/arena_banner_728x230/banners/arena/
 aha.aukro.bg/banners.php
 ||alabala.bg/media/banners/
@@ -115,12 +117,14 @@ b.dnevnik.bg/getban.php?
 ||bgmaps.com/images/staticfield/634x20.jpg
 ||bgnes.com/img/bann/
 ||bgnes.com/rekl/
+||bgonair.bg/public/files/banners/
 b.grabo.bg
 ||bgrabotodatel.com/images/Banner*
 ||bgreferendum.bg/*/content/banners/
 ||bg.search.etargetnet.com/generic/
 ||bgtelevizia.com/adds/
 ||bgtop100.com/imgs/*ad
+||bg-voice.com/public/files/banners/
 ||bgvolleyball.com/banner/
 ||bgwebchart.com/mitko/baners/
 ||bgweb.tv/images/Banner
@@ -219,6 +223,9 @@ cdn.plus500.com/Media/Banners/
 data.msk.bg/delivery/afr.php
 ||deals.bg/branding.php
 ||den.bg/image/modules/www/themes/default/images/*234x60.jpg
+||dennews.bg/app/webroot/uploads/banner*
+||dennews.bg/files/banners/
+||dennews.bg/uploads/banners/
 ||desant.net/banners/
 ||devabroadcast.com/banner.php
 ||devastyle.com/deva/images/banners/
@@ -233,6 +240,7 @@ data.msk.bg/delivery/afr.php
 ||draftis.com/b/
 ||dreamwave-chan.hit.bg/bulsis.gif
 ||dtv-bg.com/banners/
+||duma.bg/baneri/
 ||dzhebel.com/images/*adv.gif
 ||e-79.com/images/banners/
 ||easytrader.bg/banner.php
@@ -301,6 +309,7 @@ hb.hostbulgaria.com/hb-banner*
 ||hotspotbulgaria.com/wp-content/uploads/2011/09/Interbild_promo.jpg
 ||hrisimirpopov.com/images/banners
 ||hsmaritsa.com/images/banners/
+i46.tinypic.com/efjal3.jpg
 i55.tinypic.com/2zqat89.gif
 i.adwise.bg/upload/
 i.cars.bg/images/branding/
@@ -362,6 +371,7 @@ i.wisdom.bg/adv/
 ||kazanlak-bg.info/images/banners/
 ||kazanlak.com/img/banner/
 ||klassa.bg/images/banners/
+||knigi-igri.net/images/banners/
 ||kolegi.info/banner*
 ||komentari.com/images/banners
 ||kostelbg.net/home/images/ntechniks_banner_468x50.gif
@@ -385,6 +395,7 @@ i.wisdom.bg/adv/
 ||malkiobyavi.com/clients/nikoleni-block.jpg
 ||malkiobyavi.com/images/e-plovdiv.jpg
 ||mallbg.com/adds/
+||mallbg.com/baneri
 ||managerteams.com/include/fan_mp3.swf
 media.easyads.bg/ads/
 media.easyonline.bg/ads/
@@ -404,6 +415,7 @@ media.karamel4e.com/media/banners/
 ||mobilebulgaria.com/uploads/banners/
 ||monitor.bg/ad/
 ||montana-dnes.com/baners/
+||moreto.net/i/triumf330x72-1.png
 ||mostbg.com/most//Headers/..%5Cimages%5Cbanner_hp.gif
 ||mostbg.com/most/images/*banner.gif
 ||mostbg.com/most/images/lgzeropixel.jpg
@@ -470,6 +482,8 @@ media.karamel4e.com/media/banners/
 ||plaza-mp3.info/images/bgtop2ke0.gif
 ||plovdiv24.com/banners.php
 ||plovdiv24.com/bans/
+||plovdivnews.net/images/banners/
+||plovdivnews.net/images/stories/mih*
 ||plovdiv-online.com/images/banners
 ||pluton1.123bg.com/images/banners/
 ||pmelon.com/res/aff/banners/
@@ -508,6 +522,8 @@ r*.dir.bg/js_ext.php
 r*.dir.bg/js_myads.php
 ||readbud.com/images/*banner
 ||recaida.com/indexin/images/banners/
+||recepty.bg/fbanners/
+||recepty.bg/flashbanners/
 ||rechnik-bg.com/images/*.swf
 ||refreshbg.com/refreshbg*.swf
 ||reklamnamreja.com/click.php?id=
@@ -583,10 +599,12 @@ rem.rezonmedia.eu/images/
 ||spesti.bg/images/ban*
 ||spesti.bg/images/bnr*
 ||sportal.bg/brand_images/
+||sport-vt.com/static/vtu-horizontalen2.swf
 stardust.linuxolution.org/baner/
 ||starfm.bg/banners/
 ||startup-bg.com/images/baner
 static.bgnes.com:8080/img/bann/
+static.blitz.bg/scripts/dim.screen.js
 static.cs-bg.net/csbgnet/images/adcsbg/banners/
 static.easytrader.bg/v2/banners/
 static.pazaruvaj.com/bg/banners/
@@ -644,10 +662,12 @@ torrent.alein.org/images/system/wotlk_new_img.png
 ||unisoft-bg.com/showimage.php
 ||uroci.net/images/export/baners
 ||vali.bg/images/flash/*165x300.swf
+||varna-bulgaria.info/wp-content/uploads/2013/06/kayak_trip_Varna.jpg
 ||varna-sport.com/a-d-s/
 ||vbox7.com/adwise/
 ||vbox.bg/banners/
 ||vbox.bg/htdocs/images/default/728x90
+||veliko-tarnovo.net/static/aleks-ok.jpg
 ||versia.bg/images/flash/
 ||vevesti.com/images/banners/
 ||vinpromtaskov.com/banner
@@ -718,6 +738,8 @@ as.adwise.bg##.adwiseBlock
 avatar-bg.org##.aff_banner_728
 avtoalarmi.produkti.sofia.point.bg###popupEmail-panel
 bg69.com###lenta
+bgonair.bg###banner_a0_1
+bgonair.bg###banner_a0_2
 bgrabotodatel.com##.RAD
 bgrabotodatel.com##td[style="padding-bottom: 6px;"]
 bgrazpisanie.com##.sublineSearchBuffer-banner
@@ -726,6 +748,7 @@ bg.static.etargetnet.com##.etarget
 bg-tv.net###topbar
 bg-zone.net##.adv_box_kv_left
 bg-zone.net##.adv_box_kv_right
+blitz.bg##.banner
 bourgas.org###bannerTop
 bulforums.com##DIV[style="height:100px !important; overflow:hidden; background:#8cc051 url(http://www.bulforums.com/source/public_html/images/bforums.jpg) no-repeat top left;"]
 bulgarianbasket.com##tr[id="top"]
@@ -738,6 +761,7 @@ club-bg.org###topbar
 conquiztador.bg###BANNER
 conquiztador.bg##td[style="border:1px solid #555555; width:340px; height:280px;"]
 conquiztador.bg##td[valign="middle"][align="center"][style="border: 1px solid rgb(85, 85, 85); width: 340px; height: 280px;"]
+cross.bg##.bannerWraper
 dariknews.bg###colorbox
 data.bg###bannertop_72890
 data-bg.org###aff-popup-banner
@@ -756,6 +780,7 @@ forums.data.bg###bannertop_new
 framar.bg###facebox_games_mess
 frognews.bg##div[style="padding-bottom:15px;"]
 gbg.bg###hotOffBg
+gledaigo.com###fanback
 gorgonbg.org##table[id="Table_06"]
 hardwarebg.com##TABLE[style="border: 1px solid #000000; margin: 0; padding: 0;"]
 hi7s.com###bgtp
@@ -797,6 +822,10 @@ prodavalnik.com##.banner.productpage-top
 programata.bg###banner_right
 programata.bg###banner_top
 recepti.gotvach.bg###pop
+recepty.bg###banner
+recepty.bg##DIV[style="width:670px; height:120px; left:0px; right:0px; margin-bottom:20px"]
+recepty.bg###flash_big
+remix.bg###banner_show
 rodopinews.com###wdBanners
 sedmica.sliven.net###right
 sensebox.net##.bannerup
@@ -836,5 +865,7 @@ zovnews.com##.banner_top
 @@||emediate.se/crossdomain.xml
 @@||emediate.se/eas$match-case,domain=play.novatv.bg
 ~noshtuvki.burkan.info###adbody
+@@||prodavalnik.com/ajax/ad/togglefollow/
 ~rbb.bg###Ads
 @@||sportal.bg/uploads/video_advertising/
+
