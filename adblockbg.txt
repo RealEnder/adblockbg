@@ -865,6 +865,7 @@ zovnews.com##.banner_top
 @@||emediate.se/crossdomain.xml
 @@||emediate.se/eas$match-case,domain=play.novatv.bg
 ~noshtuvki.burkan.info###adbody
+@@||prodavalnik.com/ajax/ad/offer/
 @@||prodavalnik.com/ajax/ad/togglefollow/
 ~rbb.bg###Ads
 @@||sportal.bg/uploads/video_advertising/
