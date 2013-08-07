@@ -19,6 +19,7 @@ com.nxtras.banner.ImageRotator
 /images/banner.gif
 /mambo/images/banners*
 /tpbanners/*
+/xgemius.js
 !
 !--- General element hiding rules ---!
 ###ea_intext_div
@@ -115,6 +116,7 @@ b.dnevnik.bg/getban.php?
 ||bgmaps.com/images/Billboard
 ||bgmaps.com/images/staticfield/200x40.JPG
 ||bgmaps.com/images/staticfield/634x20.jpg
+bgmenu.postaffiliatepro.com/accounts/default1/banners/
 ||bgnes.com/img/bann/
 ||bgnes.com/rekl/
 ||bgonair.bg/public/files/banners/
@@ -182,6 +184,8 @@ cdn.plus500.com/Media/Banners/
 ||conquiztador.bg/swf/tournament_webpromo.swf
 ||contract.bg/images/
 ||correctplus.com/images/baner*
+||crimes.bg/img/bplay.gif
+||crimes.bg/img/yourad.gif
 ||dalavera.com/banners/
 ||dalavera.com/reklama/
 ||dar.bg/images/*banner
@@ -313,6 +317,7 @@ i46.tinypic.com/efjal3.jpg
 i55.tinypic.com/2zqat89.gif
 i.adwise.bg/upload/
 i.cars.bg/images/branding/
+||ideo.bg/images/31829a4f382a008e.gif
 i.dir.bg/ads20*
 i.dir.bg/r20*
 i.frognews.bg/images/adv/
@@ -331,6 +336,7 @@ images.webcafe.bg/2011/04/18/29.swf
 ||imenata.com/flash/
 img192.imageshack.us/img192/8515/banerfv.jpg
 img26.imageshack.us/img26/6829/eurogas.gif
+img2.grad.bg/m/300x600_BG_84-body-yellow_46d6939a.gif
 img.abv.bg/AbvProductAds/
 img.frognews.bg/bulgariatourism.png
 ||img.p2pbg.com/misc/bpoke.png
@@ -370,6 +376,17 @@ i.wisdom.bg/adv/
 ||kazanlak-bg.info/Baneri/
 ||kazanlak-bg.info/images/banners/
 ||kazanlak.com/img/banner/
+||kjplus.net/wp-content/uploads/2013/02/hlyab2.jpg
+||kjplus.net/wp-content/uploads/2013/02/Karti4ka-sibel-4-e1363008209680.jpg
+||kjplus.net/wp-content/uploads/2013/02/Kj-e1368001903883.jpg
+||kjplus.net/wp-content/uploads/2013/02/ocbn1.jpg
+||kjplus.net/wp-content/uploads/2013/02/restorant2.jpg
+||kjplus.net/wp-content/uploads/2013/02/Riva-e1369312912700.jpg
+||kjplus.net/wp-content/uploads/2013/03/Hotel-Kardzhali-e1363781798501.jpg
+||kjplus.net/wp-content/uploads/2013/04/radio-e1366887467823.jpg
+||kjplus.net/wp-content/uploads/2013/05/avtomivka.jpg
+||kjplus.net/wp-content/uploads/2013/06/brcheshma.jpg
+||kjplus.net/wp-content/uploads/2013/06/rivacentrum.jpg
 ||klassa.bg/images/banners/
 ||knigi-igri.net/images/banners/
 ||kolegi.info/banner*
@@ -604,7 +621,6 @@ stardust.linuxolution.org/baner/
 ||starfm.bg/banners/
 ||startup-bg.com/images/baner
 static.bgnes.com:8080/img/bann/
-static.blitz.bg/scripts/dim.screen.js
 static.cs-bg.net/csbgnet/images/adcsbg/banners/
 static.easytrader.bg/v2/banners/
 static.pazaruvaj.com/bg/banners/
@@ -711,6 +727,7 @@ webmoney.borsa.bg/BannerFactory.php5
 ||zarta.org/banners/
 ||zavedenia.com/bannerapp/
 ||zavedenia.com/banners_box/
+||zavedenia.com/_images/background*
 ||zdrave.net/document/banner/
 ||zepir.com/storage/banners/
 ||znam.li/ad/
@@ -761,6 +778,12 @@ club-bg.org###topbar
 conquiztador.bg###BANNER
 conquiztador.bg##td[style="border:1px solid #555555; width:340px; height:280px;"]
 conquiztador.bg##td[valign="middle"][align="center"][style="border: 1px solid rgb(85, 85, 85); width: 340px; height: 280px;"]
+crimes.bg###bplay
+crimes.bg##.custom-ad
+crimes.bg###ips-ad
+crimes.bg###setech
+crimes.bg###single_ad
+crimes.bg###your-ad
 cross.bg##.bannerWraper
 dariknews.bg###colorbox
 data.bg###bannertop_72890
@@ -788,6 +811,7 @@ hyundai-bg.com###reclama
 kartelito.com###topbar
 kaspyr.com###topbar
 kik-info.com###banner2
+kjplus.net##.sidebar
 ##.lapni-pop-over
 lesno-fakturirane.com##td[class="left_fon"]
 lifehacker.bg###header_banner
@@ -843,6 +867,7 @@ subs.sab.bz###adv
 svejo.net###hot_offers
 ticketpro.bg###baners_top
 topsport.ibox.bg##.sponsor-logo
+try.bg##.g300x600single
 tv7.bg###NOTJ
 tv.byalareka.com###topbar
 vbox7.com###headerLineBgr
@@ -852,6 +877,8 @@ vnews.bg##.banner
 vplay7.com###topbar
 websbg.net###dinabar
 zamunda-bg.org###topbar
+zavedenia.com###bottomBanner
+zavedenia.com##.zbranding_left2
 zepir.com##DIV[style="margin: 0px 0px 0px 5px; border: 1px solid #C7C7C7; padding: 1px; width: 180px; height: 216px"]
 zepir.com##DIV[style="margin: 0px 0px 0px 9px; border: 1px solid #C7C7C7; padding: 1px; width: 250px; height: 300px"]
 zoomania.org###widget_A
