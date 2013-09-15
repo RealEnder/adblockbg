@@ -30,12 +30,14 @@ com.nxtras.banner.ImageRotator
 ||18-sexshop.com/parfumibg.com.swf
 ||1evro.com/show_i.php?b=
 ||1-gsm.com/images/banners/
+217.174.155.35/b*.swf
 ||24chasa.bg/media/banners/
 ||24online.bg/data/banners/
 ||30dumi.eu/wp-content/uploads/2012/05/baner*
 ||360.bg/baner*
 ||4coolpics.com/banner/
 89.215.175.32/banners/
+91.196.126.51:666/save/?u=
 91.196.126.51:8080/share/banners/
 91.196.126.51:8080/var/assets/banners/
 91.196.126.51:8081/banners/
@@ -75,7 +77,6 @@ aha.aukro.bg/banners.php
 ||ardanews.info/banners/
 ||ardanews.info/wp-content/uploads/2011/04/obredendom.png
 ||ardanews.info/wp-content/uploads/2013/04/baner_dps.jpg
-||arenabg.com/adz_active/*.js
 ||arenabg.com/var/assets/banners/
 ||arena.filmi-wb.info/wp-content/uploads/2012/10/oferti_anigif.gif
 ||argumenti-bg.com/imgs/banners/
@@ -198,32 +199,6 @@ cdn.plus500.com/Media/Banners/
 ||data-bg.org/120x240*
 ||data-bg.org/*460x60.swf
 ||data-bg.org/banner*
-||data-bg.org/pic/user_images/130718586914170.gif
-||data-bg.org/pic/user_images/13106366621694.gif
-||data-bg.org/pic/user_images/131558697719735.png
-||data-bg.org/pic/user_images/13166398201347.gif
-||data-bg.org/pic/user_images/131663982029716.gif
-||data-bg.org/pic/user_images/131664043918775.gif
-||data-bg.org/pic/user_images/131976363811203.jpeg
-||data-bg.org/pic/user_images/132690607419444.jpeg
-||data-bg.org/pic/user_images/13269060742125.jpeg
-||data-bg.org/pic/user_images/132690607438516.jpeg
-||data-bg.org/pic/user_images/13269060744894.jpeg
-||data-bg.org/pic/user_images/132982891518243.png
-||data-bg.org/pic/user_images/13298291381220.jpeg
-||data-bg.org/pic/user_images/133025188919930.gif
-||data-bg.org/pic/user_images/135448736739646.jpeg
-||data-bg.org/pic/user_images/135876620413834.png
-||data-bg.org/pic/user_images/135940084817364.gif
-||data-bg.org/pic/user_images/136033052718784.jpeg
-||data-bg.org/pic/user_images/13627516781315.png
-||data-bg.org/pic/user_images/136317285219132.jpeg
-||data-bg.org/pic/user_images/136320779218466.jpeg
-||data-bg.org/pic/user_images/136370794116124.gif
-||data-bg.org/pic/user_images/136370843912439.gif
-||data-bg.org/pic/user_images/136430399815931.jpeg
-||data-bg.org/themes/TBDev/images/izkupime1.gif
-||data-bg.org/themes/TBDev/images/izkupime.gif
 data.msk.bg/delivery/afr.php
 ||deals.bg/branding.php
 ||den.bg/image/modules/www/themes/default/images/*234x60.jpg
@@ -453,6 +428,7 @@ media.karamel4e.com/media/banners/
 ||my-shop.biz/flash/
 ||nablyudatel.com/admin/banner/
 ||nani-na.biz/images/banners
+||napravisam.bg/forum/neklama/
 ||napravisam.bg/neklama/
 ||napravisam.bg/newimage/reklama*
 ||naturalenergy.bg/banners/
@@ -487,6 +463,8 @@ media.karamel4e.com/media/banners/
 ||pcshop.bg/data/uploads/banners/
 ||pcw.bg/main/images/banners/
 ||perp.itforcebg.com/images/banners/
+||petel.bg//media/banners/
+||petel.bg/media/banners/
 ||petnoto.com/images/banners/
 ||petnoto.com/images/stories/petno_xraydio.swf
 ||photo-cult.com/pics/baneri/
@@ -552,10 +530,6 @@ rem.rezonmedia.eu/images/
 ||retv.bg/loader/loader.swf
 ||rezervaciq.com/img/banners
 ||rodopinews.com/images/banners/
-||rodopinews.com/images/stories/31.07/jidikom6.jpg
-||rodopinews.com/images/stories/mihalkovo%20(1).gif
-||rodopinews.com/images/stories/mirodato.jpg
-||rodopinews.com/images/stories/nufi%20-%20banner%20-%20last.gif
 ||rp-mobil.com/images/b/
 ||rumblerace.com/pics/banner
 ||ruseinfo.net/adv/
@@ -587,7 +561,6 @@ rem.rezonmedia.eu/images/
 ||skandalno.net/wp-content/uploads/baneri/
 ||skandalno.net/wp-content/uploads/n/efekt%202.png
 ||skandalno.net/wp-content/uploads/n/estetika.png
-||slivenbg.net/news/images/banners/
 ||sliven.biz/baner*
 ||sliven.biz/source/reklama.jpg
 ||sliveninfo.com/files/demea.jpg
@@ -665,6 +638,7 @@ torrent.alein.org/images/doggydoggy_633.jpg
 torrent.alein.org/images/doggydoggy_634.jpg
 torrent.alein.org/images/system/evowow_new_img.gif
 torrent.alein.org/images/system/gorna_img.jpg
+torrent.alein.org/images/system/help_ani.gif
 torrent.alein.org/images/system/itnet_img_h.png
 torrent.alein.org/images/system/moreimg_img_top.png
 torrent.alein.org/images/system/place_for_you.png
@@ -745,12 +719,10 @@ animes-bg.com##.banneritem_text
 antenneair.com###topbanner
 arenabg.com##.ads
 arenabg.com##.ads_left
-arenabg.com##div[id="grabodeals"]
-arenabg.com##div[style="border: 1px solid rgb(255, 255, 255); overflow: auto; background-color: rgb(34, 34, 34); width: 728px; height: 110px;"]
-arenabg.com##div[style="width: 728px;"]
-arenabg.com##iframe[src="iframe_emall.php"]
-arenabg.com##iframe[style="background-color: rgb(31, 31, 31);"]
-arenabg.com##tr[style="height: 185px;"]
+arenabg.com###banner_2
+arenabg.com###banner_4
+arenabg.com###banner_5
+arenabg.com###banner_7
 as.adwise.bg##.adwiseBlock
 avatar-bg.org##.aff_banner_728
 avtoalarmi.produkti.sofia.point.bg###popupEmail-panel
@@ -834,6 +806,10 @@ novini.bg##.line_banner
 pari.bg##.bannerbox
 pari-ot-internet-bg.com###login_popup_content
 pari-ot-internet-bg.com##.module.borderwrap
+petel.bg###banner_right_bottom
+petel.bg###banner_right_middle
+petel.bg###banner_right_top
+petel.bg###banner_top
 photo-forum.net###banner_top
 photo-forum.net###header_img_right
 plaza-mp3.info###topbar
