@@ -144,7 +144,6 @@ b.grabo.bg
 ||booksbg.org/booksbg/images/banners/
 ||borbabg.com/reklama/
 ||bourgas.org/banners/
-||bpost.bg/ads/
 ||bsms.bg/images/upload/banner/
 ||bspnews.net/e107_images/banners/
 ||b.superdns.info/banners/
@@ -309,7 +308,6 @@ images.onbux.com/banner.gif
 images.pop.bg/content/banner/
 images.webcafe.bg/2011/04/18/29.swf
 ||imenata.com/flash/
-img192.imageshack.us/img192/8515/banerfv.jpg
 img26.imageshack.us/img26/6829/eurogas.gif
 img2.grad.bg/m/300x600_BG_84-body-yellow_46d6939a.gif
 img.abv.bg/AbvProductAds/
@@ -431,6 +429,8 @@ media.karamel4e.com/media/banners/
 ||napravisam.bg/forum/neklama/
 ||napravisam.bg/neklama/
 ||napravisam.bg/newimage/reklama*
+||narodnodelo.bg/*250x250*
+||narodnodelo.bg/baners/
 ||naturalenergy.bg/banners/
 ||ndk.bg/ads/
 ||ndt1.com/images/*bnr
@@ -450,6 +450,7 @@ media.karamel4e.com/media/banners/
 ||online.bg/banners/
 ||online-televizia.net/images/banners/
 ||opencamp.talkweb.eu/468x60*
+||opl.bg/images/banners/
 ||otzvuk.net/static/banners/
 ||ouim.org/upload/banners/
 ||pa-media.net/new/e107_images/banners/
@@ -535,7 +536,6 @@ rem.rezonmedia.eu/images/
 ||ruseinfo.net/adv/
 ||sandanski1.com/news/data/upimages/Ads/
 ||sasho.data.bg/
-||scooterclub-bg.com/e107_images/banners/
 ||search.data.bg/*banner
 ||sedmica.sliven.net/img/160x200*
 ||sedmica.sliven.net/img/170x120*
@@ -803,6 +803,7 @@ newshub.bg###banner-top
 news.ibox.bg###GoogleAdSense
 news.ibox.bg##.nws-commercial-column
 novini.bg##.line_banner
+opl.bg###top
 pari.bg##.bannerbox
 pari-ot-internet-bg.com###login_popup_content
 pari-ot-internet-bg.com##.module.borderwrap
@@ -855,8 +856,6 @@ websbg.net###dinabar
 zamunda-bg.org###topbar
 zavedenia.com###bottomBanner
 zavedenia.com##.zbranding_left2
-zepir.com##DIV[style="margin: 0px 0px 0px 5px; border: 1px solid #C7C7C7; padding: 1px; width: 180px; height: 216px"]
-zepir.com##DIV[style="margin: 0px 0px 0px 9px; border: 1px solid #C7C7C7; padding: 1px; width: 250px; height: 300px"]
 zoomania.org###widget_A
 zovnews.com##.banner_col
 zovnews.com##.banner_top
@@ -870,6 +869,7 @@ zovnews.com##.banner_top
 ~noshtuvki.burkan.info###adbody
 @@||prodavalnik.com/ajax/ad/offer/
 @@||prodavalnik.com/ajax/ad/togglefollow/
+~prodavalnik.com###newAd
 ~rbb.bg###Ads
 @@||sportal.bg/uploads/video_advertising/
 
