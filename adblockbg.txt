@@ -447,6 +447,7 @@ media.karamel4e.com/media/banners/
 ||obiavi-bg.com/img/BANNERS/
 ||obiavite.eu/banner/
 ||obiavite.eu/reklama/
+||offnews.bg/files/banners/
 ||online.bg/banners/
 ||online-televizia.net/images/banners/
 ||opencamp.talkweb.eu/468x60*
@@ -866,6 +867,7 @@ zovnews.com##.banner_top
 @@||conquiztador.bg/client_pre_frame.php
 @@||emediate.se/crossdomain.xml
 @@||emediate.se/eas$match-case,domain=play.novatv.bg
+@@flvplayer.viastream.viasat.tv/Commercials/*$domain=play.novatv.bg
 ~noshtuvki.burkan.info###adbody
 @@||prodavalnik.com/ajax/ad/offer/
 @@||prodavalnik.com/ajax/ad/togglefollow/
