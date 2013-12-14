@@ -99,6 +99,7 @@ aha.aukro.bg/banners.php
 b.dnevnik.bg/getban.php?
 ||bdz.bg/ban/
 ||befsa.com/banners/
+beis.bia-bg.com/images/baner*
 ||beroe.eu/images/reklama/
 ||bet.bg/images/banners/
 ||bezvazelin.net/e107_images/banners/
@@ -111,6 +112,7 @@ b.dnevnik.bg/getban.php?
 ||bghelp.net/banners/
 ||bgkooperativ.com/banner/
 ||bglady.net/wp-content/uploads/2012/09/ad-dreshnik.net_.png
+||bgled.com/userfiles/editor/image/racoms%20v1.2.gif
 ||bg-mamma.com/site/images/banners
 ||bgmaps.com/images/Billboard
 ||bgmaps.com/images/staticfield/200x40.JPG
@@ -225,6 +227,8 @@ data.msk.bg/delivery/afr.php
 ||e-firmi.com/images/lasik.jpg
 ||e-firmi.com/images/smetkoplan.png
 ||erotichno-belio.com/banner*
+||eshop.bg/affiliate/advforumpuls_hor.php
+||eshop.bg/affiliate/advforumpuls.php
 ||e-sim.home.pl/eworld/img/securaLogo.png
 ||etaj55.com/adv/banners
 ||eventim.bg/root/upload/banner/
@@ -359,6 +363,7 @@ i.wisdom.bg/adv/
 ||komentari.com/images/banners
 ||kostelbg.net/home/images/ntechniks_banner_468x50.gif
 ||kostelbg.net/home/sites/default/files/images/Klimat77.png
+krisfansait.ovo.bg/rtr
 ||kurier.bg/files/banners/
 ||kvasilev.com/images/srebro.swf
 ||learnfree.eu/wp-content/uploads/banners/
@@ -441,6 +446,7 @@ media.karamel4e.com/media/banners/
 ||obiavite.eu/banner/
 ||obiavite.eu/reklama/
 ||offnews.bg/files/banners/
+||ok-booking.com/images/oklogo180.jpg
 ||online.bg/banners/
 ||online-televizia.net/images/banners/
 ||opencamp.talkweb.eu/468x60*
@@ -597,6 +603,7 @@ static.sport-vt.com/dsk_cba_392x72nl.swf
 static.sport-vt.com/hattrick/hattrick-logo.jpg
 static.sport-vt.com/kick-sportvt.swf
 static.sport-vt.com/obsht_sportvt.swf
+static.vib.bg/promo/
 ||stilmont.com/images/670x90*
 storage.netinfo.bg/Banners/
 ||store.bg/ads/
@@ -722,6 +729,7 @@ as.adwise.bg##.adwiseBlock
 avatar-bg.org##.aff_banner_728
 avtoalarmi.produkti.sofia.point.bg###popupEmail-panel
 bg69.com###lenta
+bg-mamma.com##.small-horoscopes2.clearfix
 bgonair.bg###banner_a0_1
 bgonair.bg###banner_a0_2
 bgrabotodatel.com##.RAD
@@ -732,6 +740,7 @@ bg.static.etargetnet.com##.etarget
 bg-tv.net###topbar
 bg-zone.net##.adv_box_kv_left
 bg-zone.net##.adv_box_kv_right
+bivol.bg###sbox-content
 blitz.bg##.banner
 bourgas.org###bannerTop
 bulforums.com##DIV[style="height:100px !important; overflow:hidden; background:#8cc051 url(http://www.bulforums.com/source/public_html/images/bforums.jpg) no-repeat top left;"]
@@ -768,6 +777,7 @@ film4eta.com###topbar
 filmi-bg.eu###broadcastbox
 flash-igri.com##.box-pink
 forum.arenabg.com##.sp_block_padding.windowbg
+forum.eshop.bg##.copyright
 forums.data.bg###bannertop_new
 framar.bg###facebox_games_mess
 frognews.bg##div[style="padding-bottom:15px;"]
@@ -778,10 +788,13 @@ gorgonbg.org##table[id="Table_06"]
 hardwarebg.com##TABLE[style="border: 1px solid #000000; margin: 0; padding: 0;"]
 hi7s.com###bgtp
 hyundai-bg.com###reclama
+kaminata.net##.poop2
 kartelito.com###topbar
 kaspyr.com###topbar
 kik-info.com###banner2
 kjplus.net##.sidebar
+krisfansait.ovo.bg###banner
+krisfansait.ovo.bg###topbar
 ##.lapni-pop-over
 lesno-fakturirane.com##td[class="left_fon"]
 lifehacker.bg###header_banner
@@ -866,7 +879,6 @@ zovnews.com##.banner_top
 @@||conquiztador.bg/client_pre_frame.php
 @@||emediate.se/crossdomain.xml
 @@||emediate.se/eas$match-case,domain=play.novatv.bg
-@@flvplayer.viastream.viasat.tv/Commercials/*$domain=play.novatv.bg
 ~noshtuvki.burkan.info###adbody
 @@||prodavalnik.com/ajax/ad/offer/
 @@||prodavalnik.com/ajax/ad/togglefollow/
