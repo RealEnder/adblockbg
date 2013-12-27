@@ -65,7 +65,6 @@ adv.gepime.com
 ||afera.bg/gool.swf
 ||afera.bg/images/banners/
 ||afera.bg/wp-content/uploads/2012/05/yurt-banner.swf
-affbg.kolektiva.net/arena_banner_728x230/banners/arena/
 aha.aukro.bg/banners.php
 ||alabala.bg/media/banners/
 ||alfa.kachi-snimka.info/images/viu1326708098u.jpg
@@ -195,7 +194,6 @@ cdn.plus500.com/Media/Banners/
 ||data-bg.org/banner*
 data.msk.bg/delivery/afr.php
 ||deals.bg/branding.php
-||dennews.bg/app/webroot/uploads/banner*
 ||dennews.bg/files/banners/
 ||dennews.bg/uploads/banners/
 ||desant.net/banners/
@@ -521,7 +519,6 @@ rem.rezonmedia.eu/images/
 ||rezervaciq.com/img/banners
 ||rodopinews.com/images/banners/
 ||rp-mobil.com/images/b/
-||rumblerace.com/pics/banner
 ||ruseinfo.net/adv/
 ||sandanski1.com/news/data/upimages/Ads/
 ||sasho.data.bg/
