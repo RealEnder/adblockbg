@@ -726,7 +726,6 @@ bg.static.etargetnet.com##.etarget
 bg-tv.net###topbar
 bg-zone.net##.adv_box_kv_left
 bg-zone.net##.adv_box_kv_right
-bivol.bg###sbox-content
 blitz.bg##.banner
 bourgas.org###bannerTop
 bulforums.com##DIV[style="height:100px !important; overflow:hidden; background:#8cc051 url(http://www.bulforums.com/source/public_html/images/bforums.jpg) no-repeat top left;"]
