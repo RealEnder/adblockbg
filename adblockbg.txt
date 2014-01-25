@@ -152,6 +152,7 @@ b.grabo.bg
 ||bulgariatrustandinvest.com/i_baner/
 ||bulphoto.com/banners/
 ||bumbum.gr/images/banners/
+||burgasinfo.com/ajax/*
 ||burgasnews.com//images/banners/
 ||burgasnews.com/images/banners/
 ||business.bg/site_files/d-sitebanners/
@@ -363,6 +364,19 @@ krisfansait.ovo.bg/rtr
 ||kurier.bg/files/banners/
 ||kvasilev.com/images/srebro.swf
 ||learnfree.eu/wp-content/uploads/banners/
+||lighting-bulgaria.com/images/background2013.jpg
+||lighting-bulgaria.com/img/021213045350WAGO_266x60_CHRISTMAS.gif
+||lighting-bulgaria.com/img/080813045154Beghelli_180x150.gif
+||lighting-bulgaria.com/img/081013013425prisma_234x50-new.gif
+||lighting-bulgaria.com/img/131113013442kovas.gif
+||lighting-bulgaria.com/img/140113014907Amara_banner_234x50px.gif
+||lighting-bulgaria.com/img/140613044302GoranoPic_234x50_LAST.gif
+||lighting-bulgaria.com/img/180913043805Viva_4.gif
+||lighting-bulgaria.com/img/18121302451858105_LB_Banner_Allg_165x60_GB.gif
+||lighting-bulgaria.com/img/18121303473858105_LB_Banner_Allg_586x60_GB.gif
+||lighting-bulgaria.com/img/220213041740LM-22-new2.gif
+||lighting-bulgaria.com/img/260913084503anigif_234x100_bg_BBW.gif
+||lik-bta.bg/images/banners/
 ||liternet.bg/image/baner/
 ||look-estates.com/userfiles/templates/default/static/images/banner
 ||lubamanolova.info/images/stories/food/baner*
@@ -428,6 +442,8 @@ media.karamel4e.com/media/banners/
 ||ndt1.com/bmw_prem_2012.swf
 ||ndt1.com/images/*
 ||ndt1.com/rk/*
+||nenovinite.com/tpl/img/images/brand*
+||nenovinite.com/tpl/img/images/gaming_sezon_nenovinite.gif
 ||neseriozno.com/wp-content/custom/Banners/
 ||nessebar-news.com/news/images/*baner
 ||newbusiness.bg/banners/
@@ -484,6 +500,9 @@ p.energy-torrent.com/themes/Silver/images/bg.jpg
 ||predator-bg.com/smsrec/inc_hor_ad.php
 ||predpriemach.com/b/
 ||pressclub.bg/ads
+||presstv.bg/images/listen.png
+||presstv.bg/images/quiz/quiz-banner*
+||presstv.bg/media/banners/
 ||preszona.com///img/BANNERS/
 ||prikachi.com/flash/files/
 ||prikachi.com/images/104/4069104F.jpg
@@ -501,6 +520,7 @@ p.energy-torrent.com/themes/Silver/images/bg.jpg
 ||radiotangra.com/media/banners/
 ||razdavalnik.bg/banners/
 ||razkritia.com/wp-content/uploads/2013/12/*960x90*
+||razkritia.com/wp-content/uploads/banner*
 r.dir.bg
 r*.dir.bg/js_ext.php
 r*.dir.bg/js_myads.php
@@ -520,6 +540,8 @@ rem.rezonmedia.eu/images/
 ||rodopinews.com/images/banners/
 ||rp-mobil.com/images/b/
 ||ruseinfo.net/adv/
+||samokov365.com/images/banners/
+||samokov365.com/templates/shaper_news_iii/bg.jpg
 ||sandanski1.com/news/data/upimages/Ads/
 ||sasho.data.bg/
 ||search.data.bg/*banner
@@ -577,6 +599,7 @@ rem.rezonmedia.eu/images/
 ||sofremonti.com/theme/banners/
 ||sofspravka.info/index.php?go=_common&p=banner
 ||southwest-business.com/images/banners/
+||spearfish.org/pic/b/
 ||speshno.info/banners/
 ||spesti.bg/images/ban*
 ||spesti.bg/images/bnr*
@@ -714,6 +737,7 @@ as.adwise.bg###adwbanner300x250
 as.adwise.bg##.adwiseBlock
 avatar-bg.org##.aff_banner_728
 avtoalarmi.produkti.sofia.point.bg###popupEmail-panel
+balkanec.bg##.banner_new
 bg69.com###lenta
 bg-mamma.com##.small-horoscopes2.clearfix
 bgonair.bg###banner_a0_1
@@ -726,14 +750,18 @@ bg.static.etargetnet.com##.etarget
 bg-tv.net###topbar
 bg-zone.net##.adv_box_kv_left
 bg-zone.net##.adv_box_kv_right
+bivol.bg###sbox-overlay
+bivol.bg###sbox-window
 blitz.bg##.banner
 bourgas.org###bannerTop
 bulforums.com##DIV[style="height:100px !important; overflow:hidden; background:#8cc051 url(http://www.bulforums.com/source/public_html/images/bforums.jpg) no-repeat top left;"]
 bulgarianbasket.com##tr[id="top"]
+burgasinfo.com##.right_banner.load-banner
 business.bg##table[width="220"][bgcolor="#ffffff"]
 cat.arenabg.com##iframe
 ciela.net##.ads_big_block
 ciela.net##.ads_small_block
+cinemabg.net###topbar
 cio.bg##.blockBanner
 club-bg.org###topbar
 conquiztador.bg###BANNER
@@ -752,6 +780,9 @@ data-bg.org###aff-popup-banner
 data-bg.org###topbar
 data.bg###red
 diukian4e.gigerstudio.info###topbar
+dnesplus.bg##.bannerwrapper-200x200
+dnesplus.bg##.bannerwrapper-250x250
+dnesplus.bg##.bannerwrapper-728x90
 dnevnik.bg##.paidAdvert
 dnevnik.mk###kae_unique_id_0_parent_div
 dnevnik.mk###kae_unique_id_1_parent_div
@@ -795,10 +826,12 @@ muzichka.eu###showimage
 muzichka.eu##.smsbaner
 myonvideo.com###topbar
 nakino.eu###WPS_popup_message
+nenovinite.com##.banner1
 newshub.bg###banner-top
 news.ibox.bg###GoogleAdSense
 news.ibox.bg##.nws-commercial-column
 novini.bg##.line_banner
+obshtestveni-porachki.com##.animationbtns
 opl.bg###top
 pari.bg##.bannerbox
 pari-ot-internet-bg.com###login_popup_content
@@ -824,7 +857,10 @@ recepty.bg##DIV[style="width:670px; height:120px; left:0px; right:0px; margin-bo
 recepty.bg###flash_big
 remix.bg###banner_show
 rodopinews.com###wdBanners
+samokov365.com###tcvn-banner-slider215
+samokov365.com###topbar
 sedmica.sliven.net###right
+segabg.com###advert_id
 sensebox.net##.bannerup
 sfilmi.com##.popup
 silabg.com###left_banner_img
@@ -841,7 +877,9 @@ stuntteamhazart.com##.clip
 subs.sab.bz###adv
 svejo.net###hot_offers
 ticketpro.bg###baners_top
+topsport.ibox.bg##.banner
 topsport.ibox.bg##.sponsor-logo
+topsport.ibox.bg##.ts-header-banner
 try.bg##.g300x600single
 tv7.bg###NOTJ
 tv.byalareka.com###topbar
