@@ -343,6 +343,7 @@ i.wisdom.bg/adv/
 ||kazanlak-bg.info/Baneri/
 ||kazanlak-bg.info/images/banners/
 ||kazanlak.com/img/banner/
+||kidsarts.bg/js/dim.screen.js
 ||kjplus.net/wp-content/uploads/2013/02/hlyab2.jpg
 ||kjplus.net/wp-content/uploads/2013/02/Karti4ka-sibel-4-e1363008209680.jpg
 ||kjplus.net/wp-content/uploads/2013/02/Kj-e1368001903883.jpg
@@ -713,6 +714,9 @@ webmoney.borsa.bg/BannerFactory.php5
 !
 !--- Specific element hiding rules ---!
 18-sexshop.com##.banner728_90
+24chasa.bg##A[href*="mediamall.bg"]
+24chasa.bg###ArticleLinkMediaMall
+24chasa.bg##SPAN[style="text-decoration: underline;"]
 4bg.info##DIV[style^="width:728px; height:90px;"]
 911.bg##.vip-firms
 absurdi.com##div[style="padding: 0 0 5px 0;"]
@@ -872,6 +876,7 @@ sliveninfo.com###lefttopbanner
 sliveninfo.com###righttopbanner
 sliven-news.com###banner_wrap
 sliven-news.com##.users_wrap
+snews.bg##IFRAME[src^="http://promograd.bg/affiliate/"]
 spesti.bg##.adv
 stuntteamhazart.com##.clip
 subs.sab.bz###adv
@@ -884,7 +889,9 @@ try.bg##.g300x600single
 tv7.bg###NOTJ
 tv.byalareka.com###topbar
 vbox7.com###headerLineBgr
+vesti.bg##.adwise-right
 vesti.bg###banner1
+vesti.bg##.hot-offers-block
 vesti.bg###topBannerBlock
 vnews.bg##.banner
 vplay7.com###topbar
