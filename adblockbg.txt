@@ -879,6 +879,7 @@ sedmica.sliven.net###right
 segabg.com###advert_id
 sensebox.net##.bannerup
 serialmaniq.com###\5f _dimScreen
+serialmaniq.com###advm_preload
 serialmaniq.com##.banner1
 serialmaniq.com###pop_up_s
 serialmaniq.com###topbar
