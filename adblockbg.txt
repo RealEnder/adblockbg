@@ -157,6 +157,7 @@ bimg.abv.bg/banners/
 ||binitrip.data.bg/media/kolektiva.jpg
 ||bipartia.com/images/banners/
 ||bivol.bg/images/banners/
+||bivol.bg/wp-content/uploads/2016/06/banner-plane-tickets.jpg
 ||bivol.bg/wp-content/uploads/*baner*
 ||bmwpower-bg.net/banners
 ||borbabg.com/reklama/
@@ -174,6 +175,7 @@ bimg.abv.bg/banners/
 ||bulgaria-info.uni-web.net/banners/
 ||bulgarianbasket.com/banner/
 ||bulgariatrustandinvest.com/i_baner/
+||bulgsm.com^$domain=arenabg.com
 ||bulphoto.com/banners/
 ||bumbum.gr/images/banners/
 ||burgascity.com/burgascity/uploads/banners/
@@ -382,6 +384,7 @@ img.zamunda.net/bitbucket/*navigation*
 ||infodir.org/220x220.*
 ||infodir.org/baner/
 ||info.mitnica.com/images/*banner
+||infonews.bg/banners/
 ||informator.bg/cache/promotion_*
 ||infovarna.com/advbanner
 ||inlife.bg/magnito.gif
@@ -398,6 +401,7 @@ img.zamunda.net/bitbucket/*navigation*
 ||ipo.bg/bannercache
 i.potv.bg/i/*728x90*
 i.static.zaplata.bg/banners/
+||itforumbg.net/sites/default/files/nitrompu.gif
 i.wisdom.bg/adv/
 ||izbori.biz/add/
 ||jarcomputers.com/banners
@@ -582,7 +586,7 @@ p.energy-torrent.com/themes/Silver/images/bg.jpg
 ||razdavalnik.bg/banners/
 ||razkritia.com/wp-content/uploads/2013/12/*960x90*
 ||razkritia.com/wp-content/uploads/banner*
-r.dir.bg
+||r.dir.bg
 r*.dir.bg/js_ext.php
 r*.dir.bg/js_myads.php
 ||readbud.com/images/*banner
@@ -606,8 +610,10 @@ rem.rezonmedia.eu/images/
 ||rp-mobil.com/images/b/
 ||rss-bg.info/htdocs/img/baner*
 ||ruseinfo.net/adv/
+||sandacite.bg/wp-content/uploads/2012/08/11100972_846509388770373_1194460155_n.jpg
 ||sandanski1.com/news/data/upimages/Ads/
 ||sasho.data.bg/
+||search.bivol.bg/img/DAXY_baner_210x250_px.gif
 ||search.data.bg/*banner
 ||sedmica.sliven.net/img/160x200*
 ||sedmica.sliven.net/img/170x120*
@@ -854,6 +860,7 @@ business.bg##table[width="220"][bgcolor="#ffffff"]
 capital.bg##.bann300x250
 carmarket.bg###offers
 cat.arenabg.com##iframe
+cdn.arenabg.com###canvas
 ciela.net##.ads_big_block
 ciela.net##.ads_small_block
 cinemabg.net###topbar
@@ -898,6 +905,7 @@ etapgroup.com##.banner
 etapgroup.com##.banners
 etapgroup.com##DIV[style="margin: 0px auto; min-height: 450px; width: 100%; padding-top: 500px; background-image: url('images/interface/kom_branding.png'); background-repeat: no-repeat; background-position: top center;"]
 expert.bg##iframe[style="border: medium none ; margin: 0pt; padding: 0pt; overflow: hidden; width: 300px; height: 250px; border-collapse: collapse;"]
+fakti.bg##div#adsblock-msg
 film4eta.com###topbar
 filmi7.com##DIV[style="height: 220px;"]
 filmi-bg.eu###broadcastbox
@@ -930,6 +938,7 @@ hi7s.com###bgtp
 homes.bg##DIV[style="position:absolute;width:120px;right:-120px;"]
 homes.bg##DIV[style="position:absolute; width:130px;left:-130px;height:900px;"]
 hyundai-bg.com###reclama
+itforumbg.net##IMG[style="width: 300px; height: 250px;"]
 kaksepishe.com##.ads
 kaminata.net##.poop2
 kartelito.com###topbar
@@ -986,6 +995,7 @@ news.ibox.bg###GoogleAdSense
 news.ibox.bg##.nws-commercial-column
 novini.bg##.line_banner
 novini.dir.bg##.ispace
+novinite.bg##.banner640
 obshtestveni-porachki.com##.animationbtns
 odit.info###b300
 opl.bg###top
@@ -1065,6 +1075,7 @@ stuntteamhazart.com##.clip
 submatrixs.ovo.bg###banner
 subsmania.info##.blogname
 subs.sab.bz###adv
+subsunacs.net##IMG:first-child:last-child
 svejo.net###hot_offers
 ticketpro.bg###baners_top
 topnovini.bg###block-panels-mini-leaderboard-banners
@@ -1121,9 +1132,11 @@ zovnews.com##.banner_top
 @@/advert-$domain=advert-advance.com
 @@/advert.$domain=alein.org
 ~bg-ikonomika.com###banner_ad
+@@||bivol.bg/wp-content/uploads/2016/01/*
 @@cdn.directrev.com$domain=bg-gledai.tv
 @@||conquiztador.bg/client_pre_frame.php
 @@||contextweb.com^$domain=bg-gledai.tv
+@@||crackmywifi.blogspot.bg^$document
 @@||dama.bg/assets/dev.dama.bg/js/adx.js
 @@||emediate.se/crossdomain.xml
 @@||emediate.se/eas$match-case,domain=play.novatv.bg
@@ -1145,4 +1158,5 @@ zovnews.com##.banner_top
 @@||sportal.bg/uploads/video_advertising/
 @@||subsmania.info
 @@||v.fwmrm.net/ad/p/*$domain=play.novatv.bg
+@@||webnews.bg/assets/js/ads.js$script
 
