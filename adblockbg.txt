@@ -1176,4 +1176,5 @@ zovnews.com##.banner_top
 @@||subsmania.info
 @@||v.fwmrm.net/ad/p/*$domain=play.novatv.bg
 @@||webnews.bg/assets/js/ads.js$script
+@@||webnews.bg/assets/js/min/dfp.js$script,domain=news.bg|lifestyle.bg|topsport.bg
 
