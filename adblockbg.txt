@@ -313,6 +313,12 @@ flvplayer.viastream.viasat.tv/Commercials/
 ||frognews.bg/images/adv/
 ||ftech-bg.com/images/*banner*
 ||funbg.net/e107_images/banners/
+||gabrovonews.bg/wp-content/themes/gabrovonews/images/banners/
+||gabrovonews.bg/wp-content/uploads/2016/07/krasota.jpg
+||gabrovonews.bg/wp-content/uploads/2016/08/coco.jpg
+||gabrovonews.bg/wp-content/uploads/2016/10/abba.png
+||gabrovonews.bg/wp-content/uploads/2016/11/HM-Opening-Gabrovo-LED-Banner-300x600-2.jpg
+||gabrovonews.bg/wp-content/uploads/2016/12/mall-gabrovo.jpg
 ||gamemasters.eu/home/wp-content/themes/StudioBlue/images/banners/*
 ||gbg.bg/resources/html/aukro_*
 ||gis-sofia.bg/uploads/image/gis_banner*
@@ -322,6 +328,8 @@ flvplayer.viastream.viasat.tv/Commercials/
 ||hala.bg/images_news/reklama*
 ||happy-foto.net/banners/
 ||hardwarebg.com/ads/
+||haskovo.net/images/Banner*
+||haskovo.net/uploads/backgrounds/
 hb.hostbulgaria.com/hb-banner*
 ||hide-my-ip.com/promo/
 ||hitceni.bg/banners/
@@ -573,6 +581,8 @@ p.energy-torrent.com/themes/Silver/images/bg.jpg
 ||pokerstars.com/bnrs/
 ||poligraff.net/uploads/banners
 ||politika.bg/ad/
+||politikata.net/img/NEWlekuvaiLEFT.jpg
+||politikata.net/img/NEWlekuvaiRIGHT.jpg
 ||pozvanete.bg/images/flashcontainers/b*
 ||praseta.com/files/banner
 ||praseta.com/img/prodavam.gif
@@ -702,6 +712,7 @@ static.bgnes.com:8080/img/bann/
 static.biznes-bulgaria.com/images/banners/
 static.cs-bg.net/csbgnet/images/adcsbg/banners/
 static.easytrader.bg/v2/banners/
+static.petel.bg/media/banners/
 static.sport-vt.com/dsk_cba_392x72nl.swf
 static.sport-vt.com/hattrick/hattrick-logo.jpg
 static.sport-vt.com/kick-sportvt.swf
@@ -767,6 +778,7 @@ test.idg.bg/st/ads/
 ||void.clip4e.com/banners/
 ||vps-hostingbg.com/images/banners/
 ||vratza.com/banners/
+||vsichkotok.bg/images/*232x200*
 ||vtv.bg/images/logos/stm.jpg
 ||vtv.bg/images/zok.swf
 ||webcambg.com/reklama/
@@ -811,6 +823,9 @@ absurdi.com##.right_banner
 abv.bg###aukcion
 abv.bg##iframe[src="/app/j/banner.jsp"]
 abv.bg###rowAdv
+actualno.com###banner_2
+actualno.com###banner_3
+actualno.com##.white_box.right_box.actual_offers
 advokatibg.eu##.mod_bannerslider
 afera.bg##div[align="center"]
 aha.bg##.adv-slide-block-wrapper.clearfix
@@ -863,6 +878,7 @@ bivol.bg###sbox-window
 bivol.bg##.top_banner
 blitz.bg##.banner
 bourgas.org###bannerTop
+btv.bg##.abw_message
 btv.bg##[id^="banner"]
 bukvi.bg##MARQUEE
 bukvi.bg##TD[style="text-align: center; border: 1px dashed rgb(24, 130, 237); box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.3); padding: 3px;"]
@@ -948,6 +964,7 @@ gledaigo.com###fanback
 gong.bg##.adwise
 gorgonbg.org##table#Table_06
 hardwarebg.com##TABLE[style="border: 1px solid #000000; margin: 0; padding: 0;"]
+haskovo.net##.sliding_banner_div
 hi7s.com###bgtp
 homes.bg##DIV[style="position:absolute;width:120px;right:-120px;"]
 homes.bg##DIV[style="position:absolute; width:130px;left:-130px;height:900px;"]
@@ -1040,6 +1057,10 @@ plovdiv24.bg###flyoffer_text
 plovdiv-sport.com##.sban
 podtepeto.com##.adv-728-90.adv-block
 podtepeto.com###advert_5
+politikata.net##DIV[style="width:728px; height:90px;"]
+politikata.net##[style="width:300px;height:250px;"]
+politikata.net##[style="width:300px;height:600px;"]
+politikata.net##[style="width:728px;height:90px;"]
 praseta.com##.right_banner
 pressboard.info##.banner
 prikachi.com###banner
