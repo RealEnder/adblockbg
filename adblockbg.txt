@@ -50,7 +50,6 @@ ad.investor.bg/
 ||adpower.bg^$third-party
 ads.bta.bg
 ||ads*.fixar.org
-ads.garga.biz/ad/
 ads.ibox.bg/banners/*.swf
 adv.abv.bg
 ||advbg.do.am/banners/
@@ -68,6 +67,7 @@ adv.gepime.com
 ||agencia-sliven.com/img/140x120*
 ||agencia-sliven.com/img/140x160*
 ||agencia-sliven.com/img/*baner*
+||agencia-sliven.com/img/blue_house.gif
 ||agencia-sliven.com/img/mbal.gif
 aha.aukro.bg/banners.php
 ||alarmanews.com/wp-content/uploads/2013/11/toptravel.jpg
@@ -461,8 +461,6 @@ krisfansait.ovo.bg/rtr
 ||malkiobyavi.com/clients/lulchev-baner.jpg
 ||malkiobyavi.com/clients/nikoleni-block.jpg
 ||malkiobyavi.com/images/e-plovdiv.jpg
-||mallbg.com/adds/
-||mallbg.com/baneri
 ||managerteams.com/include/fan_mp3.swf
 ||mandja.com/images/banners/
 media.easyads.bg/ads/
@@ -483,7 +481,6 @@ media.karamel4e.com/media/banners/
 ||mobile.bg/images/brands/
 ||mobile.bg/images/picturess/bazar_bazar.swf
 ||mobilebulgaria.com/uploads/banners/
-||mondo.bg^
 ||monitor.bg/ad/
 ||monitor.bg/media/outsrc/26.jpg
 ||monitor.bg/media/outsrc/364.jpg
@@ -566,7 +563,6 @@ p.energy-torrent.com/themes/Silver/images/bg.jpg
 ||pitam.info/baneri/
 ||planeta.bg/wp-content/uploads/*270x250*
 ||plaza-mp3.info/images/bgtop2ke0.gif
-||plovdiv24.com/banners.php
 ||plovdiv24.com/bans/
 ||plovdivmedia.com//tpl/var2/images/Don%20Balon.swf
 ||plovdivmedia.com/tpl/var2/images/hotel_laipcig.gif
@@ -799,7 +795,6 @@ webmoney.borsa.bg/BannerFactory.php5
 ||zamunda-bg.org/banner/
 ||zamunda-bg.org/upleft.php
 ||zamunda-bg.org/upright.php
-||zamunda.ch/pic/support*
 ||zarta.org/banners/
 ||zavedenia.com/bannerapp/
 ||zavedenia.com/banners_box/
@@ -941,7 +936,6 @@ filmi7.com##DIV[style="height: 220px;"]
 filmi-bg.eu###broadcastbox
 filmisub.com##DIV[style="height: 265px;"]
 flash-igri.com##.box-pink
-forum.arenabg.com##.sp_block_padding.windowbg
 forum.eshop.bg##.copyright
 forums.data.bg###bannertop_new
 framar.bg###facebox_games_mess
@@ -1151,7 +1145,6 @@ zajenata.bg###brand
 zajenata.bg##.shop_box
 zajenata.bg###trendo_branding
 zamunda-bg.org###topbar
-zamunda.ch##.iframe
 zamunda.net##.clear[width="80"]
 zamunda.net##.iframe
 zamunda.net###rssnews
