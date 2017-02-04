@@ -83,6 +83,7 @@ aha.aukro.bg/banners.php
 ||alein.org/images/user/Kosebose.com.jpg
 ||alein.org/images/user/Minions.jpg
 ||alein.org/images/user/zoomax.gif
+||alexdevelopment.co.uk/files/alexdevelopment.swf
 ||alfa.kachi-snimka.info/images/viu1326708098u.jpg
 ||amam.bg/a-d-s/
 ||amam.bg/bans/
@@ -435,6 +436,7 @@ i.wisdom.bg/adv/
 ||klassa.bg/images/banners/
 ||klassa.bg/site/banner/
 ||knigi-igri.net/images/banners/
+||knigolandia.info/wp-content/uploads/2016/12/Hendrik2.gif
 ||knnews.bg/images/baners/
 ||kolegi.info/banner*
 ||komentari.com/images/banners
@@ -481,13 +483,9 @@ media.karamel4e.com/media/banners/
 ||mobile.bg/images/brands/
 ||mobile.bg/images/picturess/bazar_bazar.swf
 ||mobilebulgaria.com/uploads/banners/
+||mondo.bg/a.html
 ||monitor.bg/ad/
-||monitor.bg/media/outsrc/26.jpg
-||monitor.bg/media/outsrc/364.jpg
-||monitor.bg/media/outsrc/371.gif
-||monitor.bg/media/outsrc/374.jpg
-||monitor.bg/media/outsrc/375.jpg
-||monitor.bg/media/outsrc/380.jpg
+||monitor.bg/media/outsrc/
 ||montana-dnes.com/baners/
 ||moreto.net/i/branding/*
 ||moreto.net/i/triumf330x72-1.png
@@ -522,7 +520,9 @@ my.affiliateforme.com/accounts/default1/banners/
 ||nenovinite.com/tpl/img/images/gaming_sezon_nenovinite.gif
 ||neseriozno.com/wp-content/custom/Banners/
 ||nessebar-news.com/news/images/*baner
+||net-surf.net/wp-content/uploads/2016/02/forum-ekstra-2.gif
 ||newbusiness.bg/banners/
+||newregistry.bcpea.org/images/banner-home.png
 ||news.idg.bg/images/blizoo/
 ||ngobg.info/images/banners/
 ||novinata.bg/wp-content/gallery/banners/
@@ -587,6 +587,11 @@ p.energy-torrent.com/themes/Silver/images/bg.jpg
 ||predator-bg.com/smsrec/inc_hor_ad.php
 ||predpriemach.com/b/
 ||pressclub.bg/ads
+||presstv.bg/wp-content/uploads/2015/12/xpress-online.png*
+||presstv.bg/wp-content/uploads/2016/04/ALBA_baner.png*
+||presstv.bg/wp-content/uploads/2016/06/xDamascena_300x245.jpg*
+||presstv.bg/wp-content/uploads/2016/08/banner-tryavna-1.jpg*
+||presstv.bg/wp-content/uploads/2016/10/xGraph-Design-Press728x90.jpg*
 ||preszona.com///img/BANNERS/
 ||pricedefend.com*.js^
 ||prikachi.com/flash/files/
@@ -686,6 +691,12 @@ shop.zoomania.org/images/*/
 ||slivnini.bg//uploads/banner/
 ||smolyandnes.com/photo_gallery/archive_photos/archive_photos/archive_photos/archive_photos/archive_photos/archive_photos/banners
 ||smolyandnes.com/photo_gallery/archive_photos/banners/
+||smolyanpress.net/wp-content/uploads/2011/12/posoki-jpg.jpg
+||smolyanpress.net/wp-content/uploads/2012/09/garlo.gif
+||smolyanpress.net/wp-content/uploads/2013/08/m_pojar_new.gif
+||smolyanpress.net/wp-content/uploads/2016/02/yagnevo.png
+||smolyanpress.net/wp-content/uploads/2016/07/ek_latograd.jpg
+||smolyanpress.net/wp-content/uploads/2016/09/athome.gif
 ||snews.bg/img/banners/
 ||sofiacomputers.net/flash/*250x200*
 ||sofspravka.info/index.php?go=_common&p=banner
@@ -758,7 +769,27 @@ test.idg.bg/st/ads/
 ||veliko-tarnovo.net/static/reklamirai.jpg
 ||versia.bg/images/flash/
 ||vevesti.bg/img/president2016/
+||viaranews.com/wp-content/uploads/2013/05/stroi.jpg
+||viaranews.com/wp-content/uploads/2013/10/nikiUntitled-1-copy.jpg
+||viaranews.com/wp-content/uploads/2013/10/stillll-1-copy1.jpg
+||viaranews.com/wp-content/uploads/2014/02/picasion.com_af91f8b4434f092f18df9536b2fa3e01.gif
+||viaranews.com/wp-content/uploads/2014/03/f61f9cf8e37ce9a2938f2bac59881882.gif
+||viaranews.com/wp-content/uploads/2014/07/ac82f09fd7e90b6cbc6071f3e6b46520.gif
+||viaranews.com/wp-content/uploads/2014/07/gum-copy.jpg
+||viaranews.com/wp-content/uploads/2014/07/mbal-samokov.jpg
+||viaranews.com/wp-content/uploads/2014/07/schetovodna-.jpg
+||viaranews.com/wp-content/uploads/2014/12/GAZOVIIIII.jpg
+||viaranews.com/wp-content/uploads/2014/12/nivel-copy.jpg
+||viaranews.com/wp-content/uploads/2015/05/vardar.gif
+||viaranews.com/wp-content/uploads/2015/07/top-elektrik3.jpg
+||viaranews.com/wp-content/uploads/2015/07/united.jpg
 ||viaranews.com/wp-content/uploads/2015/08/vila-bistrica.jpg
+||viaranews.com/wp-content/uploads/2015/11/sapy.jpg
+||viaranews.com/wp-content/uploads/2016/01/avto-oazis-copynew.jpg
+||viaranews.com/wp-content/uploads/2016/01/meridian.jpg
+||viaranews.com/wp-content/uploads/2016/02/vip.jpg
+||viaranews.com/wp-content/uploads/2016/03/zemeneia-copy.jpg
+||viaranews.com/wp-content/uploads/2016/05/Copy-of-sbalbb-copy.jpg
 ||vinpromtaskov.com/banner
 ||vipoferta.bg/aBans/
 ||vipoferta.bg/banners/
@@ -875,6 +906,7 @@ blitz.bg##.banner
 bourgas.org###bannerTop
 btv.bg##.abw_message
 btv.bg##[id^="banner"]
+btvnovinite.bg##.abw_message
 bukvi.bg##MARQUEE
 bukvi.bg##TD[style="text-align: center; border: 1px dashed rgb(24, 130, 237); box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.3); padding: 3px;"]
 bulforums.com##DIV[style="height:100px !important; overflow:hidden; background:#8cc051 url(http://www.bulforums.com/source/public_html/images/bforums.jpg) no-repeat top left;"]
@@ -926,13 +958,16 @@ dunavmost.bg##.banner_7
 dunavmost.bg##.banner_8
 econ.bg##.adv
 elmaz.com##.kare.top10
+e-novinar.com##.adv
 etapgroup.com##.banner
 etapgroup.com##.banners
 etapgroup.com##DIV[style="margin: 0px auto; min-height: 450px; width: 100%; padding-top: 500px; background-image: url('images/interface/kom_branding.png'); background-repeat: no-repeat; background-position: top center;"]
 expert.bg##iframe[style="border: medium none ; margin: 0pt; padding: 0pt; overflow: hidden; width: 300px; height: 250px; border-collapse: collapse;"]
 fakti.bg##div#adsblock-msg
 film4eta.com###topbar
+filmi7.com##.custom-info-bgtop-backdrop
 filmi7.com##DIV[style="height: 220px;"]
+filmi7.com##DIV[style="min-height: 270px;width:960px;background-color: #F7F7F7;"]
 filmi-bg.eu###broadcastbox
 filmisub.com##DIV[style="height: 265px;"]
 flash-igri.com##.box-pink
@@ -1025,6 +1060,7 @@ novini.dir.bg##.ispace
 novinite.bg##.banner640
 obshtestveni-porachki.com##.animationbtns
 odit.info###b300
+online-filmi.info##.custom-info-bgtop
 opl.bg###top
 otkomdolom.com##.banner
 otkomdolom.com##.bannergroup
@@ -1164,6 +1200,7 @@ zovnews.com##.banner_top
 ~bg-ikonomika.com###banner_ad
 @@||bivol.bg/wp-content/uploads/2016/01/*
 @@cdn.directrev.com$domain=bg-gledai.tv
+@@cdn.economedia.bg/minc/$domain=dnevnik.bg
 @@||conquiztador.bg/client_pre_frame.php
 @@||contextweb.com^$domain=bg-gledai.tv
 @@||crackmywifi.blogspot.bg^$document
