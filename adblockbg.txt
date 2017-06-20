@@ -784,7 +784,6 @@ test.idg.bg/st/ads/
 ||topbg.org/banners
 ||top-guns.info/images/banners/
 ||topofertite.com/banner/
-||torrent-team.net##IMG[src*="/baner"]
 ||toto.bg/images/branding*
 ||tribali.info/user_pic/flash/MegaSOD_3.swf
 ||tvevropa.com/public/images/site_images/*banner
