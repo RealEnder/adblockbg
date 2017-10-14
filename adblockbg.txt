@@ -54,7 +54,6 @@ ads.ibox.bg/banners/*.swf
 adv.abv.bg
 ||advbg.do.am/banners/
 adv.gepime.com
-||adwise.bg/search/
 ||afera.bg/280x190*
 ||afera.bg/banner*
 ||afera.bg/benim.jpg
@@ -88,7 +87,6 @@ aha.aukro.bg/banners.php
 ||amam.bg/a-d-s/
 ||amam.bg/bans/
 ||androidbg.com/banner*
-||angrysheep.org/wp-content/uploads/2014/02/*300x250*
 ||animes3000.net/work/
 ||animes-bg.com/reklama/
 ||apteka-optima.com/frontend/files/banners/
@@ -213,7 +211,6 @@ cdn.plus500.com/Media/Banners/
 ||club9000.org/banners/
 ||club-bg.org/images/banner*
 ||computers.bg/120x460.
-||comunicatorbg.com/comu_files/bulgarino.swf
 ||conquiztador.bg/banner/
 ||conquiztador.bg/bgbanners/
 ||conquiztador.bg/getbannerframe.php
@@ -281,7 +278,6 @@ data.msk.bg/delivery/afr.php
 ||erotichno-belio.com/banner*
 ||eshop.bg/affiliate/advforumpuls_hor.php
 ||eshop.bg/affiliate/advforumpuls.php
-||e-sim.home.pl/eworld/img/securaLogo.png
 ||etaj55.com/adv/banners
 ||etapgroup.com/images/interface/*branding*
 ||etapgroup.com/images/interface/dodo.png
@@ -480,8 +476,10 @@ media.easyads.bg/ads/
 media.easyonline.bg/ads/
 media.exchange.bg/AdServer
 media.exchange.bg/banners
+media.finestre.bg/advertisement/banner/
 media.get.bg/media/bannernext/resized/300x600/
 media.giphy.com$domain=dennews.bg
+media.iskamdaqm.bg/advertisement/banner/
 media.karamel4e.com/media/banners/
 ||media.winbetaffiliates.bg/uploads/*
 ||medicalbg.com/freenet
@@ -531,11 +529,6 @@ my.affiliateforme.com/accounts/default1/banners/
 ||ndt1.com/bmw_prem_2012.swf
 ||ndt1.com/images/*
 ||ndt1.com/rk/*
-||nenovinite.com/tpl/img/files/*LEFT(1).png
-||nenovinite.com/tpl/img/files/*LEFT.png
-||nenovinite.com/tpl/img/files/*RIGHT.png
-||nenovinite.com/tpl/img/images/brand*
-||nenovinite.com/tpl/img/images/gaming_sezon_nenovinite.gif
 ||neseriozno.com/wp-content/custom/Banners/
 ||nessebar-news.com/news2/wp-content/uploads/2016/02/apartments-nessebar-1.png
 ||nessebar-news.com/news2/wp-content/uploads/2016/02/banner_os-nessebar_1.jpg
@@ -546,6 +539,7 @@ my.affiliateforme.com/accounts/default1/banners/
 ||net-surf.net/wp-content/uploads/2016/02/forum-ekstra-2.gif
 ||newbusiness.bg/banners/
 ||newregistry.bcpea.org/images/banner-home.png
+||newsbg365.com/2.png
 ||newsbg.eu/wp-content/uploads/2016/05/TS-reklama-051-copy.png
 ||newsbg.eu/wp-content/uploads/2016/10/tazamobile.jpg
 ||news.idg.bg/images/blizoo/
@@ -555,12 +549,11 @@ my.affiliateforme.com/accounts/default1/banners/
 ||novinata.bg/wp-content/gallery/sidebar_banner_top/
 ||novinata.bg/wp-content/uploads/2015/12/11999968_10207914035027154_1848979013_n.jpg
 ||novinata.bg/wp-content/uploads/2016/01/fitnesshbg.png
+||novini24online.com/wp-content/uploads/2017/06/2a.png
 ||novini.bg/brand/
-||nuevo.bg/banners/
 ||obiavi-bg.com/img/BANNERS/
 ||obiavite.eu/banner/
 ||obiavite.eu/reklama/
-||ok-booking.com/images/oklogo180.jpg
 ||online.bg/banners/
 ||online-televizia.net/images/banners/
 ||opencamp.talkweb.eu/468x60*
@@ -729,6 +722,7 @@ shop.zoomania.org/images/*/
 ||slivenpress.bg/images/banners/
 ||sliven.us/images/stories/baneri*
 ||slivnini.bg//uploads/banner/
+||smartnews.bg/wp-content/uploads/*anner*
 ||smolyandnes.com/photo_gallery/archive_photos/archive_photos/archive_photos/archive_photos/archive_photos/archive_photos/banners
 ||smolyandnes.com/photo_gallery/archive_photos/banners/
 ||smolyanpress.net/wp-content/uploads/2011/12/posoki-jpg.jpg
@@ -749,7 +743,6 @@ shop.zoomania.org/images/*/
 ||sportal.bg/brand_images/
 ||sport-vt.com/static/vtu-horizontalen2.swf
 ||starfm.bg/banners/
-||stariyat-bryast.sliven.net/banners/
 ||startup-bg.com/images/baner
 static01.podtepeto.bg/uploaded/images/myk.gif
 static01.podtepeto.bg/uploaded/images/sinji.jpg
@@ -790,8 +783,8 @@ test.idg.bg/st/ads/
 ||the-street.hit.bg/banners
 ||timesbg.com/ban2/
 ||topbg.org/banners
-||top-guns.info/images/banners/
-||topofertite.com/banner/
+||topofertite.com/files/backgrounds/*
+||topofertite.com/templates/dealzilla/rj/*.png
 ||toto.bg/images/branding*
 ||tribali.info/user_pic/flash/MegaSOD_3.swf
 ||tvevropa.com/public/images/site_images/*banner
@@ -1147,6 +1140,7 @@ politikata.net##[style="width:300px;height:250px;"]
 politikata.net##[style="width:300px;height:600px;"]
 politikata.net##[style="width:728px;height:90px;"]
 praseta.com##.right_banner
+pravatami.bg###bannersdesktop
 pressboard.info##.banner
 prikachi.com###banner
 prnew.info##.advertisement
@@ -1286,6 +1280,7 @@ zovnews.com##.banner_top
 @@||sportal.bg/uploads/video_advertising/
 @@||subsmania.info
 @@||v.fwmrm.net/ad/p/*$domain=play.novatv.bg
+@@||webcafe.bg/js/ads.js
 @@||webnews.bg/assets/js/ads.js$script
 @@||webnews.bg/assets/js/min/dfp.js$script,domain=news.bg|lifestyle.bg|topsport.bg
 
