@@ -1128,6 +1128,8 @@ nessebar-news.com###maxbannerads-6
 news.bg##.banners
 news.bg###gpt-banner-1-desktop
 news.bg###gpt-banner-4_ad_container
+news.bg##ins[style="width: 970px; height: 250px; display: block; position: relative; border: 0px none;"]
+news.bg##ins[style="width: 970px; height: 250px; display: inline-table; position: relative; border: 0px none; vertical-align: bottom;"]
 newshub.bg###banner-top
 news.ibox.bg###GoogleAdSense
 news.ibox.bg##.nws-commercial-column
