@@ -1,8 +1,10 @@
-[Adblock Plus 1.1]
-! This is bulgarian list hosted at http://stanev.org/abp
-! Contact me at alex at stanev dot org
+[Adblock Plus 2.0]
+! Title: Bulgarian adblock list
+! Homepage: https://stanev.org/abp
+! Expires: 5 days
 !
-!Expires after 1 days
+! This list is supplemental subscription to EasyList (https://easylist.to)
+! Contact me at alex at stanev dot org
 !
 !--- General rules ---!
 /728x90.swf
