@@ -6,7 +6,7 @@ import os.path
 import urllib.parse
 import socket
 from urllib.request import urlopen
-from urllib.error import HTTPError
+from urllib.error import HTTPError, URLError
 
 print('Check AdBlockPlus filters for outdated entries\nver 0.3 (c) Alex Stanev, http://stanev.org/abp\n')
 
@@ -19,6 +19,7 @@ if not os.path.exists(sys.argv[1]):
 
 socket.setdefaulttimeout(2)
 no_res  = 0
+no_conn = 0
 no_host = 0
 skip    = 0
 short   = 0
@@ -45,12 +46,8 @@ for line in abplist:
         print('%i: Too short : %s' % (curr, line), end='')
         continue
 
-    #check whitelists too
-    if rline[0:1] == '@@':
-        rline = rline[2:]
-
     #remove single or double starting pipe
-    while rline[0] == '|':
+    while rline[0] == '|' or rline[0] == '@':
         rline = rline[1:]
         
     #check for protocol idents
@@ -60,7 +57,7 @@ for line in abplist:
         rline = 'http://' + rline
     
     url = urllib.parse.urlparse(rline)
-    
+
     #check for wildcards in host
     if url[1] == '' or url[1].find('*') != -1:
         no_host += 1
@@ -86,6 +83,9 @@ for line in abplist:
             print('%i: %i Resource not found : %s' % (curr, e.code, line), end='')
         if e.code >= 500:
             print('%i: %i Server error : %s' % (curr, e.code, line), end='')
+    except URLError as e:
+        no_conn += 1
+        print('%i: %s : %s : %s' % (curr, e.reason, line.strip(), url[0]+'://'+url[1]+path.strip()))
     except Exception:
         None
     except KeyboardInterrupt as ex:
@@ -94,4 +94,4 @@ for line in abplist:
                 
 abplist.close()
 
-print('\nChecked lines:%i\nNot found:%i\nIndeterminable:%i\nToo short:%i\nSkipped:%i' % (curr, no_res, no_host, short, skip))
+print('\nChecked lines:%i\nNot found:%i\nConnection error:%i\nIndeterminable:%i\nToo short:%i\nSkipped:%i' % (curr, no_res, no_conn, no_host, short, skip))
