@@ -649,6 +649,8 @@ webmoney.borsa.bg/BannerFactory.php5
 ||websitepr.eu/wp-content/themes/Divi/images/300x2501.png
 ||websitepr.eu/wp-content/themes/Divi/images/Baner*
 ||wisdom.bg/adv/
+||xn--80aagchfanjcc6aftsr6a.com/images/avtogumi.gif
+||xn--80aagchfanjcc6aftsr6a.com/images/banners/
 ||yambolnews.net/images/banners/
 ||yavka.net/toner/
 ||yes.bg/ads/
@@ -669,8 +671,6 @@ webmoney.borsa.bg/BannerFactory.php5
 ||zepir.com/storage/banners/
 ||zoomania.org/wp-content/uploads/*baner*
 ||zopplus.com/wp-content/uploads/*366x280*
-||магазинвелосипеди.com/images/avtogumi.gif
-||магазинвелосипеди.com/images/banners/
 !
 !--- Specific element hiding rules ---!
 24chasa.bg##A[href*="mediamall.bg"]
