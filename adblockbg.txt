@@ -31,7 +31,6 @@ com.nxtras.banner.ImageRotator
 ||24ins.bg/affiliate/
 ||30dumi.eu/wp-content/uploads/2012/05/baner*
 ||360.bg/baner*
-89.215.175.32/banners/
 91.196.126.51/ads
 a.actualno.com/*
 ||abcnews.bg/user_pic/files/Absolute/index.html
@@ -97,8 +96,6 @@ beis.bia-bg.com/images/baner*
 ||bet.bg/images/banners/
 ||bezvazelin.net/e107_images/banners/
 ||bgbaner.com/getads.php
-||bgbook.dir.bg/images/baner*
-||bgcert.com/banner/
 ||bghelp.co.uk/banners/
 ||bghelp.co.uk/G-Temp/
 ||bgled.com/userfiles/editor/image/racoms%20v1.2.gif
@@ -109,7 +106,6 @@ b.grabo.bg
 ||bgrabotodatel.com/images/Banner*
 ||bgrazpisanie.com/public/flash/banner.swf
 ||bg.search.etargetnet.com/generic/
-||bgtelevizia.com/adds/
 ||bgtop100.com/imgs/*ad
 ||bg-voice.com/wp-content/uploads/*286x300*
 ||bgvolleyball.com/banner/
@@ -132,6 +128,15 @@ bimg.abv.bg/sravni/banners-with-tabs/
 ||borbabg.com/wp-content/uploads/*banner*
 ||bourgas.org/banners/
 bravo.btv.bg/banners/
+||briag.bg/uploads/wysiwyg/images/Antoan%20Vill%20logo.jpg
+||briag.bg/uploads/wysiwyg/images/*banner*
+||briag.bg/uploads/wysiwyg/images/%D0%A0%D0%A3%20%D0%BB%D0%BE%D0%B3%D0%BE%20250%D1%85300%20%D0%BF%D0%B8%D0%BA%D1%81%D0%B5%D0%BB%D0%B0.jpg
+||briag.bg/uploads/wysiwyg/images/IMG-3a9d125f6f610f985a304ccad96dba7d-V.jpg
+||briag.bg/uploads/wysiwyg/images/kulinar.jpg
+||briag.bg/uploads/wysiwyg/images/Logo%20DP_kare%20Bryag%20copy.jpg
+||briag.bg/uploads/wysiwyg/images/Mall%20Rousse%20Logo%20Slogan-no%20borders.jpg
+||briag.bg/uploads/wysiwyg/images/Plastingenering-D-1%20site.jpg
+||briag.bg/uploads/wysiwyg/images/Site%20abonament%202020jpg_Page1.jpg
 ||bsms.bg/images/upload/banner/
 ||bueno.bg/affiliates/
 ||bukvi.bg/banner*
@@ -149,9 +154,7 @@ bulgaria.utre.bg/images/banners
 ||bulnews.bg/uploads/f769666053a1976034b2c7c76aaed3ad5736f4e7.gif
 ||bulphoto.com/banners/
 ||burgascity.com/burgascity/uploads/banners/
-||burgasinfo.com/ajax/
-||burgasnews.com//images/banners/
-||burgasnews.com/images/banners/
+||burgasinfo.com/ajax/getbanners/
 ||burgasnews.com/wp-content/uploads/2016/12/avtochastionline24.gif
 ||burgasnews.com/wp-content/uploads/2016/12/busbanner1.gif
 ||burgasnews.com/wp-content/uploads/2016/12/PlanB-Banner-480-100-300x63.jpg
@@ -161,14 +164,9 @@ bulgaria.utre.bg/images/banners
 ||burgasnews.com/wp-content/uploads/*300x250*
 ||burgasnews.com/wp-content/uploads/*480_100*.*
 ||burgasnews.com/wp-content/uploads/*/630x100.*
-||car24.bg/html/banner*
+||business.bg/site_files/d-sitebanners/
 ||catalog.bg/images/banner
-cdn.arenabg.ch/var/assets/banners/
-cdn.arenabg.com//share/images/onemoretrend.jpg
-cdn.arenabg.com//var/friends/
 cdn.plus500.com/Media/Banners/
-||chambersz.com/im/nopic.swf
-||cifronim.com/images/pages/image/System/Banner*
 ||class.bg/images/banners/
 ||climbingguidebg.com/adv/
 ||club9000.org/banners/
@@ -183,10 +181,13 @@ cdn.plus500.com/Media/Banners/
 ||data.bg/media/databg_*
 ||data.bg/media/Data_Zayo_Bayo.png
 ||data.bg/media/kolektiva.png
-||data-bg.org/120x240*
-||data-bg.org/*460x60.swf
-||data-bg.org/banner*
 data.msk.bg/delivery/afr.php
+||dcnews.bg/wp-content/uploads/dcc_bottom_click.jpg
+||dcnews.bg/wp-content/uploads/grandlogo.gif
+||dcnews.bg/wp-content/uploads/ofis.jpg
+||dcnews.bg/wp-content/uploads/tabelka_zname.png
+||delnik.net/wp-content/uploads/2014/02/DemaxBlueRGBProba.png
+||delnik.net/wp-content/uploads/2014/02/Logo_holograms1.jpg
 ||dennews.bg/files/banners/
 ||dennews.bg/uploads/banners/
 ||dennews.bg/uploads/lovna.gif
@@ -269,7 +270,6 @@ flvplayer.viastream.viasat.tv/Commercials/
 ||haskovo.net/uploads/backgrounds/
 ||hide-my-ip.com/promo/
 ||hitceni.bg/banners/
-||homepage.bg/Banners/
 ||homes.bg/images/branding
 ||hotelsbg.net/banners/
 ||hronika-bg.com/wp-content/uploads/2014/04/AiBi-Building.jpg
@@ -300,7 +300,6 @@ image.arukereso.hu/partner/
 images.wambacdn.net/images/upload/adv/
 ||imenata.com/flash/
 img.abv.bg/AbvProductAds/
-img.big5.bg/images/banner/
 img.imghosting.biz/238/1f12d748b1136f956db50bbabf0dfb70.png
 ||img.p2pbg.com/misc/bpoke.png
 img.photo-forum.net/banner/
@@ -314,6 +313,7 @@ img.photo-forum.net/banner/
 ||info.mitnica.com/images/*banner
 ||infopleven.com/wp-content/uploads/2014/02/BANERKALIN-1.gif
 ||informator.bg/cache/promotion_*
+||informiran.net/ebay/
 ||infoz.bg/images/--2018-01/mini-maritsa-iztok.jpg
 ||infoz.bg/images/---2019-06/trubadur.jpg
 ||inlife.bg/magnito.gif
@@ -331,15 +331,12 @@ img.photo-forum.net/banner/
 ||intrigi.bg/upload/images/*banner*
 ||intrigi.bg/wp-content/uploads/2019/01/izrabotka-na-sait-web-design-bultag.jpg
 ||investor.bg/brandings
-i.potv.bg/i/*728x90*
-i.static.zaplata.bg/banners/
 ||itforumbg.net/sites/default/files/nitrompu.gif
 i.wisdom.bg/adv/
 ||jarcomputers.com/banners
 ||jobs.bg/images/branding/
 ||journey.bg/ads/
 ||jpeghost.com^$third-party
-||juen.bg/adv/
 ||kabinata.com/banners/
 ||kachi-snimka.info/ads/
 ||kakvo.org/baners
@@ -348,18 +345,17 @@ i.wisdom.bg/adv/
 ||kazanlak-bg.info/images/banners/
 ||kazanlak.com/img/banner/
 ||kesh.bg/adv_pics/
-||kidsarts.bg/js/dim.screen.js
 klearprodstorage.blob.core.windows.net/public/blog/links/*
 ||knigi-igri.net/images/banners/
 ||knigolandia.info/wp-content/uploads/2016/12/Hendrik2.gif
 ||knnews.bg/images/baners/
 ||kolegi.info/banner*
 ||konkurent.bg/img/banners/
+||kotasport.com/wp-content/uploads/2018/04/geymarski-laptopi.jpg
 ||kozloduy-bg.info/wp-content/uploads/2017/05/adv.gif
 krisfansait.ovo.bg/rtr
 ||kulturni-novini.info/banners/
 ||kurier.bg/files/banners/
-||kvasilev.com/images/srebro.swf
 ||learnfree.eu/wp-content/uploads/banners/
 ||lekuva.net/wp-content/themes/jarida/images/patterns/body-bg5.png
 ||lekuva.net/wp-content/uploads/2014/05/lula111.gif
@@ -367,10 +363,8 @@ krisfansait.ovo.bg/rtr
 ||lekuva.net/wp-content/uploads/2015/09/b17b2.jpg
 ||lekuva.net/wp-content/uploads/2017/02/DOMUS-REBUS-za-LEKUVA.jpg
 ||lekuva.net/wp-content/uploads/banners/
-||lighting-bulgaria.com/images/background2013.jpg
 ||liternet.bg/image/baner/
 ||lubamanolova.info/images/stories/food/baner*
-||lucrat.net/*Banner*.swf
 ||lukovit-news.com/images/300x250adv*
 ||lukovit-news.com/images/reklama/
 ||malkiobyavi.com/banners/
@@ -384,14 +378,11 @@ media.giphy.com$domain=dennews.bg
 media.iskamdaqm.bg/advertisement/banner/
 media.winbetaffiliates.bg/uploads/
 ||medicalbg.com/freenet
-||megashop.bg/techno/images/banners
-||megashop.bg/vaucher.swf
 ||mikael7.com/files/banners/
 ||millionaire.bg/writeBanner.jsp
 ||mobile.bg/images/brands/
 ||mobile.bg/images/picturess/bazar_bazar.swf
 ||mobilebulgaria.com/uploads/banners/
-||mondo.bg/a.html
 ||monitor.bg/web/files/plakats/
 ||montana-dnes.com/baners/
 ||moreto.net/i/*330x72*
@@ -406,7 +397,10 @@ media.winbetaffiliates.bg/uploads/
 ||music-bg.info/images/others/kozmu.gif
 ||music-bg.info/images/radio.gif
 ||muzi4ka.com/sponsor/
-||mymall.bg/products_action.php
+||namoreto.bg/wp-content/uploads/2017/08/animiran-baner-CHistota.gif
+||namoreto.bg/wp-content/uploads/2019/06/FREQ-2.jpg
+||namoreto.bg/wp-content/uploads/2019/07/BGMEDIA-300x204.jpg
+||namoreto.bg/wp-content/uploads/2019/07/BGMEDIA.jpg
 ||napravisam.bg/forum/neklama/
 ||napravisam.bg/neklama/
 ||narodnodelo.bg/*250x250*
@@ -424,10 +418,8 @@ media.winbetaffiliates.bg/uploads/
 ||nessebar-news.com/news/images/*baner
 ||newbusiness.bg/banners/
 ||newregistry.bcpea.org/images/banner-home.png
-||news.idg.bg/images/blizoo/
 ||ngobg.info/images/banners/
 ||nibozimoti.com/wp-content/uploads/2018/04/nibozimoti.png
-||novini24online.com/wp-content/uploads/2017/06/2a.png
 ||novini.bg/brand/
 ||novini.bg/statics/adv/*
 ||obiavi-bg.com/img/BANNERS/
@@ -443,6 +435,8 @@ media.winbetaffiliates.bg/uploads/
 ||parichka.com/banner*
 ||pcmania.bg/banners/
 p.energy-torrent.com/themes/Silver/images/bg.jpg
+||pharmacist.bg/wp-content/uploads/2020/02/remotiv.gif
+||pharmacist.bg/wp-content/uploads/2020/10/imo-inst-300x600-copy.png
 ||photo-cult.com/pics/baneri/
 ||photo-forum.net/static/banner/
 ||picbg.net/center-banner.php
@@ -460,13 +454,9 @@ p.energy-torrent.com/themes/Silver/images/bg.jpg
 ||plovdiv-online.com/images/banners
 ||pluton1.123bg.com/images/banners/
 ||poligraff.net/uploads/banners
-||politika.bg/ad/
+||politika.bg/web/files/plakats/10/image/TM+TBI_TV_banner_300x250px2.jpg
 ||politikata.net/img/NEWlekuvaiLEFT.jpg
 ||politikata.net/img/NEWlekuvaiRIGHT.jpg
-pozvanete.bg##div[style="width: 728px; height: 90px; overflow: hidden;"]
-pozvanete.bg##.left-sidebar-banner.box
-||pozvanete.bg/public/front/images/grand.gif
-pozvanete.bg/public/upload/backgrounds/
 ||predpriemach.com/b/
 ||presstv.bg/wp-content/uploads/2015/12/xpress-online.png*
 ||presstv.bg/wp-content/uploads/2016/04/ALBA_baner.png*
@@ -481,7 +471,6 @@ pozvanete.bg/public/upload/backgrounds/
 ||profitshare.bg^
 ||r5.dir.bg^
 ||radiotangra.com/media/banners/
-||razdavalnik.bg/banners/
 ||razkritia.com/wp-content/uploads/*300_50*
 ||razkritia.com/wp-content/uploads/*960x90*
 ||razkritia.com/wp-content/uploads/banner*
@@ -501,7 +490,6 @@ r*.dir.bg/js_myads.php
 ||renault-bg.com/smf/bn/
 ||renault-bg.com/smf/bnn
 ||reset.bg/images/banners/
-||retv.bg/loader/loader.swf
 ||rezervacia.bg/banners
 ||rezervaciq.com/img/banners
 ||rodopinews.com/images/banners/
@@ -509,9 +497,6 @@ r*.dir.bg/js_myads.php
 ||rositza.com/wp-content/uploads/2019/11/ABONAMENT.jpg
 ||ruseinfo.net/adv/
 ||sandacite.bg/wp-content/uploads/2012/08/11100972_846509388770373_1194460155_n.jpg
-||sandanski1.com/news/data/upimages/Ads/
-||sasho.data.bg/
-||search.bivol.bg/img/DAXY_baner_210x250_px.gif
 ||sedmica.sliven.net/img/160x200*
 ||sedmica.sliven.net/img/170x120*
 ||sedmica.sliven.net/img/180x45*
@@ -547,8 +532,21 @@ shop.zoomania.org/images/*/
 ||sliven.biz/baner*
 ||sliven.biz/source/reklama.jpg
 ||sliveninfo.bg/wp-content/uploads/2017/11/*baner*
+||sliveninfo.bg/wp-content/uploads/2017/11/banner-dkc1-sliven.jpg
 ||sliveninfo.bg/wp-content/uploads/2017/11/comnet-big.gif
+||sliveninfo.bg/wp-content/uploads/2017/12/%D0%B1%D0%B0%D0%BD%D0%B5%D1%80-%D0%BE%D0%B1%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B0.jpg
+||sliveninfo.bg/wp-content/uploads/2018/01/SlivenINFO.jpg
+||sliveninfo.bg/wp-content/uploads/2018/01/toplofikacia.jpg
+||sliveninfo.bg/wp-content/uploads/2019/01/banner-dkc2.png
+||sliveninfo.bg/wp-content/uploads/2019/02/za_sliveninfo_970px_140px_static.jpg
 ||sliveninfo.bg/wp-content/uploads/2019/09/250.300.jpg
+||sliveninfo.bg/wp-content/uploads/2019/10/16_10_LOGO_YOT_GI_VAL_970x140-copy.jpg
+||sliveninfo.bg/wp-content/uploads/2020/02/banner-outlet.jpg
+||sliveninfo.bg/wp-content/uploads/2020/08/Banner-1.jpg
+||sliveninfo.bg/wp-content/uploads/2020/12/comnet.gif
+||sliveninfo.bg/wp-content/uploads/2020/12/dika3.png
+||sliveninfo.bg/wp-content/uploads/2020/12/ismbal.jpg
+||sliveninfo.bg/wp-content/uploads/2020/12/obshtinasliven.jpg
 ||sliven-news.com/images/stories/slujebni/
 ||slivenpress.bg/images/banners/
 ||smartnews.bg/wp-content/uploads/*anner*
@@ -575,6 +573,7 @@ shop.zoomania.org/images/*/
 static.bgnes.com:8080/img/bann/
 static.biznes-bulgaria.com/images/banners/
 static.bnr.bg/gallery/01/01c780ef0f95c6c53a504d12fdae95de.gif
+||static.bnr.bg/gallery/cr/8a741e10a78bb4ae8eee74489fcc0a1e.jpg
 static.mbclub.bg/banners/
 static.petel.bg/media/banners/
 static.petel.bg/resources/2020/01/27/iright_Niramar-zaglavna.jpg
@@ -590,7 +589,6 @@ subs.sab.bz/images/reset.swf
 ||supichka.com/assets/images/perun.jpg
 ||syndication.webwizguide.info/pagead/
 ||technomarket.bg/userfiles/files/banner*
-||technooptima.com/catalog/images/banners/
 ||temanews.com/img/banners/
 ||teniski.be/*468x60.
 ||teniski.be/images/shops*
@@ -619,8 +617,6 @@ test.idg.bg/st/ads/
 ||veliko-tarnovo.net/static/aleks-ok.jpg
 ||veliko-tarnovo.net/static/reklamirai.jpg
 ||versia.bg/images/flash/
-||vestnikpriatel.com/wp-content/uploads/2015/04/chasti_adv.gif
-||vestnikpriatel.com/wp-content/uploads/2019/02/plastimo.jpg
 ||vevesti.bg/img/president2016/
 ||viaranews.com/wp-content/uploads/2018/10/imgpsh_fullsize-2222222222.jpg
 ||viaranews.com/wp-content/uploads/2018/11/Copy-of-VIARA-LOGO-new-site-copy.jpg
@@ -637,7 +633,6 @@ test.idg.bg/st/ads/
 ||vnews.bg/wp-content/themes/vnews/images/banner*
 ||vnews.bg/wp-content/themes/vnews/images/finalflat2.jpg
 ||vnews.bg/wp-content/themes/vnews/images/vik-varna-banner.jpg
-||void.clip4e.com/banners/
 ||vratza.com/banners/
 ||vsichkotok.bg/images/*232x200*
 ||webdesign-bulgaria.com/images/banners
@@ -661,7 +656,6 @@ webmoney.borsa.bg/BannerFactory.php5
 ||zarata.info/14_02_2017_diplomat.gif
 ||zarata.info/*.html
 ||zarata.info/rotator*
-||zarata.info/wp-content/uploads/2016/11/Toyota1.gif
 ||zarata.info/wp-content/uploads/2016/12/Siltex_resized.jpg
 ||zavedenia.com/bannerapp/
 ||zavedenia.com/banners_box/
@@ -704,11 +698,19 @@ arenabg.com###banner_2
 arenabg.com###banner_4
 arenabg.com###banner_5
 arenabg.com###banner_7
+arenabg.com##.border-left.w-100
+arenabg.com##.d-none.d-sm-none.d-md-none.d-lg-inline-block.col-lg-2
 arenabg.com##.hidden-xs.hidden-sm.arena_9.mb5
 arenabg.com##.hidden-xs.hidden-sm.arena_9.revive.mb5
+arenabg.com##iframe[src="about:blank"]
 arenabg.com##IFRAME[src*="/banner/"]
 arenabg.com##IFRAME[src*="banner.htm"]
+arenabg.com##.mb-2.mt-2.border
+arenabg.com##.mb-3.d-none.d-sm-block.border
 arenabg.com##.panel-footer.text-center.arena_10
+arenabg.com###spot-1
+arenabg.com###spot-4
+arenabg.com###spot-5
 as.adwise.bg###adwbanner300x250
 as.adwise.bg##.adwiseBlock
 autoclub.bg###banerdqsno
@@ -745,8 +747,10 @@ bivol.bg###sbox-window
 bivol.bg##.top_banner
 bivol.bg###wpfront-notification-bar
 blitz.bg##.banner
+blitz.bg##.fc-dialog-container
 booksbg.org##.leaderboard
 bourgas.org###bannerTop
+briag.bg##.col-lg-12.col-md-12.col-sm-12.col-xs-12
 btv.bg##.abw_message
 btv.bg##[id^="banner"]
 btvnovinite.bg##.abw_message
@@ -757,6 +761,7 @@ burgasinfo.com##.right_banner.load-banner
 burgasnews.com##.adv
 burgasnews.com##.td-header-rec-wrap
 burgasnews.com##.wpb_single_image.wpb_content_element.vc_align_center
+business.bg##.banner-right
 business.bg##table[width="220"][bgcolor="#ffffff"]
 capital.bg##.bann300x250
 carmarket.bg###offers
@@ -816,7 +821,6 @@ etapgroup.com##DIV[style="margin: 0px auto; min-height: 450px; width: 100%; padd
 expert.bg##iframe[style="border: medium none ; margin: 0pt; padding: 0pt; overflow: hidden; width: 300px; height: 250px; border-collapse: collapse;"]
 fakti.bg##div#adsblock-msg
 fakti.bg##.zaplata-footer-logo
-film4eta.com###topbar
 filmi7.com##.custom-info-bgtop-backdrop
 filmi7.com##DIV[style="height: 220px;"]
 filmi7.com##DIV[style="min-height: 270px;width:960px;background-color: #F7F7F7;"]
@@ -857,6 +861,7 @@ haskovo.net##.sliding_banner_div
 hi7s.com###bgtp
 homes.bg##DIV[style="position:absolute;width:120px;right:-120px;"]
 homes.bg##DIV[style="position:absolute; width:130px;left:-130px;height:900px;"]
+informiran.net##.infor-before-content
 itforumbg.net##IMG[style="width: 300px; height: 250px;"]
 kaksepishe.com##.ads
 kaminata.net##.poop2
@@ -866,7 +871,6 @@ kartelito.com###topbar
 kesh.bg##DIV[style="width:728px; height:90px; background-color:#fff; margin-top:26px;"]
 kesh.bg##.info
 kik-info.com###banner2
-kjplus.net##.sidebar
 knnews.bg###banners_position_2
 knnews.bg###banners_position_3
 knnews.bg###banners_position_4
@@ -885,7 +889,9 @@ lifestyle.ibox.bg###divbh1.lfs-top-banner-holder
 mail.bg###main-billboard-spacer
 managerteams.com###footer_inner_wrapper
 media.easyads.bg##.easy_ads_main
+mediapool.bg##.banner
 mediapool.bg##.banner_header_right
+mediapool.bg##.etarget_container
 mediapool.bg##.header_banner_container
 menumag.bg###banner-234-90
 menumag.bg##.content-advertisement
@@ -902,7 +908,6 @@ music-bg.info###showimage
 muzichka.eu###showimage
 muzichka.eu##.smsbaner
 myonvideo.com###topbar
-nakino.eu###WPS_popup_message
 nakratko.bg##.square-banner.topmargin
 nakratko.bg##.square-banner.topmargin.alignright
 nbp.bg##.mom-e3lanat-inner
@@ -927,10 +932,10 @@ news.ibox.bg##.nws-commercial-column
 novini.bg###aax_if_aax_\/26641721\/novini\.bg_branding_megaboard
 novini.bg##.line_banner
 novini.dir.bg##.ispace
-novinite711.com##[style="margin: 8px 0px;"]
-novinite711.com##[style="text-align: center; margin: 8px auto;"]
 novinite.bg##.banner640
 odit.info###b300
+offnews.bg##.ads-25
+offnews.bg##.ads-60-r
 pari.bg##.bannerbox
 pari-ot-internet-bg.com###login_popup_content
 pari-ot-internet-bg.com##.module.borderwrap
@@ -957,6 +962,8 @@ politikata.net##DIV[style="width:728px; height:90px;"]
 politikata.net##[style="width:300px;height:250px;"]
 politikata.net##[style="width:300px;height:600px;"]
 politikata.net##[style="width:728px;height:90px;"]
+pozvanete.bg##div[style="width: 728px; height: 90px; overflow: hidden;"]
+pozvanete.bg##.left-sidebar-banner.box
 pravatami.bg###bannersdesktop
 prikachi.com###banner
 prnew.info##.advertisement
@@ -973,7 +980,6 @@ ruse-news.com##.bigbanner
 ruse-news.com##.verticalbanner
 samokov365.com###tcvn-banner-slider215
 samokov365.com###topbar
-search.bivol.bg##.row.text-center.mt20
 sedmica.sliven.net###right
 segabg.com###advert_id
 serialmaniq.com###\5f _dimScreen
@@ -996,7 +1002,6 @@ smolyandnes.com##.banneritem
 smolyandnes.com###gkBannerTop
 sofia.topnovini.bg###block-panels-mini-leaderboard-banners
 spesti.bg##.adv
-stara-bulgaria.eu##DIV[style="width:300px; height:600px;"]
 struma.com##DIV[style="margin-bottom:10px"]
 struma.com##.Footer
 submatrixs.ovo.bg###banner
@@ -1015,7 +1020,6 @@ troll.bg###top-s300
 troyan21.com###HTML2.widget.HTML
 trud.bg##A[href*="mediamall.bg"]
 try.bg##.g300x600single
-tv7.bg###NOTJ
 tv.byalareka.com###topbar
 utroruse.com##.container[style="height:105px"]
 utroruse.com###news_ad
@@ -1036,7 +1040,6 @@ vestnici.net##TABLE[height="253"]
 vestnici.net##TABLE[height="600"]
 viaranews.com##.td-container.td-header-row.td-header-header
 vnews.bg##.banner
-vplay7.com###topbar
 webcafe.bg##.popup-back
 ###xenium_hot_offers
 yavka.net##.topadd_bar
