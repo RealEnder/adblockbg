@@ -41,6 +41,7 @@ adds.svetu.com/banners/
 adsy.mail.bg
 adv.abv.bg
 ||advbg.do.am/banners/
+advertere.zamunda.net/www/images/
 adv.gepime.com
 ||afera.bg/280x190*
 ||afera.bg/banner*
@@ -83,6 +84,7 @@ as.adwise.bg/j/context3rd.jsp
 ||astrohoroscope.info/reklama/
 ||autoclub.bg/Files/Baners/
 ||autoclub.bg/images/bg_body-*
+||autonews.bg/Files/Baners/
 ||auto-press.net/img/top_banner/
 ||avetorrents.com/pic/positions/
 ||avtocatalog.org/banerss/
@@ -404,6 +406,9 @@ media.winbetaffiliates.bg/uploads/
 ||pcmania.bg/banners/
 p.energy-torrent.com/themes/Silver/images/bg.jpg
 ||photo-forum.net/static/banner/
+||pia-news.com/wp-content/uploads/2022/05/oe-looking-for.png
+||pia-news.com/wp-content/uploads/*banner*
+||pia-news.com/wp-content/uploads/*/pia-vision*
 ||picbg.net/center-banner.php
 ||picbg.net/up-banner.php
 ||pics.freeiz.com/baner
@@ -631,6 +636,7 @@ webmoney.borsa.bg/BannerFactory.php5
 ||zagoranews.bg/wp-content/uploads/2015/05/Medina-Med-Banner-Side-.jpg
 ||zajenata.bg/img/brand/*
 ||zamunda.net/*banner*
+||zamunda.net/pic/img4/bitbucket/58955/1578729817_2627350.jpg
 ||zamunda.net/pic/img4/bitbucket/uploads/1652857541_8079278.png
 ||zapernik.com/wp-content/uploads/2016/09/153.jpg
 ||zapernik.com/wp-content/uploads/2021/06/baner_prekasvania_300_250px_arial.jpg
@@ -657,6 +663,8 @@ webmoney.borsa.bg/BannerFactory.php5
 abv.bg###aukcion
 abv.bg##iframe[src="/app/j/banner.jsp"]
 abv.bg###rowAdv
+account-bg.info##.adsbygoogle
+account-bg.info##td[style="width: 100%; vertical-align:top;"]
 actualno.com###banner_2
 actualno.com###banner_3
 actualno.com##.white_box.right_box.actual_offers
@@ -693,8 +701,6 @@ arenabg.com###spot-5
 as.adwise.bg###adwbanner300x250
 as.adwise.bg##.adwiseBlock
 autoclub.bg###banerdqsno
-autoclub.bg###banerdqsno
-autoclub.bg###bglink
 autoclub.bg###bglink
 balkanec.bg##.banner_new
 banker.bg##.superbanner.text-center.hidden-xs
@@ -779,11 +785,8 @@ dnevnik.bg###ad_lb_atf
 dnevnik.bg###ban300x250
 dnevnik.bg##.banner
 dnevnik.bg##.banner-box
-dnevnik.bg##.banner-box
-dnevnik.bg##.module.long-scroll
 dnevnik.bg##.module.long-scroll
 dnevnik.bg##.paidAdvert
-dnevnik.bg##.smodule
 dnevnik.bg##.smodule
 download.bg##.adv
 econ.bg##.adv
@@ -904,10 +907,6 @@ news.bg##.banners
 news.bg###gpt-banner-1-desktop
 news.bg###gpt-banner-4_ad_container
 news.bg##ins[style="width: 970px; height: 250px; display: block; position: relative; border: 0px none;"]
-news.bg##ins[style="width: 970px; height: 250px; display: block; position: relative; border: 0px none;"]
-news.bg##ins[style="width: 970px; height: 250px; display: block; position: relative; border: 0px none;"]
-news.bg##ins[style="width: 970px; height: 250px; display: inline-table; position: relative; border: 0px none; vertical-align: bottom;"]
-news.bg##ins[style="width: 970px; height: 250px; display: inline-table; position: relative; border: 0px none; vertical-align: bottom;"]
 news.bg##ins[style="width: 970px; height: 250px; display: inline-table; position: relative; border: 0px none; vertical-align: bottom;"]
 newshub.bg###banner-top
 news.ibox.bg###GoogleAdSense
@@ -1033,7 +1032,6 @@ zajenata.bg###brand
 zajenata.bg##.shop_box
 zajenata.bg###trendo_branding
 zamunda.net##.clear[width="80"]
-zamunda.net##.iframe
 zamunda.net##.iframe
 zamunda.net###rssnews
 zavedenia.com###bottomBanner
