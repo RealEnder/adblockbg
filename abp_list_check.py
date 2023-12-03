@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# (c) Alex Stanev <alex@stanev.org>, http://stanev.org/abp
+# (c) Alex Stanev <alex@stanev.org>, https://stanev.org/abp
 # The source code is distributed under GPLv3 license
 import sys
 import os.path
@@ -8,7 +8,7 @@ import socket
 from urllib.request import urlopen
 from urllib.error import HTTPError, URLError
 
-print('Check AdBlockPlus filters for outdated entries\nver 0.3 (c) Alex Stanev, http://stanev.org/abp\n')
+print('Check AdBlockPlus filters for outdated entries\nver 0.3 (c) Alex Stanev, https://stanev.org/abp\n')
 
 if len(sys.argv) != 2:
     print('Usage: %s [abp_list.txt]' % sys.argv[0])
@@ -54,7 +54,7 @@ for line in abplist:
     if rline.startswith(('http://', 'https://')):
         print('%i: Consider removing protocol identificator : %s' % (curr, line), end='')
     else:
-        rline = 'http://' + rline
+        rline = 'https://' + rline
     
     url = urllib.parse.urlparse(rline)
 
