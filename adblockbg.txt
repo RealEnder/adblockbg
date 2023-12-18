@@ -86,6 +86,7 @@ as.adwise.bg/j/context3rd.jsp
 b1.alo.bg/www/images/88ab118ca1043fab0f9d62295b6e017a.png
 ||bacchus.bg/img/baner_*.jpg
 ||barometar.net/wp-content/uploads/2011/03/
+baxter.olx.org/_assets/videojsima/
 ||beaverscripts.com/openwindow.js?puurl=http://worldcup.sportal.bg/news
 ||befsa.com/banners/
 beis.bia-bg.com/images/baner*
@@ -879,6 +880,7 @@ odit.info###b300
 offnews.bg##.ads-25
 offnews.bg##.ads-60-r
 olx.bg##.baxter-placeholder--ad--baxter-right-first
+olx.org##[data-testid="qa-advert-slot"]
 pari.bg##.bannerbox
 petel.bg##.ads-caption
 petel.bg###banner_right_bottom
