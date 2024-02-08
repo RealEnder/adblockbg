@@ -896,7 +896,7 @@ novinite.bg##.banner640
 odit.info###b300
 offnews.bg##.ads-25
 offnews.bg##.ads-60-r
-olx.bg##.baxter-placeholder--ad--baxter-right-first
+olx.bg###baxter-right-first
 pari.bg##.bannerbox
 petel.bg##.ads-caption
 petel.bg###banner_right_bottom
