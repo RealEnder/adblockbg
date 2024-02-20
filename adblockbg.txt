@@ -229,8 +229,6 @@ cdn.plus500.com/Media/Banners/
 ||frognews.bg/images/adv/
 ||frognews.bg/media/rekl/
 ||ftech-bg.com/images/*banner*
-||gabarko.eu/wp-content/uploads/2022/03/$image
-||gabarko.eu/wp-content/uploads/2023/12/$image
 ||gabrovonews.bg/wp-content/themes/gabrovonews/images/banners/
 ||gabrovonews.bg/wp-content/uploads/2016/07/krasota.jpg
 ||gabrovonews.bg/wp-content/uploads/2016/08/coco.jpg
@@ -805,6 +803,8 @@ frognews.bg##.topfrog-ads-blk
 frognews.bg##.top-news-area-ad
 frognews.bg##.top-news-area-ad.brc
 gabarko.eu##.clean-gallery-side-widget.clean-gallery-box.widget.gabar-widget
+gabarko.eu##img[src="https://www.gabarko.eu/wp-content/uploads/2022/03/po-profesia-drevar-4.jpg"]
+gabarko.eu##img[src="https://www.gabarko.eu/wp-content/uploads/2023/12/1015643.jpg"]
 gbg.bg##.adv.adwise
 gbg.bg##DIV[style="margin: 0 0 20px; height: 250px; width: 300px;"]
 gbg.bg###hotOffBg
