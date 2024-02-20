@@ -778,18 +778,25 @@ filternews.bg##.td_block_wrap.td-a-rec.td-a-rec-id-custom-spot.td-a-rec-img.tdi_
 filternews.bg##.td_block_wrap.td-a-rec.td-a-rec-id-custom-spot.td-a-rec-img.tdi_242.td_block_template_10
 filternews.bg##.vc_column.tdi_30.wpb_column.vc_column_container.tdc-column.td-pb-span12
 flash-igri.com##.box-pink
+forum.framar.bg##div.bnr.forum_r_box:nth-of-type(1)
+forum.framar.bg##div.bnr.forum_r_box:nth-of-type(2)
+framar.bg##.c.box.column.banner-box.js-banner-box
 framar.bg###facebox_games_mess
 framar.bg###popup-ad
 frognews.bg##.article-after-comments-ad
 frognews.bg##.article-after-text-ad
 frognews.bg##.article-before-donate-ads
 frognews.bg##.boxw100.advleft
+frognews.bg##.business-ads
+frognews.bg##div[class$="area-ad"]
 frognews.bg##div[style="padding-bottom:15px;"]
+frognews.bg##div.topfrog-ads-blk-hl.wide
 frognews.bg##.etarget_middle_after
 frognews.bg##.etarget_right_top
 frognews.bg###h_adv
 frognews.bg##.h_adv.ad-elm
 frognews.bg##.health-ad-blk
+frognews.bg##.health-ads-blk.wide
 frognews.bg##.innewads
 frognews.bg##.inside-area-right-bottom-ad
 frognews.bg##.inside-area-right-middle-ad
@@ -911,6 +918,9 @@ peter.and.bilyana.net##div[style="padding-top:30px;padding-bottom:30px;"]
 photo-forum.net###banner_top
 photo-forum.net###header_img_right
 pik.bg###brand
+pik.bg##div.left.connected-news-wrap:nth-of-type(2) > .left.connected-news
+pik.bg##[href^="https://record.winbetaffiliates.com/"]
+pik.bg###indexTopRightBox > div.center.w100.left.banners_300x250
 pirinsko.com##.slidingBanners
 plevenzapleven.bg###mainscollertd
 plovdiv24.bg###flygrabo
