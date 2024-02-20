@@ -54,7 +54,7 @@ for line in abplist:
     if rline.startswith(('http://', 'https://')):
         print('%i: Consider removing protocol identificator : %s' % (curr, line), end='')
     else:
-        rline = 'https://' + rline
+        rline = 'http://' + rline
     
     url = urllib.parse.urlparse(rline)
 
