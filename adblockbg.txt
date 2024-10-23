@@ -678,6 +678,17 @@ webmoney.borsa.bg/BannerFactory.php5
 ||zdrave.net/document/banner/
 ||zepir.com/storage/banners/
 ||zopplus.com/wp-content/uploads/*366x280*
+||zovnews.com/wp-content/uploads/2018/08/300-x-300-1.png
+||zovnews.com/wp-content/uploads/2018/08/300x300-300x263.jpeg
+||zovnews.com/wp-content/uploads/2018/08/baner_DiChStudio-1.jpg
+||zovnews.com/wp-content/uploads/2018/08/chehplast1.jpg
+||zovnews.com/wp-content/uploads/2018/08/%D0%B1%D0%B0%D0%BD%D0%B5%D1%80-%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB-%D0%BA%D1%80%D0%B8%D0%B2%D0%BE%D0%B4%D0%BE%D0%BB-zovnews.png
+||zovnews.com/wp-content/uploads/2018/08/dps-logo-300%D1%85300.jpg
+||zovnews.com/wp-content/uploads/2018/08/IMG_7647.jpeg
+||zovnews.com/wp-content/uploads/2018/08/zaistinatafinal.jpg
+||zovnews.com/wp-content/uploads/2020/10/ponte-dio-e1644660250495.jpg
+||zovnews.com/wp-content/uploads/2022/03/banner-DPRAO-2022-1.jpg
+||zovnews.com/wp-content/uploads/2024/06/Digital-Marketing-Strategy-From-Evol.bg_.png
 !
 !--- Specific element hiding rules ---!
 24chasa.bg##A[href*="mediamall.bg"]
@@ -1127,7 +1138,6 @@ zovnews.com##.banner_top
 @@||seirsanduk.com/ad-server.js
 @@||serialmaniq.com
 @@slotbg.com/images/adds/*
-@@||sportal.bg/uploads/video_advertising/
 @@||subsmania.info
 @@||webnews.bg/assets/js/ads.js$script
 @@||webnews.bg/assets/js/min/dfp.js$script,domain=news.bg|lifestyle.bg|topsport.bg
