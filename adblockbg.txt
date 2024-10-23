@@ -77,8 +77,6 @@ advertere.zamunda.net/www/images/
 ||amam.bg/bans/
 ||androidbg.com/banner*
 ||animes3000.net/work/
-||anteni.info/wp-content/uploads/2023/10/GoTaxi.jpg
-||anteni.info/wp-content/uploads/2023/11/Live_Vitamins_baner-scaled.jpg
 ||ardanews.info/banners/
 as.adwise.bg/j/context3rd.jsp
 ||astrohoroscope.info/reklama/
@@ -140,9 +138,6 @@ bravo.btv.bg/banners/
 ||briag.bg/uploads/wysiwyg/images/Site%20abonament%202020jpg_Page1.jpg
 ||bsms.bg/images/upload/banner/
 ||bueno.bg/affiliates/
-||bukvi.bg/banner*
-||bukvi.bg/Design/banner*
-||bukvi.bg/images/promo*
 bulgaria.utre.bg/images/banners
 ||bulnews.bg/adds/*
 ||bulnews.bg/uploads/2488401fd8570b2523931ed2434793fce898a151.jpeg
@@ -185,7 +180,6 @@ cdn.plus500.com/Media/Banners/
 ||dobrichonline.com/media/banners/
 ||dobrudjabg.com/upload/banners/
 ||doctorbg.com/thumb.php?src=/data/Image/banners/
-||download.bg/adfiles/
 ||draftis.com/b/
 ||dtv-bg.com/banners/
 ||dtv-bg.com/images/razni/XC_new_one.png
@@ -198,8 +192,6 @@ cdn.plus500.com/Media/Banners/
 ||e-burgas.com/wp-content/uploads/*banner*
 ||economy.bg/images/branding/
 ||economynews.bg/website_uploads/Image/theme/euro_atak/
-||e-firmi.com/images/lasik.jpg
-||e-firmi.com/images/smetkoplan.png
 ||elhovo.news/wp-content/uploads/2018/12/glob.jpg
 ||elhovo.news/wp-content/uploads/2018/12/nts.gif
 ||energy-torrent.com/img/filement.jpg
@@ -277,7 +269,6 @@ i.imgur.com/qkzxpQr.jpg
 i.imgur.com/RnuCI1h.png
 image.arukereso.hu/partner/
 images.wambacdn.net/images/upload/adv/
-||imenata.com/flash/
 img.abv.bg/AbvProductAds/
 img.imghosting.biz/238/1f12d748b1136f956db50bbabf0dfb70.png
 img.photo-forum.net/banner/
@@ -351,7 +342,6 @@ media.inbetpartners.com/uploads/001x486x60_Sport_PPC.png
 media.iskamdaqm.bg/advertisement/banner/
 ||medialand.bg/banners/
 ||mediamall.info/box/img/studena_banner.jpg
-media.winbetaffiliates.bg/uploads/
 ||medicalbg.com/freenet
 ||mobile.bg/images/brands/
 ||mobilebulgaria.com/uploads/banners/
@@ -362,7 +352,6 @@ media.winbetaffiliates.bg/uploads/
 ||mostbg.com/most/images/*banner.gif
 ||mostbg.com/most/images/mostadsl.gif
 ||mrejata.net/banner*
-||mrejata.us/images/*468_60*
 ||namoreto.bg/wp-content/uploads/2017/08/animiran-baner-CHistota.gif
 ||namoreto.bg/wp-content/uploads/2017/09/Baner-promotsiya-Avtomivka-CHistota.gif
 ||namoreto.bg/wp-content/uploads/2019/06/FREQ-2.jpg
@@ -423,7 +412,6 @@ p.energy-torrent.com/themes/Silver/images/bg.jpg
 ||pia-news.com/wp-content/uploads/*/pia-vision*
 ||picbg.net/center-banner.php
 ||picbg.net/up-banner.php
-||pics.freeiz.com/baner
 ||pitam.info/baneri/
 ||plevenzapleven.bg/mallpleven.png
 ||plevenzapleven.bg/wp-content/uploads/2014/07/tibor.jpg
@@ -570,7 +558,6 @@ sliventribune.files.wordpress.com/2020/06/untitled.jpg
 ||standartnews.com/media/banners/
 ||starfm.bg/banners/
 ||static2.cs-bg.net/*/banners/
-static.bgnes.com:8080/img/bann/
 static.biznes-bulgaria.com/images/banners/
 static.bnr.bg/gallery/01/01c780ef0f95c6c53a504d12fdae95de.gif
 ||static.bnr.bg/gallery/cr/8a741e10a78bb4ae8eee74489fcc0a1e.jpg
@@ -699,17 +686,7 @@ actualno.com###banner_3
 actualno.com##.white_box.right_box.actual_offers
 advokatibg.eu##.mod_bannerslider
 afera.bg##div[align="center"]
-alo.bg###adv_zone_24
-alo.bg###adv_zone_26
-alo.bg###adv_zone_top
-alo.bg###az_after_16
-alo.bg###az_after_6
-alo.bg###az_top_dynamic
-alo.bg##.loadable_div_ajax_loaded
-alo.bg##.under_336_fix_div.loadable_div_ajax_loaded
 animes-bg.com##.banneritem_text
-anteni.info##.td_block_wrap.td-a-rec.td-a-rec-id-custom-spot.td-a-rec-img.tdi_93.td_block_template_3
-anteni.info##.td_block_wrap.td-a-rec.td-a-rec-id-custom-spot.td-a-rec-img.tdi_94.td_block_template_1
 apteka.framar.bg###adr_bot_240
 apteka.framar.bg###wallpaper_half_l
 apteka.framar.bg###wallpaper_half_r
@@ -780,8 +757,6 @@ btv.bg##[id^="banner"]
 btvnovinite.bg##.abw_message
 btvplus.bg##.bda-message
 btvplus.bg###bda-overlay
-bukvi.bg##MARQUEE
-bukvi.bg##TD[style="text-align: center; border: 1px dashed rgb(24, 130, 237); box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.3); padding: 3px;"]
 burgasinfo.com##.right_banner.load-banner
 burgasnews.com##.adv
 burgasnews.com##.td-header-rec-wrap
@@ -830,7 +805,6 @@ dnevnik.bg##.module.long-scroll
 dnevnik.bg##.paidAdvert
 dnevnik.bg##.smodule
 dobrudjabg.com##.banner-widget1-1
-download.bg##.adv
 econ.bg##.adv
 elmaz.com##.kare.top10
 etapgroup.com##.banner
