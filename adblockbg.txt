@@ -157,7 +157,6 @@ bulgaria.utre.bg/images/banners
 ||bulnews.bg/vino/
 ||bulphoto.com/banners/
 ||burgasinfo.com/ajax/getbanners/
-||burgasnews.com/wp-content/uploads/2019/01/vlas-reklama1.jpg
 ||burgasnews.com/wp-content/uploads/*300x250*
 ||burgasnews.com/wp-content/uploads/*480_100*.*
 ||burgasnews.com/wp-content/uploads/*/630x100.*
@@ -229,7 +228,6 @@ cdn.plus500.com/Media/Banners/
 ||freehost.homelinux.*/autoh/
 ||freehost.homelinux.*/fg/
 ||freehost.homelinux.*/zundert
-||freelance.bg/images/exchange/freelance-jobs.gif
 ||frognews.bg/files/720_90*
 ||frognews.bg/files/banner
 ||frognews.bg/files/logo_slt.jpg
@@ -576,7 +574,6 @@ static.petel.bg/media/banners/
 static.petel.bg/resources/2020/01/27/iright_Niramar-zaglavna.jpg
 ||stelki.bg/userfiles/editor/flash/*710x90*
 ||store.bg/ads/
-||studiolight-bg.com/_tmp/Banner.gif
 ||stz24.com/template/stz24/banner/*
 subs.sab.bz/images/BANER.jpg
 subs.sab.bz/images/lev_ok.gif
