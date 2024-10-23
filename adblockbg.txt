@@ -154,7 +154,8 @@ bulgaria.utre.bg/images/banners
 ||burgasnews.com/wp-content/uploads/*/630x100.*
 ||business.bg/site_files/d-sitebanners/
 ||catalog.bg/images/banner
-||cdn4.focus.bg/fakti/*$domain=bazar.bg
+cdn*.focus.bg/mobile/assets/svg/fakti-logo.svg$image*$domain=mobile.bg
+cdn*.focus.bg/fakti/*$domain=bazar.bg|mobile.bg
 cdn.plus500.com/Media/Banners/
 ||climbingguidebg.com/adv/
 ||club9000.org/banners/
@@ -868,6 +869,17 @@ miau.bg##.giwrp
 miau.bg###mplx
 miau.bg##.rkl
 mikrotik-bg.net##.customContent
+m.mobile.bg##baner
+m.mobile.bg##.btnRedLine
+m.mobile.bg##div.page > .listItem > .stretch
+m.mobile.bg##div.page:nth-of-type(2) > div.listItem:nth-of-type(3) > .stretch
+m.mobile.bg##div.page:nth-of-type(2) > div.listItem:nth-of-type(4) > .stretch
+m.mobile.bg##div.page:nth-of-type(2) > div.listItem:nth-of-type(5) > .stretch
+m.mobile.bg##div.page:nth-of-type(2) > div.listItem:nth-of-type(6) > .stretch
+m.mobile.bg##div.page:nth-of-type(2) > .listItemBIG > .stretch
+m.mobile.bg##div.page:nth-of-type(2) > .pageTitle
+m.mobile.bg##.photo > .date
+mobile.bg##.show.zaplata-footer > [href="https://www.zaplata.bg"]
 money.bg##.banner
 money.bg###gpt-banner-1-desktop
 money.bg##.mny-header-banner
@@ -999,6 +1011,7 @@ vestnici.net##TABLE[height="600"]
 viaranews.com##.td-container.td-header-row.td-header-header
 vnews.bg##.banner
 webcafe.bg##.popup-back
+www.mobile.bg##fakti
 ###xenium_hot_offers
 yavka.net##.bar_topadd
 yavka.net##.topadd_bar
