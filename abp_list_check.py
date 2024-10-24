@@ -74,23 +74,23 @@ for line in abplist:
             path = path[:path.rfind('/')]
     
     #access the resource
-    #print(url[0]+'://'+url[1]+path)
-    try:
-        urlopen(url[0]+'://'+url[1]+path)
-    except HTTPError as e:
-        if e.code in (404, 410):
-            no_res += 1
-            print('%i: %i Resource not found : %s' % (curr, e.code, line), end='')
-        if e.code >= 500:
-            print('%i: %i Server error : %s' % (curr, e.code, line), end='')
-    except URLError as e:
-        no_conn += 1
-        print('%i: %s : %s : %s' % (curr, e.reason, line.strip(), url[0]+'://'+url[1]+path.strip()))
-    except Exception:
-        None
-    except KeyboardInterrupt as ex:
-        print('Keyboard interrupt')
-        break
+    for domain in url[1].split(','):
+        try:
+            urlopen(url[0]+'://' + domain + path)
+        except HTTPError as e:
+            if e.code in (404, 410):
+                no_res += 1
+                print('%i: %i Resource not found : %s' % (curr, e.code, line), end='')
+            if e.code >= 500:
+                print('%i: %i Server error : %s' % (curr, e.code, line), end='')
+        except URLError as e:
+            no_conn += 1
+            print('%i: %s : %s : %s' % (curr, e.reason, line.strip(), url[0] + '://' + domain + path.strip()))
+        except Exception:
+            None
+        except KeyboardInterrupt as ex:
+            print('Keyboard interrupt')
+            break
                 
 abplist.close()
 
