@@ -28,7 +28,6 @@ com.nxtras.banner.ImageRotator
 !
 !--- Specific rules ---!
 ||24ins.bg/affiliate/
-||2.bp.blogspot.com/-UADJQHdxicg/W13ZF2MBX0I/AAAAAAAAAc4/qZRFIeU7HOIxU0XxMbVRksXBYYD-D4phQCLcBGAs/s1600/8.jpg
 ||360.bg/baner*
 ||4bg.info/*banner*
 a.actualno.com
@@ -147,7 +146,6 @@ bulgaria.utre.bg/images/banners
 ||bulnews.bg/uploads/71871148362c8ea73ffa0c025b1963493b669f31.jpeg
 ||bulnews.bg/uploads/7cbe411f841fdbf6a5ec96988ac4fb7705d04157.gif
 ||bulnews.bg/uploads/a5936ec73c18fc604b855f3c1ff72506b9724553.png
-||bulnews.bg/uploads/b1689d67fb55dcefc79fa68c5221c8d854c1cdbb.jpeg
 ||bulnews.bg/uploads/c623683e0dfc94df684d3bf46dab620d9ab258d9.png
 ||bulnews.bg/uploads/cebadd89298c8d41b5e3daa2ec2f6fa736257cd6.jpeg
 ||bulnews.bg/uploads/d95c4f29c9b6b27ad70548801456c51f2da9abe8.png
@@ -546,8 +544,8 @@ r*.dir.bg/js_myads.php
 ||slivenpress.bg/images/banners/
 slivensega.files.wordpress.com/2014/11/sk.jpg
 slivensega.files.wordpress.com/*w=466&h=140*
-slivensega.files.wordpress.com/*?w=466&h=233*
-slivensega.files.wordpress.com/*w=466&h=369
+slivensega.files.wordpress.com/*w=466&h=233*
+slivensega.files.wordpress.com/*w=466&h=369*
 sliventribune.files.wordpress.com/2020/06/untitled.jpg
 ||smartnews.bg/wp-content/uploads/*anner*
 ||smolyandnes.com/photo_gallery/archive_photos/archive_photos/archive_photos/archive_photos/archive_photos/archive_photos/banners
@@ -624,7 +622,6 @@ subs.sab.bz/images/lev_ok.gif
 ||varna-bulgaria.info/wp-content/uploads/2013/06/kayak_trip_Varna.jpg
 ||varna-sport.com/wp-content/themes/supermag/assets/img/supermag-new-ad.png
 ||varna-sport.com/wp-content/uploads/2019/05/DER_Touristik_Charters_Airlanes_final_2018.gif
-||vbox7.com/adwise/
 ||veliko-tarnovo.net/static/aleks-ok.jpg
 ||veliko-tarnovo.net/static/reklamirai.jpg
 ||venera.bg/images/1/6/2650.jpg
@@ -654,9 +651,6 @@ webmoney.borsa.bg/BannerFactory.php5
 ||xn--80aagchfanjcc6aftsr6a.com/images/banners/
 ||yambolnews.net/images/banners/
 ||yavka.net/abis/
-||yavka.net/technolux/
-||yavka.net/toner/
-||yavka.net/tonerr/
 ||zadoma.com/res/standard/img/baneri
 ||zagoranews.bg/wp-content/uploads/2015/05/Medina-Med-Banner-Side-.jpg
 ||zajenata.bg/img/brand/*
