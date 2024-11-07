@@ -479,6 +479,7 @@ r*.dir.bg/js_myads.php
 ||rechnik-bg.com/images/banner*
 ||regiona.bg/images/banners/
 ||regnews.net/img/bg_ipocredit.png
+||regnews.net/pic/banners/
 ||regnews.net/user_pic/flash/*
 ||regnews.net/user_pic/images/banners/
 ||renault-bg.com/smf/bn/
