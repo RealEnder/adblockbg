@@ -32,7 +32,6 @@ com.nxtras.banner.ImageRotator
 ||360.bg/baner*
 ||4bg.info/*banner*
 a.actualno.com
-a.actualno.com/*
 ||abcnews.bg/user_pic/files/Absolute/index.html
 ||account-bg.info/e107/e107_images/banners/
 ||actualno.com/actualno-arena-baner*
