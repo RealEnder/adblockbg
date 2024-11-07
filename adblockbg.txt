@@ -31,6 +31,7 @@ com.nxtras.banner.ImageRotator
 ||2.bp.blogspot.com/-UADJQHdxicg/W13ZF2MBX0I/AAAAAAAAAc4/qZRFIeU7HOIxU0XxMbVRksXBYYD-D4phQCLcBGAs/s1600/8.jpg
 ||360.bg/baner*
 ||4bg.info/*banner*
+a.actualno.com
 a.actualno.com/*
 ||abcnews.bg/user_pic/files/Absolute/index.html
 ||account-bg.info/e107/e107_images/banners/
@@ -158,12 +159,12 @@ bulgaria.utre.bg/images/banners
 ||bulphoto.com/banners/
 ||burgasinfo.com/ajax/getbanners/
 ||burgasnews.com/wp-content/uploads/*300x250*
-||burgasnews.com/wp-content/uploads/*480_100*.*
-||burgasnews.com/wp-content/uploads/*/630x100.*
+||burgasnews.com/wp-content/uploads/*480_100*
+||burgasnews.com/wp-content/uploads/*630x100*
 ||business.bg/site_files/d-sitebanners/
 ||catalog.bg/images/banner
 cdn*.focus.bg/fakti/*$domain=bazar.bg|mobile.bg
-cdn*.focus.bg/mobile/assets/svg/fakti-logo.svg$image*$domain=mobile.bg
+cdn*.focus.bg/mobile/assets/svg/fakti-logo.svg$image,$domain=mobile.bg
 cdn.plus500.com/Media/Banners/
 ||climbingguidebg.com/adv/
 ||club9000.org/banners/
@@ -569,6 +570,7 @@ sliventribune.files.wordpress.com/2020/06/untitled.jpg
 static.biznes-bulgaria.com/images/banners/
 static.bnr.bg/gallery/01/01c780ef0f95c6c53a504d12fdae95de.gif
 ||static.bnr.bg/gallery/cr/8a741e10a78bb4ae8eee74489fcc0a1e.jpg
+static.dir.bg/trendo/$subdocument
 static.mbclub.bg/banners/
 static.petel.bg/media/banners/
 static.petel.bg/resources/2020/01/27/iright_Niramar-zaglavna.jpg
