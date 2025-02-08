@@ -247,6 +247,13 @@ cdn.plus500.com/Media/Banners/
 ||gabrovonews.bg/wp-content/uploads/2016/10/abba.png
 ||gabrovonews.bg/wp-content/uploads/2016/11/HM-Opening-Gabrovo-LED-Banner-300x600-2.jpg
 ||gabrovonews.bg/wp-content/uploads/2016/12/mall-gabrovo.jpg
+||gabrovonews.bg/wp-content/uploads/2022/11/202474571_4061422863941981_8300470903894328589_n-%E2%80%93-%D0%9A%D0%BE%D0%BF%D0%B8%D0%B5.jpg
+||gabrovonews.bg/wp-content/uploads/2024/10/eeeee.jpg
+||gabrovonews.bg/wp-content/uploads/2024/12/407594141_864522039008427_3949452247729892649_n-%E2%80%93-%D0%9A%D0%BE%D0%BF%D0%B8%D0%B5.jpg
+||gabrovonews.bg/wp-content/uploads/2025/01/%D0%92%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%823-1024x171-1.jpg
+||gabrovonews.bg/wp-content/uploads/2025/01/%D0%92%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%823-1024x171-2.jpg
+||gabrovonews.bg/wp-content/uploads/2025/01/titan-za-nas.png
+||gabrovonews.bg/wp-content/uploads/*/baner*
 ||gamemasters.eu/home/wp-content/themes/StudioBlue/images/banners/*
 ||gbg.bg/resources/html/aukro_*
 ||giphy.com$domain=dennews.bg
@@ -818,6 +825,7 @@ dev.bg##.widget-1.widget-odd.widget.widget_media_image
 dev.bg##.widget-3.widget-odd.widget.widget_media_image
 dev.bg##.widget-4.widget-even.widget-alt.widget.widget_media_image
 dir.bg##.ispace
+divident.eu##.aside-order-banners
 djagi.com###aswift_0
 djagi.com###aswift_0_anchor
 djagi.com###aswift_0_expand
