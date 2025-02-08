@@ -413,7 +413,6 @@ media.iskamdaqm.bg/advertisement/banner/
 ||obiavite.eu/banner/
 ||obiavite.eu/reklama/
 ||okoffice.bg/uploads/banners/
-||onovini.eu/wp-content/uploads/2020/11/swissski.jpg
 ||pa-media.net/e107_images/generic/jobsora_banner1.png
 ||pa-media.net/e107_images/generic/rais_logo.jpg
 ||pari.bg/bannercache
@@ -658,7 +657,6 @@ subs.sab.bz/images/lev_ok.gif
 ||vratsa.eu/user_pic/images/banner*
 ||vsichkotok.bg/images/*232x200*
 ||webdesign-bulgaria.com/images/banners
-||web.dobg.net/banners/
 webmoney.borsa.bg/BannerFactory.php5
 ||webnews.bg/uploads/files/
 ||websitepr.eu/baneri-site/
@@ -922,7 +920,6 @@ lex.bg##.banner468_60
 lex.bg##DIV[style="margin: auto; background-color: transparent; border-width: 0px; width: 300px; height: 250px;"]
 lifehacker.bg###header_banner
 lifestyle.bg###gpt-banner-1-desktop
-lifestyle.ibox.bg###divbh1.lfs-top-banner-holder
 mail.bg###main-billboard-spacer
 managerteams.com###footer_inner_wrapper
 media.easyads.bg##.easy_ads_main
@@ -1070,7 +1067,6 @@ smolyandnes.com###gkBannerTop
 sofia.topnovini.bg###block-panels-mini-leaderboard-banners
 struma.com##DIV[style="margin-bottom:10px"]
 struma.com##.Footer
-subsmania.info##.blogname
 subs.sab.bz##.mediain
 subsunacs.net##IMG:first-child:last-child
 svejo.net###hot_offers
@@ -1151,9 +1147,7 @@ zovnews.com##.banner_top
 @@/securepubads.$domain=news.bg|lifestyle.bg|topsport.bg
 @@||seirsanduk.com^$document
 @@||seirsanduk.com/ad-server.js
-@@||serialmaniq.com
 @@slotbg.com/images/adds/*
-@@||subsmania.info
 @@||webnews.bg/assets/js/ads.js$script
 @@||webnews.bg/assets/js/min/dfp.js$script,domain=news.bg|lifestyle.bg|topsport.bg
 @@||zopplus.com/wp-content/themes/zop/js/advertisement.js
