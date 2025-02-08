@@ -1053,7 +1053,6 @@ sofia.topnovini.bg###block-panels-mini-leaderboard-banners
 struma.com##DIV[style="margin-bottom:10px"]
 struma.com##.Footer
 subsmania.info##.blogname
-subs.sab.bz###adv
 subs.sab.bz##.mediain
 subsunacs.net##IMG:first-child:last-child
 svejo.net###hot_offers
