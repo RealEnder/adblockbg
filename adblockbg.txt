@@ -161,7 +161,7 @@ bulgaria.utre.bg/images/banners
 ||business.bg/site_files/d-sitebanners/
 ||catalog.bg/images/banner
 cdn*.focus.bg/fakti/*$domain=bazar.bg|mobile.bg
-cdn*.focus.bg/mobile/assets/svg/fakti-logo.svg$image,$domain=mobile.bg
+cdn*.focus.bg/mobile/assets/svg/fakti-logo.svg$image,domain=mobile.bg
 cdn.plus500.com/Media/Banners/
 ||climbingguidebg.com/adv/
 ||club9000.org/banners/
