@@ -229,6 +229,7 @@ cdn.plus500.com/Media/Banners/
 ||forumat-bg.com/images/banners
 ||framar.bg/ads/wp/
 ||framar.bg/filestore/*729x90.jpg
+||free.bg/970x90.gif$image
 ||freehost.homelinux.*/autoh/
 ||freehost.homelinux.*/fg/
 ||freehost.homelinux.*/zundert
@@ -863,6 +864,7 @@ forum.framar.bg##div.bnr.forum_r_box:nth-of-type(2)
 framar.bg##.c.box.column.banner-box.js-banner-box
 framar.bg###facebox_games_mess
 framar.bg###popup-ad
+free.bg##a[href="https://xn--80aavecgepdebk.xn--90ae/"]
 frognews.bg##.article-after-comments-ad
 frognews.bg##.article-after-text-ad
 frognews.bg##.article-before-donate-ads
