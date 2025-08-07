@@ -273,6 +273,7 @@ i.imgur.com/qkzxpQr.jpg
 i.imgur.com/RnuCI1h.png
 image.arukereso.hu/partner/
 images.wambacdn.net/images/upload/adv/
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=btvplus.bg
 img.abv.bg/AbvProductAds/
 img.imghosting.biz/238/1f12d748b1136f956db50bbabf0dfb70.png
 img.photo-forum.net/banner/
@@ -772,9 +773,12 @@ borbabg.com##.widget.widget_media_image
 briag.bg##.col-lg-12.col-md-12.col-sm-12.col-xs-12
 btv.bg##.abw_message
 btv.bg##[id^="banner"]
+btv.bg##.is-advertisement
+btv.bg##.title-ad
 btvnovinite.bg##.abw_message
 btvplus.bg##.bda-message
 btvplus.bg###bda-overlay
+btvplus.bg##.bweb-gpt
 bulnews.bg##div[style="width: 1330px; text-align: right; text-decoration: underline; cursor: pointer;"]
 burgasinfo.com##.right_banner.load-banner
 burgasnews.com##.adv
@@ -1147,5 +1151,6 @@ zovnews.com##.banner_top
 @@slotbg.com/images/adds/*
 @@||webnews.bg/assets/js/ads.js$script
 @@||webnews.bg/assets/js/min/dfp.js$script,domain=news.bg|lifestyle.bg|topsport.bg
+@@||www.btv.bg^$elemhide
 @@||zopplus.com/wp-content/themes/zop/js/advertisement.js
 
