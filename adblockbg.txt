@@ -7,7 +7,6 @@
 ! Contact me at alex at stanev dot org
 !
 !--- General rules ---!
-AdsClick.php?AdsID=
 BannerClick.aspx?ID=
 /bannerscstm/*
 /banners/*.jpg$~image
@@ -703,7 +702,6 @@ webmoney.borsa.bg/BannerFactory.php5
 911.bg##.vip-firms
 abv.bg###aukcion
 abv.bg##iframe[src="/app/j/banner.jsp"]
-abv.bg###rowAdv
 account-bg.info##.adsbygoogle
 account-bg.info##td[style="width: 100%; vertical-align:top;"]
 actualno.com###banner_2
@@ -716,7 +714,6 @@ apteka.framar.bg###wallpaper_half_l
 apteka.framar.bg###wallpaper_half_r
 apteka-optima.com##.phAddsText
 arenabg.com##.ads
-arenabg.com##.ads_left
 arenabg.com###banner_11
 arenabg.com###banner_2
 arenabg.com###banner_4
@@ -793,7 +790,6 @@ ciela.net##.ads_small_block
 cinemabg.net###topbar
 club-bg.org###topbar
 crimes.bg###bplay
-crimes.bg##.custom-ad
 crimes.bg###ips-ad
 crimes.bg###setech
 crimes.bg###single_ad
@@ -903,7 +899,6 @@ knnews.bg###banners_position_5
 koimetarsi.com###imCellStyle_151
 ##.lapni-pop-over
 legalworld.bg##.LW-Home-Page-Banner-Top-Right
-lekuva.net##.e3lan-top
 lesno-fakturirane.com##td[class="left_fon"]
 lex.bg##.banner468_60
 lex.bg##DIV[style="margin: auto; background-color: transparent; border-width: 0px; width: 300px; height: 250px;"]
