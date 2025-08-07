@@ -1143,7 +1143,6 @@ zovnews.com##.banner_top
 ~prodavalnik.com###newAd
 @@/pubads_$domain=news.bg|lifestyle.bg|topsport.bg
 @@||puhtml.com$domain=bg-gledai.tv
-~rbb.bg###Ads
 @@s5emagst.akamaized.net/assets/bg/js/ads-*
 @@/securepubads.$domain=news.bg|lifestyle.bg|topsport.bg
 @@||seirsanduk.com^$document
