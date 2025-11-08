@@ -341,6 +341,9 @@ klearprodstorage.blob.core.windows.net/public/blog/links/*
 ||lupa.bg/f/banners/*
 ||lupa.bg/public/300x600/
 ||lupa.bg/public/970x250/
+||lupa.bg/box/img/Sorena_*
+||lupa.bg/box/img/credissimo*
+||lupa.bg/box/img/magnezon*
 media.easyads.bg/ads/
 media.finestre.bg/advertisement/banner/
 media.giphy.com$domain=dennews.bg
@@ -1152,4 +1155,3 @@ zovnews.com##.banner_top
 @@||webnews.bg/assets/js/min/dfp.js$script,domain=news.bg|lifestyle.bg|topsport.bg
 @@||www.btv.bg^$elemhide
 @@||zopplus.com/wp-content/themes/zop/js/advertisement.js
-
