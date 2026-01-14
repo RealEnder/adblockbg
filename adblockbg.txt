@@ -1103,6 +1103,10 @@ vnews.bg##.banner
 webcafe.bg##.popup-back
 www.mobile.bg##fakti
 ###xenium_hot_offers
+xn----8sbafg9clhjcp.bg###banner300250
+xn----8sbafg9clhjcp.bg##.banner620
+xn----8sbafg9clhjcp.bg###banner620300
+xn----8sbafg9clhjcp.bg##.banner620.banner620250
 yavka.net##.bar_topadd
 yavka.net##.topadd_bar
 yavka.net##.topadd_barr
