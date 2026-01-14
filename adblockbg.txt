@@ -37,6 +37,7 @@ adds.svetu.com/banners/
 ||ads*.fixar.org
 adsy.mail.bg
 ||advbg.do.am/banners/
+advertere.zamunda.net/bitbucket/1759236935_demar_280x110_2.jpg
 advertere.zamunda.net/www/images/
 ||afera.bg/280x190*
 ||afera.bg/banner*
@@ -337,13 +338,13 @@ klearprodstorage.blob.core.windows.net/public/blog/links/*
 ||liternet.bg/image/baner/
 ||lukovit-news.com/images/300x250adv*
 ||lukovit-news.com/images/reklama/
+||lupa.bg/box/img/credissimo*
+||lupa.bg/box/img/magnezon*
+||lupa.bg/box/img/Sorena_*
 ||lupa.bg/box/img/zp-300x600-05.png
 ||lupa.bg/f/banners/*
 ||lupa.bg/public/300x600/
 ||lupa.bg/public/970x250/
-||lupa.bg/box/img/Sorena_*
-||lupa.bg/box/img/credissimo*
-||lupa.bg/box/img/magnezon*
 media.easyads.bg/ads/
 media.finestre.bg/advertisement/banner/
 media.giphy.com$domain=dennews.bg
@@ -581,6 +582,7 @@ static.mbclub.bg/banners/
 static.petel.bg/media/banners/
 static.petel.bg/resources/2020/01/27/iright_Niramar-zaglavna.jpg
 ||store.bg/ads/
+||struma.com/banners/*
 ||stz24.com/template/stz24/banner/*
 subs.sab.bz/images/BANER.jpg
 subs.sab.bz/images/lev_ok.gif
@@ -832,6 +834,8 @@ dnevnik.bg##.paidAdvert
 dnevnik.bg##.smodule
 dobrudjabg.com##.banner-widget1-1
 econ.bg##.adv
+economic.bg##.ml-embedded
+economic.bg##.section.section--pb-l
 elmaz.com##.kare.top10
 expert.bg##iframe[style="border: medium none ; margin: 0pt; padding: 0pt; overflow: hidden; width: 300px; height: 250px; border-collapse: collapse;"]
 fakti.bg##div#adsblock-msg
