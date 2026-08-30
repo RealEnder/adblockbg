@@ -890,6 +890,7 @@ gbg.bg###hotOffBg
 gbg.bg##.shadow.block.offers
 gbg.bg###topBanCont
 gbg.bg###topBanner
+gledaitv.*##.adsbygoogle
 gong.bg##.adwise
 hardwarebg.com##TABLE[style="border: 1px solid #000000; margin: 0; padding: 0;"]
 haskovo.net##.page_margin_top.box-with-shadow.wide-banner.wb-content
